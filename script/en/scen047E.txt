@@ -1,0 +1,73 @@
+Langrisser III dumper [0x1de972 to 0x1defdf]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+General<$FFFF>
+Viscount Raymond<$FFFF>
+General Bortz<$FFFF>
+General Emaillink<$FFFF>
+Field Marshal Altemîêler<$FFFF>
+Rigüler Commander<$FFFF>
+General Gaiel<$FFFF>
+General Varna<$FFFF>
+Adjutant Gates<$FFFF>
+Plains of Former Larcuss<$FFFF>
+This is the remnants of the Larcuss army?<$FFFC>
+Impossible, how can they be this strong....<$FFFE>
+Onward!<$FFFC>
+Press onward!<$FFFE>
+For the restoration of our country!<$FFFE>
+Former Larcuss Royal Castle - Currently Imperial Headquarters<$FFFF>
+With this, Larcuss is virtually ours!<$FFFE>
+We've succeeded faster than I thought possible.<$FFFE>
+According to reports I've received, the ruler of a frontier land, Lord Raymond, has raised an army and is striking at the Colcian army.<$FFFE>
+....Such talk is worrisome.<$FFFC>
+For now, continue observation of the Colcian army and the remnants of the Larcuss army.<$FFFE>
+But, with Your Excellency's might, it would be easy to crush these remnants of the Larcuss army.<$FFFE>
+That's still no excuse for negligence, General Bortz.<$FFFE>
+I fear I have something to bring to your attention!<$FFFD>
+10 of the prisoners have managed to escape.<$FFFE>
+I'd like to look into this myself.<$FFFD>
+This place has grown a mite bit boring.<$FFFC>
+I'd like to do something enjoyable like a hunt.<$FFFE>
+Gaiel.<$FFFC>
+Don't waste troops for no reason.<$FFFD>
+Your tactics often result in heavy casualties.<$FFFE>
+................<$FFFE>
+...Hunting human foes, he said.<$FFFE>
+That's just the way he likes to talk about things.<$FFFD>
+Well, do as you've said.<$FFFC>
+If you fulfill your duty, no questions will be asked.<$FFFD>
+Until we receive orders from our homeland, though, it would be best to keep the number of executions to a minimum.<$FFFD>
+But, we already know the relative strength of those we've made prisoners.
+If, say, they did escape, it wouldn't matter all that much in the long run.<$FFFE>
+Hmmph!<$FFFC>
+Damn that Altemüller!<$FFFC>
+Even if he's said to be the son of the previous emperor, he's too young to be the Field Marshal!<$FFFE>
+I've had more combat experience and accomplishments, yet he mouths off at me like that!<$FFFE>
+But, I'll show him.<$FFFC>
+Sometime soon I'll get a chance to rub his face in the dirt!<$FFFE>
+That would be most excellent.<$FFFD>
+That brat doesn't have a chance in the world against you, General.<$FFFE>
+Damned straight.<$FFFD>
+Let's go, Gates!<$FFFE>
+Yessir!<$FFFE>

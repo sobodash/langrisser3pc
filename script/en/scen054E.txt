@@ -1,0 +1,67 @@
+Langrisser III dumper [0x20557a to 0x205c7f]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Larcuss Commander<$FFFF>
+Layla<$FFFF>
+<$FFFC>
+Scenario - 07<$FFFC>
+"Mountain Pass Reunion"<$FFFE>
+The strategy succeeded in opening hostilities between the<$FFFC>
+armies of the RigÅEer Empire and Barral Kingdom.<$FFFC>
+Continued hostilities could buy the party enough time.<$FFFE>
+[diehardt's name] and company had begun to move to Lushiris Gate,<$FFFC>
+their first destination, passing through the Railym Mountains.<$FFFE>
+But there, a precious but sorrowful reunion was awaiting [diehardt's name].<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Flaire<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Highway Leading to the Center of the Lushiris Gate<$FFFF>
+A messenger from Lord Raymond has arrived.<$FFFE>
+I see, send him in.<$FFFE>
+Miss Layla!?<$FFFE>
+Miss Layla, why are you here?<$FFFE>
+Is my being the wife of a knight not enough of a reason?<$FFFE>
+I get so irritated that I can do nothing, while Geriord remains in Laffel....<$FFFE>
+Miss Layla......Geriord...<$FFFE>
+At least this way I can be of some service to everyone.<$FFFE>
+My heart won't rest until Geriord has returned!<$FFFE>
+.......<$FFFE>
+Anyhow, Lord Raymond has asked that you all work to liberate two of the four gates, those to the south and to the east.<$FFFD>
+Do you have any questions?.....<$FFFE>
+What are they?<$FFFB>
+<$FFFC>
+I mean, these so-called four gates?<$FFFE>
+My, you don't know about them, Pierre-san?<$FFFD>
+The four gates are holy gates which power the Lushiris Gate and convey the divine protection of Lady Lushiris to the kingdom of Larcuss.<$FFFE>
+You mean that in order to renew the Lushiris Gate, we need to liberate these four gates?<$FFFE>
+Exactly.<$FFFD>
+If we don't, then it looks like we will be attacked by the demons from Velzeria.<$FFFE>
+And, we certainly have no desire to face yet another opponent.<$FFFD>
+We must do all we can to ward our land against evil and halt the invasions of our blessed land.<$FFFE>
+Indeed.<$FFFE>
+Well then, for now let's go and liberate the southern gate.<$FFFE>
+Inform all our troops!<$FFFB>
+<$FFFC>
+Then, let's get moving!<$FFFE>
+Everyone, please do your best.<$FFFE>

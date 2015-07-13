@@ -1,0 +1,51 @@
+Langrisser III dumper [0x2fa426 to 0x2fa7b3]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+General Emaillink<$FFFF>
+General Varna<$FFFF>
+General Gaiel<$FFFF>
+<$FFFC>
+Scenario - 26<$FFFC>
+"Suspicion"<$FFFE>
+Is this claimaint to the throne really of the Larcuss royal<$FFFC>
+bloodline?  Didn't the Imperial army execute every<$FFFC>
+member of the royal bloodline?<$FFFC>
+What in the world is going on....?<$FFFE>
+As suspicions seethe, the mobile division hurries<$FFFC>
+straight to the royal capitol.  However, everyone is<$FFFC>
+struck by feelings of foreboding.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of the royal claimant Richard<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Imperial Headquarters ~ Early Morning<$FFFF>
+Y..your excellency, AltemÅEler......<$FFFE>
+Who in the world did this to His Excellency!<$FFFE>
+........Ugh....<$FFFE>
+....Someone mixed poison with the sake.<$FFFC>
+But who, who would do this to His Excellency.....  Dammit!<$FFFE>
+We've GOT to find the perpetrator!<$FFFC>
+And then, I'll make a blood offering with my own hands!<$FFFE>
+Hohoho!<$FFFC>
+Whoever did this saved me the trouble of doing it myself.....<$FFFE>
+<$FFFF>

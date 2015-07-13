@@ -1,0 +1,60 @@
+Langrisser III dumper [0x2c4db0 to 0x2c52b3]
+
+Cyber Warrior X
+
+Dieh舐te<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J・ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem・ler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Rig・er Commander<$FFFF>
+Field Marshal Altem・ler<$FFFF>
+General Varna<$FFFF>
+General Emaillink<$FFFF>
+<$FFFC>
+Scenario - 22<$FFFC>
+"To a New Battle"<$FFFE>
+About one year after Viscount Raymond mustered troops,<$FFFC>
+[diehardt's name] and company liberated the royal capitol.<$FFFC>
+After that, Raymond became King Sieghart, ruler of the<$FFFC>
+new country, Elthlied.<$FFFE>
+Since the time Field Marshal Altem・ler had to withdraw<$FFFC>
+his troops due to a shortage of supplies, he has steadily<$FFFC>
+made preparations for the recapture of Larcuss.<$FFFE>
+In contrast, the Elthlied army's first move has been to use<$FFFC>
+the speed and power of the mobile attack force to capture<$FFFC>
+an Imperial base along the national border.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Destruction of all enemies<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Imperial Base along the Rig・er - Elthlied National Border<$FFFF>
+Your Excellency Altem・ler.<$FFFC>
+The attack preparations have been completed.<$FFFE>
+Good work.<$FFFC>
+Mustering new troops took longer than I had expected.<$FFFD>
+Now, the army of Larcuss.....no,<$FFFC>
+Elthlied, has likely been beefed up as well.<$FFFE>
+It looks like it won't be an easy war to win.<$FFFE>
+Easy wars are boring.<$FFFC>
+This should be perfect.<$FFFD>
+Emaillink, look after things in my absence!<$FFFE>
+Yes, sir, just leave it to me!<$FFFC>
+Your Excellency should only need to concentrate on the fighting with Elthlied.<$FFFE>
+Gaiel's aerial fortress should arrive at our destination soon enough.<$FFFD>
+Very well, let's sally forth.<$FFFE>
+Yeahhhh!<$FFFE>

@@ -1,0 +1,86 @@
+Langrisser III dumper [0x2b3fb8 to 0x2b46ff]
+
+Cyber Warrior X
+
+Dieh舐te<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J・ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem・ler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+General Emaillink<$FFFF>
+Field Marshal Altem・ler<$FFFF>
+General Varna<$FFFF>
+Supplyline Defense Commander<$FFFF>
+General Gaiel<$FFFF>
+Rig・er Commander<$FFFF>
+<$FFFC>
+Scenario - 21<$FFFC>
+"The Lovely Capitol, Larcussia"<$FFFE>
+The mobile force rescued Lord Raymond from the convoy<$FFFC>
+of Imperial skyboats and then hastened to the royal capitol<$FFFC>
+of Larcussia to reinforce the decimated troops there.<$FFFE>
+They must recapture that place if they wish to have<$FFFC>
+restored the Kingdom of Larcuss in both name and truth. <$FFFC>
+But, wily General Emaillink stands in their way.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Destruction of all enemies<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Former Larcussia Royal Castle - Currently Imperial Headquarters<$FFFF>
+Your Excellency!<$FFFC>
+That company has defeated the escort for Lord Raymond.<$FFFE>
+What did you say?<$FFFE>
+.....I see.<$FFFB>
+<$FFFC>
+So they captured a skyboat after they defeated Bortz.<$FFFE>
+At this rate, they'll probably head here soon.<$FFFD>
+What do you think?<$FFFE>
+They won't use the skyboat to come here.<$FFFC>
+Because of our encircling skyboat fleet, they'd be at a disadvantage.<$FFFE>
+So, by land.....<$FFFE>
+Indeed.<$FFFB>
+<$FFFC>
+Head out, Emaillink.<$FFFD>
+Until Gaiel's aerial fortress returns, we won't have any further reinforcements.<$FFFC>
+Delay their attack as much as you can!<$FFFE>
+Sir!<$FFFC>
+It shall be as you command.<$FFFE>
+Rig・er Empire ~ Supply Base for Larcussia<$FFFF>
+W..why......we.....<$FFFE>
+Hmmph.<$FFFC>
+Show no mercy.<$FFFE>
+.....Lord Gaiel.<$FFFC>
+Please, tell us why we're annihilating our comrades in the supply defense corps.<$FFFD>
+As things stand, we just can't agree.<$FFFE>
+You all will be duly rewarded for your part in this stratagem.<$FFFE>
+That's not what we wish - please, give us an explanation!<$FFFC>
+To us, things like rewards.....<$FFFE>
+So you've said.<$FFFC>
+You all must not be the time to accept everything without question.<$FFFD>
+..Oh Spirits of Flame, which created the ten thousand dharmas.<$FFFC>
+Obey our pact, and gather unto me.<$FFFC>
+Immolate in flame all those I designate.....<$FFFE>
+I..it can't be!<$FFFB>
+<$FFFC>
+G..general!?<$FFFE>
+....Burn everything.<$FFFC>
+Agnis - Egdolans.......<$FFFD>
+Now, accept your "reward"!<$FFFE>
+Guwaaaaaaaa!<$FFFE>
+Guhaa!  Wh.......Gen....Gaie.......<$FFFE>
+Hohoho,<$FFFD>
+....Like I'd really leave anyone living who knew of this incident.<$FFFE>

@@ -1,0 +1,111 @@
+Langrisser III dumper [0x305b54 to 0x306b54]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Liegelord<$FFFF>
+Doppleganger Ferakia<$FFFF>
+<$FFFC>
+Scenario - 27<$FFFC>
+"Doppleganger Ferakia"<$FFFE>
+Ferakia's attempt to throw Elthlied into chaos by taking<$FFFC>
+the form of a royal claimant was easily seen through<$FFFC>
+thanks to the power of the holy sword, the Langrisser.<$FFFE>
+[diehardt's name] and company have taken this<$FFFC>
+chance to start their journey to Velzeria to overthrow<$FFFC>
+the leader of the demons, Bˆser.<$FFFE>
+However, in a swamp on the way, the Doppleganger<$FFFC>
+Ferakia lay in wait, hoping for a chance to blot out the<$FFFC>
+dishonor of her last defeat.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Ferakia<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Fort Hakusan ~ 15 Years Ago<$FFFF>
+Grr!<$FFFE>
+Opposition is futile!<$FFFE>
+Eeii!<$FFFB>
+<$FFFC>
+Finishing style, Shitsufuuzan! (Rapid Wind Death)<$FFFE>
+Milord!<$FFFD>
+Milord!<$FFFC>
+Answer me!<$FFFE>
+Ugh......<$FFFC>
+Gu..guhuu!<$FFFE>
+Ahaha!<$FFFB>
+<$FFFC>
+Now this country is finished!<$FFFE>
+H..how vexing....<$FFFE>
+Milord!<$FFFE>
+You're too late.<$FFFC>
+Since you only reached here now, you were too slow to protect your ward!<$FFFE>
+Worthless wretch!<$FFFC>
+Unprincipled villainess!<$FFFE>
+Bah!<$FFFC>
+You actually managed to wound me.....<$FFFE>
+But, whatever.<$FFFC>
+Since this country is no more, it matters not that you live as the sole survivor!<$FFFE>
+Milord.....my humble apologies!<$FFFE>
+My lord, you kept me in your service for so long, yet I failed to protect not only your wife and only son, Shoutarou, but also you.....<$FFFE>
+..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>Milord,<$fe><$3c><$FFFC>
+I, the dishonored Kirikaze, wish to postpone committing seppuku for a little while longer.<$FFFE>
+Please, let me live in shame until I defeat Your enemy, that sorceress!<$FFFE>
+Road to Velzeria<$FFFF>
+..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>.<$FFFE>
+What's wrong, Kirikaze?<$FFFE>
+..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>..<$fe><$3c>Sir,<$FFFC>
+it's nothing, nothing at all.<$FFFD>
+I was just recalling the days of yore.<$FFFD>
+....Anyways, it seems to have gotten colder.<$FFFC>
+Velzeria must be only a little farther.<$FFFE>
+Our scouts have returned.<$FFFE>
+I see.<$FFFC>
+So, what's the word?<$FFFE>
+They report sightings of monsters in the marshland ahead.<$FFFD>
+The marshland is covered with snow.<$FFFC>
+It's the perfect place for an ambush.<$FFFE>
+They'll probably take advantage of that.<$FFFC>
+Apparently we haven't defeated them enough times to route them yet.<$FFFE>
+Au contraire, the facts would suggest that they are desparate, as this is their last chance.<$FFFE>
+They're eager to reach Velzeria.<$FFFE>
+Hmm......<$FFFE>
+What do you say?<$FFFE>
+But, it'll be fine.<$FFFE>
+We need to be careful.<$FFFE>
+We might be in over our heads.<$FFFE>
+But, we'll be fine.<$FFFC>
+Everyone, cheer up!<$FFFE>
+That's right.<$FFFE>
+Yeah!<$FFFC>
+Tia will also do her best!<$FFFE>
+As you wish.<$FFFE>
+We'll be fighting on a battleground of their choosing.<$FFFC>
+We need to be very careful.<$FFFE>
+Indeed.<$FFFE>
+As you wish.<$FFFE>
+This time, it looks like we might be in over our heads.....<$FFFE>
+No way, [diehardt's name]-san!<$FFFC>
+What are you saying!?<$FFFE>
+That's right.<$FFFC>
+Aren't you our commander?<$FFFE>
+Really!<$FFFC>
+This isn't like you at all, [diehardt's name]!<$FFFE>
+....S..sorry......<$FFFE>

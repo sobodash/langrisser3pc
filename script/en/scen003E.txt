@@ -1,0 +1,354 @@
+Langrisser III dumper [0x12c6a to 0x14cf3]
+
+Cyber Warrior X
+
+DiehÑrte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅgler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+General Dios<$FFFF>
+Ruud<$FFFF>
+Layla<$FFFF>
+Citizen<$FFFF>
+Barral Commander<$FFFF>
+King Wilder<$FFFF>
+Wolf<$FFFF>
+Wilder<$FFFF>
+Thief<$FFFF>
+Barral Soldier<$FFFF>
+Barral Supreme Commander<$FFFF>
+-Total destruction of enemy<$FFFC>
+-Arrival of [DiehÑrte's name], Layla,<$FFFC>
+ and Tiaris at the bottom of the map<$FFFE>
+-Death of [DiehÑrte's name]<$FFFC>
+-Death of Layla<$FFFE>
+Vice Capital Laffel<$FFFF>
+Listen up!<$FFFC>
+Only pretend to be rough with those nonresisting grubbers!<$FFFE>
+Just capture them, unless it's unprofitable to do so!<$FFFE>
+As you wish!<$FFFE>
+Hmmm!?<$FFFE>
+What's wrong, [diehardt's name]?<$FFFE>
+They're....not from the Imperial army.<$FFFE>
+Huh?<$FFFC>
+If that's so, then what on earth...<$FFFE>
+What's going on!<$FFFC>
+That's the army of Barral Kingdom!<$FFFE>
+Barral Kingdom!?<$FFFC>
+Aren't they allies!?<$FFFE>
+What could have possibly happened?<$FFFE>
+...Anyhow, if the citizens can't escape...we've got to help them, with or without backup!<$FFFE>
+Kyaa!<$FFFE>
+Round up the citizens!<$FFFE>
+But then that party will get away...<$FFFE>
+But then that party will get away...<$FFFE>
+It can't be helped!<$FFFC>
+We can only take this pretense of cruelty so far!<$FFFC>
+Damn!<$FFFE>
+It's dangerous over there!<$FFFC>
+Flee to the south gate!<$FFFE>
+O..okay!<$FFFE>
+Don't let them escape!<$FFFC>
+Kill all of these obstructions!<$FFFE>
+King Wilder!<$FFFC>
+Have you forgotten who I am!?<$FFFC>
+I'm the son of Kraus!<$FFFE>
+Kraus?<$FFFC>
+...Ah, that's right. You're Kraus's little boy.<$FFFE>
+[DiehÑrte's name], you know that person?<$FFFE>
+[DiehÑrte's name], you know that person?<$FFFE>
+Yes.<$FFFD>
+Barral Kingdom and the house of Kraus have always had a close relationship.<$FFFD>
+...but, why would kind-hearted King Wilder....<$FFFE>
+Your friend in the past is your enemy today, huh.<$FFFC>
+Well, they say that people change.<$FFFE>
+All this jabbering makes no sense.<$FFFC>
+Die and be silenced! Slay them! Don't let a single one escape!<$FFFE>
+Miss Layla!<$FFFC>
+Please flee through the south gate!<$FFFC>
+Hurry!<$FFFE>
+...Geriord.<$FFFE>
+Miss Layla!<$FFFE>
+Y-Yes?<$FFFE>
+Hurry to the south gate!<$FFFE>
+Alright...<$FFFE>
+Who the hell are you, bastard?<$FFFE>
+W..who's that!<$FFFE>
+If you don't recognize me, you're a full-blown Barral bumpkin!<$FFFE>
+Alright, listen up:<$FFFC>
+I am the heavenly-descended, grand and honorable thief, Sir Silver Wolf!<$FFFE>
+This is our town!<$FFFC>
+Your foul work ends here!<$FFFE>
+What can a self-styled thief possibly do?<$FFFE>
+If he does try anything, he'll find it a painful experience...<$FFFE>
+Hmph!<$FFFC>
+I'll make you eat those words!<$FFFE>
+Silver Wolf?<$FFFC>
+That renowned honorable thief....<$FFFE>
+Die!<$FFFC>
+Let none escape!<$FFFE>
+Who are you?<$FFFC>
+He doesn't look like a knight.<$FFFE>
+Who the hell are you, bastard?<$FFFC>
+Nimwit, you've only come here to die.<$FFFE>
+Hmmph!<$FFFC>
+Do you really think you can kill me, the grand and honorable thief, Sir Silver Wolf?<$FFFC>
+Such utter unwordliness proves you're nothing but a country-confined Barral bumkin!<$FFFE>
+I'll make you eat those words!<$FFFE>
+General!<$FFFC>
+There's a Larcuss knight over there!<$FFFC>
+With his help, it looks like the citizens will be able to escape!<$FFFE>
+What did you say!?<$FFFE>
+He's a young one!<$FFFC>
+Once he gets his first taste of cold steel, he'll change his tune!<$FFFE>
+Hey, lass, we'll take it from here - hurry up and escape!<$FFFE>
+I'll do no such thing!<$FFFC>
+If I did, Mr. Wolf might get captured!<$FFFE>
+....'kay.<$FFFC>
+Thanks, Mr. Wolf.<$FFFE>
+Hey, Mr. Knight, we'll take it from here - hurry up and escape!<$FFFE>
+Just be careful, Wolf<$FFFC>
+Even you can be caught!<$FFFE>
+Thanks, Wolf.<$FFFE>
+Just a little farther!<$FFFC>
+Everyone, hang in there!<$FFFE>
+Will do!(That is right!)<$FFFC>
+Right now, I can just run right through them!<$FFFE>
+Farewell, Laffel...<$FFFE>
+Wow.<$FFFC>
+We've made it!<$FFFE>
+Thank you, Sir Knight<$FFFC>
+We've made it.<$FFFE>
+Well, let's hurry on out.<$FFFE>
+Alright, we can escape unhindered from here.<$FFFE>
+Geriord....<$FFFE>
+Miss Layla!<$FFFC>
+We will come back here in a little bit.<$FFFC>
+Please be patient a little longer.<$FFFE>
+Okay.<$FFFE>
+A magic herb grows in a dark corner under the stairwell.<$FFFE>
+Magic Herb was obtained!<$FFFE>
+In the center of the vacant area, a strange looking fruit lied abandoned.<$FFFE>
+Do you want to pick it up?<$FFFE>
+Ambrosia was obtained!<$FFFE>
+While you pause to think, a strong wind surges and blows the strange fruit away....<$FFFE>
+Sheesh.....<$FFFC>
+Why can't I protect<$FFFC>
+even myself from harm......<$FFFE>
+Damn!<$FFFC>
+Why is Barral attacking!?<$FFFE>
+This is bad.<$FFFC>
+At this rate we'll be completely surrounded.<$FFFC>
+If we don't escape quickly...<$FFFE>
+Oooouccch!!<$FFFC>
+It hurts!!!!  ....ouch....<$FFFE>
+Don't push too hard, Tiaris.<$FFFC>
+Retreat for now!<$FFFE>
+O..ok.<$FFFC>
+Forgive me, [diehardt's name].<$FFFE>
+Don't interfere!<$FFFE>
+Shit!<$FFFC>
+I can't do any more!<$FFFE>
+I'm so sorry, Wolf!<$FFFC>
+We'll manage the rest somehow without you.<$FFFD>
+Hurry and escape before you're captured!<$FFFE>
+Huh...alright.<$FFFC>
+But, be sure to escape yourselves!<$FFFE>
+<$F702><$F703>Sorry, Boss.<$FFFC>
+Somehow, they got us.....<$FFFE>
+Damn you, Barral bastards!<$FFFE>
+Ugh, damn!<$FFFC>
+To die in a place like this....<$FFFE>
+My...dear.......<$FFFE>
+Miss Layla!<$FFFD>
+Geriord....<$FFFC>
+Forgive me....I couldn't<$FFFC>
+protect her.....<$FFFD>
+I never have enough power......<$FFFE>
+Agh, I mustn't!<$FFFE>
+Ugh.....<$FFFE>
+Miss Layla!<$FFFE>
+Hurry, Tiaris.<$FFFC>
+Miss Layla's in trouble!<$FFFE>
+Shit!<$FFFC>
+If we don't hurry...!<$FFFE>
+Nooooo!<$FFFE>
+I don't want to die....<$FFFC>
+I don't want to....<$FFFE>
+H...help.....<$FFFE>
+Impossible...<$FFFC>
+I never have enough power......<$FFFE>
+I..impossible.....<$FFFC>
+To have lost to such a young brat.....<$FFFE>
+Sir DiosÅI<$FFFC>
+Please, leave the rest to us and retreat!<$FFFE>
+.....thanks.....<$FFFD>
+I'm counting on you!<$FFFE>
+We won't let you down!<$FFFE>
+General DiosÅI<$FFFC>
+Please, leave the rest to us and retreat!<$FFFE>
+.....thanks.....<$FFFD>
+I'm counting on you!<$FFFE>
+Yes, sir!<$FFFE>
+I feel bad about this,<$FFFC>
+but it is war, after all.<$FFFE>
+If you abandoned this futile resistance, you wouldn't have to die!<$FFFE>
+No matter what kind of thief you are, you won't be smiling if you come against our main army!<$FFFE>
+....Ugh!<$FFFC>
+W..what.....no, not yet!<$FFFE>
+Ruud!<$FFFC>
+Retreat, you can't continue like this!<$FFFE>
+But, Sir Dios...<$FFFE>
+Ruud!<$FFFC>
+Fool, didn't you hear my order?!<$FFFE>
+M..my humble apologies....<$FFFE>
+Guhaa!<$FFFD>
+At this rate, I won't be able to fight any further....<$FFFC>
+I can't take any more - I'm retreating!<$FFFE>
+I won't continue if I have to go against women and pacifists....<$FFFE>
+Ugh....<$FFFE>
+W..what!<$FFFE>
+Damn....<$FFFE>
+Don't even think of running away!<$FFFE>
+I....<$FFFC>
+To expire in this kind of place....<$FFFE>
+Ugh, I can do no more!<$FFFE>
+Guhaa!<$FFFE>
+One more try....<$FFFC>
+Until I've touched the soil of my homeland....<$FFFC>
+I can't afford....to....die.....<$FFFE>
+Ugh.....<$FFFC>
+S..such shame....<$FFFE>
+Ugh....<$FFFC>
+You can't have finished me....<$FFFC>
+I can't die in this kind of place....<$FFFE>
+I..I.....<$FFFC>
+Is this the end?.....<$FFFE>
+................<$FFFE>
+Miserable wretch....how did you manage to defeat the likes of me...<$FFFC>
+Bah, don't think this is the end, though -<$FFFD>
+I swear to conquer Laffel.<$FFFC>
+Next time I'll bring a larger army!<$FFFE>
+I've failed!<$FFFE>
+T..they got me....<$FFFE>
+Y...you damned Larcussians!<$FFFE>
+Aaa......<$FFFC>
+I can't go any farther....<$FFFE>
+But, I made it this far....<$FFFE>
+Dios's army has been completely annihilated!<$FFFC>
+That damned incompetent clearly couldn't handle this level of responsibility!<$FFFD>
+Everyone, listen up!<$FFFC>
+Let not a single Larcussian escape!<$FFFC>
+Kill them, kill them all!<$FFFE>
+....But, won't that include the citizens in the body count?<$FFFE>
+Did you not hear what my orders were!?<$FFFE>
+Sir!<$FFFC>
+My humble apologies!<$FFFE>
+Sir!<$FFFE>
+I shall do as you say!<$FFFE>
+Hmm.....<$FFFC>
+It looks like all units have been destroyed.<$FFFE>
+Indeed.<$FFFC>
+They must have not expected resistance.<$FFFD>
+But, before long King Wilder will bring reinforcements against us.<$FFFC>
+Let's hurry and escape from here.<$FFFE>
+Okay.<$FFFE>
+Somehow, it seems all are foes have been destroyed.<$FFFD>
+But, before long King Wilder will bring reinforcements against us.<$FFFC>
+Let's hurry and escape from here.<$FFFE>
+Hey there, Mr. Knight!<$FFFC>
+Lend me a hand, here.<$FFFC>
+Now that I'm here, just focus on escorting the citizens out of here!<$FFFE>
+Thanks, Silver Wolf.<$FFFE>
+Do me a favor and just call me Wolf!<$FFFE>
+Alright, you rascals!<$FFFC>
+ Let's go and teach that country bumpkin of a general how we differ from the average thief!<$FFFE>
+Do me a favor and just call me Wolf!<$FFFE>
+Alright, you rascals!<$FFFC>
+ Let's go and teach that country bumpkin of a general how we differ from the average thief!<$FFFE>
+Do me a favor and just call me Wolf!<$FFFE>
+Alright, you rascals! Let's go and teach that country bumpkin of a general how we differ from the average thief!<$FFFE>
+Will do, Boss!<$FFFE>
+Alright, you rascals!<$FFFC>
+Get ready!<$FFFE>
+Hey, now.<$FFFC>
+Who do you think I am?<$FFFD>
+Even if I get surrounded, there's no way I'd be caught by those Barral soldier-goons!<$FFFC>
+Stop worrying.<$FFFE>
+Looks like Dios's troops are having a hard time.<$FFFE>
+Dios, what are you doing fooling around like this!<$FFFE>
+My humble apologies, King Wilder!<$FFFC>
+When we were advancing, we managed to get separated from the citizens....<$FFFE>
+Dios, you damned fool!<$FFFC>
+I never should have trusted you with this level of responsibility!<$FFFE>
+My humble apologies, King Wilder!<$FFFC>
+When we were advancing, we managed to get separated from the citizens....<$FFFE>
+My humble apologies, King Wilder!<$FFFC>
+When we were advancing, we managed to get separated from the citizens....<$FFFE>
+Don't worry about the lives of the citizens!<$FFFC>
+Kill everyone who gets in your way!<$FFFE>
+After we take Laffel from Larcuss Kingdom, we'll target the wealthy royal capital, Larcussia.<$FFFE>
+Use whatever means are necessary!<$FFFC>
+With this opportunity, we can invade straight to the heart of Larcuss.<$FFFE>
+*chokes* ... Understood....<$FFFE>
+General, are we really going to attack the citizens?<$FFFE>
+It's our King's command.<$FFFC>
+Even if it means slaying the citizens, we must fulfill our duty.<$FFFE>
+But...<$FFFE>
+I know what you're saying.<$FFFC>
+I don't want to do it either!<$FFFE>
+..........<$FFFE>
+T..that's King Wilder!?<$FFFE>
+Hold it right there!<$FFFC>
+No longer shall you have your way in our city!<$FFFE>
+Thanks, Wolf.<$FFFE>
+Unequivocably, I swear to return!<$FFFE>
+Please keep alive til then.<$FFFE>
+Ugh! So they've managed to escape...<$FFFE>
+Wretch, now only one foe remains!<$FFFC>
+Those damned lucky bastards!<$FFFE>
+Hmm, looks like if I do it just right, I can still escape.<$FFFE>
+Thanks, Wolf.<$FFFE>
+Glad to have been of assistance!<$FFFE>
+Geriord...<$FFFE>
+Miss Layla,<$FFFC>
+I swear I'll return and save him.<$FFFE>
+....I'm sorry, [diehardt's name].<$FFFC>
+I've been such a burden, letting my emotions get the best of me.<$FFFD>
+But, I'm calm now.<$FFFC>
+Let's hurry out of here.<$FFFE>
+.....<$FFFE>
+Oh, by the way.<$FFFC>
+When the citizens fled the city, they handed me this to give to you in thanks,<$FFFD>
+saying "Please use this, Sir Knight."<$FFFE>
+Received the Angel Ring!<$FFFE>
+Thanks.<$FFFC>
+I'll be sure to use it.<$FFFE>
+...Hey, [diehardt's name].<$FFFC>
+What are we going to do now?<$FFFE>
+Good question. I think we should seek my uncle...Viscount Raymond.<$FFFD>
+His domain is removed from Larcuss Kingdom, since it is enclosed by mountains, so the Empire probably hasn't reached it yet.<$FFFE>
+And we'll muster an army there?<$FFFE>
+Indeed.<$FFFC>
+And then, we'll retaliate.<$FFFC>
+So, let's go.<$FFFE>
+Well, I'll be pulling out soon...<$FFFE>
+<$F702><$F703>Of course I will!<$FFFC>
+It will be a piece of cake for me to put off dying til then.<$FFFE>
+Later, Mr. Knight.<$FFFC>
+If we both stay alive, we'll meet again!<$FFFE>

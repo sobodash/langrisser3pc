@@ -1,0 +1,90 @@
+Langrisser III dumper [0x25bd90 to 0x25c607]
+
+Cyber Warrior X
+
+Dieh舐te<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J・ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem・ler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Fauvel<$FFFF>
+Larcuss Commander<$FFFF>
+General Varna<$FFFF>
+Rig・er Commander<$FFFF>
+General Bortz<$FFFF>
+Colcia Commander<$FFFF>
+Field Marshal Altem・ler<$FFFF>
+Lushiris Gate ~ Eastern Gate<$FFFF>
+Father, are you all right?<$FFFE>
+I'm just fine,<$FFFC>
+thanks to your aid.<$FFFE>
+I'm so glad we made it in time.<$FFFC>
+Speaking of which, is the gate safe as well?<$FFFE>
+Yes, thanks to you,<$FFFC>
+it shines once again with Lady Lushiris's light<$FFFE>
+So now we've liberated two of the gates.<$FFFE>
+But, I'm concerned about the last two gates.<$FFFE>
+Just a little while ago, the light from the west gate vanished.<$FFFC>
+It's probably Barral's doing.<$FFFE>
+We were late in coming because we ran afoul of the Empire on the way.<$FFFC>
+I'm so sorry.<$FFFE>
+You must be soldiers sent by my Father.<$FFFC>
+That must mean things are going well on his front.<$FFFE>
+We will defend this place to our death!<$FFFC>
+Please, leave this to us and hurry to liberate the western gate.<$FFFE>
+Lord Raymond's battle with the Empire is still dragging on, so he doesn't have enough spare troops to liberate the western gate.<$FFFE>
+Lord Raymond has headed to the northern gate, which is defended by the main Imperial forces.<$FFFE>
+On the other hand, since the Imperial army has been tied up there, that's why it was so simple for us to recover this gate.<$FFFE>
+Exactly.<$FFFE>
+It seems that the demons have begun their invasion.<$FFFC>
+We'd better hurry and restore the operation of the Lushiris Gate.<$FFFE>
+It looks like we've only got one more gate to liberate.<$FFFE>
+If that's what your planning, I'd like to come with you.<$FFFC>
+I may be a bit senile, but I've still got a few tricks left.<$FFFE>
+Fauvel joined the party!<$FFFE>
+Thank you for having me.<$FFFE>
+Well, everyone, let's get a move on.<$FFFE>
+Plains Near the Northern Gate<$FFFF>
+You must be Bortz's soldiers.<$FFFC>
+....Hmm?<$FFFC>
+But what happened to Bortz?<$FFFE>
+So that we might escape, General Bortz charged the main enemy forces....,<$FFFC>
+Taking on wave after wave of the enemy soldiers.....<$FFFE>
+....I see.<$FFFE>
+You all were blessed to have such good commander, indeed....<$FFFE>
+Don't count someone as dead til you've seen the body!<$FFFE>
+!!<$FFFE>
+Hmmph, so you all really did think I'd died!<$FFFE>
+B..bortz!?<$FFFE>
+General, we're so glad you made it back safely....<$FFFC>
+What a relief......<$FFFE>
+Don't cry now, it's indecent.<$FFFC>
+I'm damned glad to see you all safe, too.<$FFFE>
+Thanks a lot, Varna.  Please look after my men for just a little while longer.  Right now I'm feeling.....incredibly.....worn out.<$FFFE>
+You can count on me.<$FFFE>
+Phew......<$FFFE>
+Z<$fe><$1e>Z<$fe><$f>Z<$fe><$f>Z<$fe><$f>..<$fe><$f>..<$FFFE>
+National Border Between Colcia and the Rig・er Empire<$FFFF>
+T..too powerful.....<$FFFC>
+..<$fe><$19>..<$fe><$14>..<$fe><$f>..<$fe><$f>Guhaa!<$FFFE>
+Hmm, that was hardly a challenge at all.<$FFFE>
+Your Excellency, you were incredible.<$FFFC>
+It looks like your swordsmanship is even stronger than before!<$FFFE>
+My true struggle in that battle was<$FFFC>
+convincing my stiff muscles to move<$FFFD>
+I leave the defense from here on in your hands, while I return to our base in Larcussia.<$FFFE>
+Yes, sir!<$FFFE>

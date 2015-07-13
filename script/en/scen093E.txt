@@ -1,0 +1,76 @@
+Langrisser III dumper [0x2ffe00 to 0x30053b]
+
+Cyber Warrior X
+
+Dieh舐te<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J・ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem・ler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Elthlied Soldier<$FFFF>
+First Imperial Prince Paul<$FFFF>
+General Gaiel<$FFFF>
+Necromancer Grove<$FFFF>
+Ber<$FFFF>
+Doppleganger Ferakia<$FFFF>
+During [diehardt's name]'s Division's Preparations<$FFFF>
+How are the preparations for this campaign going, Luna?<$FFFE>
+Well.<$FFFC>
+Pretty soon, most of our preparations will be complete.<$FFFD>
+The clock's ticking, so we'd best leave soon as we can.<$FFFE>
+At long last we'll be attacking Velzeria.<$FFFE>
+Wonder if the victory will be ours.....<$FFFE>
+Hey now, the King shouldn't worry about this kind of thing.<$FFFD>
+It'll all work out.<$FFFC>
+After all, King Sieghart will be with us as the Langrisser.<$FFFD>
+And I'll be there too.<$FFFE>
+That's right.<$FFFC>
+Lewin-kun, we're all here for you!<$FFFE>
+Thanks a lot, everyone.<$FFFE>
+Bad news!<$FFFD>
+Someone has poisoned the  Imperial Field Marshal, Sir Altem・ler!<$FFFE>
+Say what!<$FFFE>
+It seems they haven't been able to catch the murderer yet.....<$FFFE>
+Altem・ler.....<$FFFB>
+<$FFFC>
+That man.....<$FFFE>
+Rig・er Imperial Castle - Audience Room<$FFFF>
+I see, so someone's killed that damned Altem・ler, eh.<$FFFE>
+Yes, milord.<$FFFE>
+How kind of someone to spare us all the trouble of doing it ourselves.<$FFFE>
+First Father died before his time, and now that pesky Altem・ler is out of the way.<$FFFC>
+That means the Empire is mine!<$FFFE>
+Hohohohoho....!<$FFFE>
+Velzeria Castle<$FFFF>
+The assassination of Altem・ler went off without a hitch.<$FFFE>
+Hmm, I see.  Well done.<$FFFE>
+My humble apologies, Lord Ber.<$FFFC>
+My attempted conquest of Elthlied has failed.<$FFFE>
+Since the Haja no Ken turned out to have more power against demons than I'd expected, our power was....<$FFFE>
+....That's ok.<$FFFC>
+Now that Rag is dead, you'll need to work harder, though.<$FFFE>
+Now that the Field Marshal who was responsible for much of the military strength of the Empire is gone, things should be easier.<$FFFE>
+Altem・ler!?<$FFFE>
+Then, that Varna woman.....?<$FFFE>
+Exactly.<$FFFC>
+It seems that threatening her beloved younger sister was enough to decide the issue for her.<$FFFE>
+It's conflicts of interests like that which make humans the most foolish living things.<$FFFE>
+Such an interesting strategy Grove thought up, to use that against her.<$FFFE>
+Speaking of Varna, how shall we dispose of her younger sister?<$FFFE>
+Interesting question.<$FFFC>
+We can still use that Varna woman.<$FFFE>
+So, we'll let's let the younger sister live a little longer, to further our ambitions.<$FFFE>

@@ -1,0 +1,46 @@
+Langrisser III dumper [0x30b334 to 0x30b77b]
+
+Cyber Warrior X
+
+Dieh舐te<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J・ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem・ler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Emperor Paul<$FFFF>
+Rig・er Commander<$FFFF>
+<$FFFC>
+Scenario - 28<$FFFC>
+"Demon Defense Force"<$FFFE>
+[diehardt's name] and company have defeated one of<$FFFC>
+the three demon generals, Doppleganger Ferakia,<$FFFC>
+and headed on towards Velzeria Castle.<$FFFE>
+However, at the gates of that castle, Necromancer<$FFFC>
+Grove awaits them with a potent defense force.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Grove<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+New Emperor Paul's Coronation Ceremony<$FFFF>
+Alas, my father, Heimlich Christ IV, struggled valiantly against his illness for a long time, but to Our great sorrow, he finally succumbed.<$FFFE>
+However, now that I have become the Emperor, in my fallen father's place, I dedicate all of my power towards the defense of the Empire and the Empire's citizens!<$FFFE>
+Long live the new Lord Paul!<$FFFE>
+Long live the new Emperor Paul!<$FFFE>
+Furthermore, I have one additional important announcement to make.<$FFFE>
+It pains me to speak of, but I fear that someone has poisoned Altem・ler, who has served in the Imperial army with great merit up to the present.<$FFFE>
+I think that everyone held him in great esteem.<$FFFE>
+His successor as Field Marshal shall be Geier.<$FFFE>

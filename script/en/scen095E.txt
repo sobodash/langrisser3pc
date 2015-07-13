@@ -1,0 +1,42 @@
+Langrisser III dumper [0x307196 to 0x307513]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Plains of Luon - Marshy Area<$FFFF>
+You did it, Kirikaze.<$FFFE>
+Thanks to everyone's help, I was able to defeat that sorceress.<$FFFE>
+I don't know how best to express my gratitude......<$FFFE>
+No need to worry about that.<$FFFC>
+We're all friends, after all.<$FFFE>
+Speaking of which, Kirikaze-san,<$FFFC>
+what do you plan to do now?<$FFFE>
+Since you were able to avenge your lord, will you return now?<$FFFE>
+No.<$FFFC>
+We may have defeated Ferakia, but the puppeteer pulling her strings, Böser, remains.<$FFFE>
+Unless Böser is defeated, other monsters will eventually attack again.<$FFFE>
+Until Böser is overthrown, I will travel together with you all.<$FFFE>
+I see.<$FFFE>
+In that case, we have to defeat Böser and end this matter once and for all.<$FFFE>
+I shall make it my new duty.<$FFFC>
+Come, let's move on!<$FFFE>
+All right, everyone.<$FFFC>
+None of us can rest until Böser is defeated!<$FFFE>

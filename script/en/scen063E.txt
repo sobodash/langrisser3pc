@@ -1,0 +1,59 @@
+Langrisser III dumper [0x24919a to 0x24975f]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Ferakia the Doppleganger<$FFFF>
+Bˆser<$FFFF>
+General Bortz<$FFFF>
+RigÅEer Commander<$FFFF>
+Velzeria Castle<$FFFF>
+Master Bˆser....<$FFFE>
+....What is it, Ferakia?<$FFFE>
+My apologies!<$FFFC>
+On the way, there was an unforseen intrusion, and I was unable to murder the sorceress.<$FFFE>
+Even without the functionality of the Gate, some of that bitch Lushiris's power remains.<$FFFE>
+It couldn't be helped, since I didn't grant you your original power.<$FFFE>
+But, for you to have lost like this, it must have been quite a powerful party.<$FFFE>
+...It's still no excuse for my defeat.<$FFFE>
+No need to brood over a single failure.<$FFFC>
+Hmmm, I wonder what we should do from now on....<$FFFE>
+Plains Near the Northern Gate<$FFFF>
+We're in deep shit now, totally surrounded.<$FFFE>
+General Bortz, what should we do?<$FFFC>
+Right now, it's only a matter of time before we're all wiped out.<$FFFE>
+There's only one way you can escape the enemy surrounding us.<$FFFC>
+Let me serve as a distraction at one end, and break through the other end to escape.<$FFFE>
+!!<$FFFE>
+But, General, we're your main troops - it only makes sense we'd stay here and fight.<$FFFE>
+Yet, if they see me, and think the main troops have started to move away from me, they'll gather their troops in one place to crush me.<$FFFE>
+But, with their army all concentrated in one place, you'll definitely be able to break through the weakened perimeter.<$FFFC>
+All of you, use that opening and get out of here.<$FFFE>
+But, General!<$FFFC>
+If we do that.....!<$FFFE>
+That fast horseman who came earlier brought me word that General Varna is sending a relief army.<$FFFE>
+If you join up with Varna's army, Raymond's army won't be able to keep chasing you.<$FFFE>
+General Bortz!<$FFFC>
+Please don't place yourself in such danger!<$FFFE>
+But, as things stand, if you stay with me any longer you'll all be wiped out.<$FFFE>
+All of you must live to meet up with Varna!<$FFFC>
+That's an order!<$FFFE>
+....I'll leave the rest to you.<$FFFE>

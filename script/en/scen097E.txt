@@ -1,0 +1,41 @@
+Langrisser III dumper [0x30ca60 to 0x30cd2b]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Emperor Paul<$FFFF>
+Field Marshal Geier<$FFFF>
+RigÅEer Imperial Castle - Audience Hall<$FFFF>
+Uhahaha!<$FFFD>
+I can't stop laughing in joy!<$FFFC>
+Now the Empire is mine in both name and truth!<$FFFD>
+Speaking of which, Geier.<$FFFB>
+<$FFFC>
+Wouldn't you agree that it would be best for you to start acting as Field Marshal soon?<$FFFD>
+You must quickly take down Elthlied.<$FFFE>
+Before I do that, I ask for a little bit of time.<$FFFD>
+There is a small matter that I would like to look into first.<$FFFE>
+....Hmmm.<$FFFC>
+Then, as soon as this matter is dealt with, return to headquarters.<$FFFD>
+I shall muster additional troops.<$FFFC>
+After all, no matter what it takes, we must crush Elthlied!<$FFFE>
+As you command, Emperor Paul.<$FFFE>
+<$FFFF>

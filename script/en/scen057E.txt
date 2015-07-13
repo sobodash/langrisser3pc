@@ -1,0 +1,70 @@
+Langrisser III dumper [0x221140 to 0x22177f]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Larcuss Commander<$FFFF>
+Viscount Raymond<$FFFF>
+General Bortz<$FFFF>
+Barral Commander<$FFFF>
+Adjutant Gates<$FFFF>
+General Gaiel<$FFFF>
+Do Kahni, Champion<$FFFC>
+I can't...lose....<$FFFE>
+What have you done with the woman called Sophia, who used to live here?<$FFFE>
+We kidnapped her.<$FFFC>
+She's to be ritually sacrificed....<$FFFE>
+Oh, no!<$FFFE>
+A sacrifice!?<$FFFC>
+Has it already happened!?<$FFFE>
+The sacrifice will be at the next full moon.<$FFFE>
+The next full moon will occur in three nights.<$FFFC>
+Let's hurry.<$FFFE>
+If we there are no wardens for the gates, it will be impossible to properly make use of their power.<$FFFE>
+Excuse me!<$FFFC>
+Sir [diehardt's name]?<$FFFE>
+What is it?<$FFFE>
+Lord Raymond dispatched us from his main force to come guard the southern gate!<$FFFE>
+We need to hurry and reach the headquarters of the Shika Tribe.<$FFFC>
+We'll entrust the defense of this gate to you!<$FFFE>
+Yes, sir!<$FFFE>
+All right, we've got no time to waste.<$FFFC>
+Everyone, let's hurry on out!<$FFFE>
+Plains Near the North Gate of the Lushiris Gate<$FFFF>
+Do we have any news from the war front?<$FFFE>
+The enemy seems a bit stronger than we thought, superior to our regular army, which is preventing us from making an attack.<$FFFE>
+This brave general Bortz of the Empire is most impressive indeed.<$FFFE>
+Worry not.<$FFFC>
+He's just a minor headache we can crush when we return with our own army.<$FFFE>
+It will only be a matter of time, after we come back.<$FFFE>
+While these remnants of the Larcuss army seem fairly weak, that damned Lord Raymond is a force to be reckoned with.<$FFFE>
+When he returns, we'll be in trouble.<$FFFC>
+What to do....<$FFFE>
+City of Laffel - Now Part of the Barral Kingdom<$FFFF>
+S..so this is that so-called Grim Reaper, the Empire's skyboat fleet....<$FFFE>
+Those foolish Barral soldiers have all scattered in disarray.<$FFFE>
+Hmmph!<$FFFC>
+So long as the Dark Knight stays absent, they have little true might to muster against us.<$FFFE>
+I hadn't expected the Dark Knight to really stay absent.<$FFFE>
+With Lord Gaiel leading us, we could take on even the Dark Knight....<$FFFE>
+Looks like I didn't need that plan for him after all.<$FFFC>
+Hohohoho!<$FFFE>
+<$FFFF>

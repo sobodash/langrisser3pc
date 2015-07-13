@@ -1,0 +1,92 @@
+Langrisser III dumper [0x2ae5d4 to 0x2aef8f]
+
+Cyber Warrior X
+
+Dieh舐te<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J・ler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem・ler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Viscount Raymond<$FFFF>
+General Gaiel<$FFFF>
+Imperial First Prince Paul<$FFFF>
+Captured Skyboat<$FFFF>
+Father!<$FFFE>
+....Lewin.<$FFFC>
+You've become quite a wondrous young man.<$FFFE>
+So I've been saved by my own son, eh.<$FFFE>
+It wasn't me alone.<$FFFC>
+We only succeeded because of everyone's aid.....<$FFFE>
+I suppose so.<$FFFE>
+.....[diehardt's name].<$FFFC>
+It looks like you're doing well.<$FFFE>
+My own troops were pretty much annihilated.<$FFFC>
+I feel guilty, but I'd like to entrust the liberation of the royal capital to you all.<$FFFE>
+Yes, sir.<$FFFC>
+I've been joined by many inspirational comrades.<$FFFE>
+We'll do whatever we can to pull through and finish this, now that it's down to us.<$FFFE>
+I'm so glad.<$FFFC>
+I'll trust you to look after Lewin from here on.<$FFFE>
+Milord Viscount, you're pushing your body too much.<$FFFC>
+Please leave the rest to us, and rest up.<$FFFE>
+Of course, thanks.<$FFFE>
+Everyone, thanks so much.<$FFFD>
+Riffany-san, [diehardt's name]-san.<$FFFC>
+Now, it's our turn to save your parents.<$FFFE>
+Ah, you're right.<$FFFD>
+I sure hope my father and mother are safe and sound.<$FFFE>
+Me, too.<$FFFC>
+Let's head to Larcussia right away!<$FFFD>
+....Father, Mother, please hold on a little longer.<$FFFC>
+We're coming to save you now!<$FFFE>
+Riguler Imperial Castle - Emperor Christ's Sickroom<$FFFF>
+So, after this I'll just be heading home with the aerial fortress, eh.<$FFFE>
+Oho, Your Majesty, Paul.<$FFFE>
+So proper to use such a distant greeting, General Gaiel.<$FFFC>
+I've something I'd like to ask you.<$FFFE>
+Well, what matter might that be?<$FFFE>
+Hmm.<$FFFC>
+From what I've heard, you don't seem to hold Altem・ler in the highest regard.<$FFFE>
+No, I, ah...<$FFFE>
+There's no need to hide your feelings on this.<$FFFC>
+The fact of the matter is, I hate that bastard as well.<$FFFE>
+And my father won't last much longer with his illness.<$FFFE>
+When he succumbs, I'll become the emperor.....<$FFFC>
+When that time comes, I think the one who should hold the office of Field Marshal is you, Gaiel.<$FFFE>
+Me!?<$FFFE>
+But, to do that, we must come across some excuse to remove Altem・ler from his post.<$FFFE>
+If he should make some mistake in his current defense of the Royal capitol, it would undermine his credibility.<$FFFE>
+So, what do you think?<$FFFC>
+Is there any reason you can come up with for discontinuing the use of the aerial fortress?<$FFFE>
+So you're saying that you would prefer for me not to return with the aerial fortress?<$FFFE>
+Exactly.<$FFFC>
+With the might of the aerial fortress, we can retake the royal capital at any time.<$FFFE>
+You can then reclaim the city of Larcussia after that bastard loses it, using the aerial fortress.<$FFFE>
+He'll be dismissed, and you'll be promoted.<$FFFC>
+Like that strategy?<$FFFE>
+....I think Your Majesty might be underestimating that brat's power.<$FFFC>
+Even without the fortress, he'll probably still be able to hold the royal capitol.<$FFFE>
+What!<$FFFC>
+If that's true, what would you recommend....<$FFFE>
+.....Well, if his supply line were severed, he won't be able to sustain his side of the battle no matter how great a commander he is.....<$FFFE>
+In that case, halt his supply line!<$FFFE>
+But, I have no excuse to stop it.<$FFFE>
+...Nonetheless, if the supply line defenders were annihilated by troops disguised as bandits, wouldn't that work to stop the supply line?<$FFFE>
+Ohh!<$FFFC>
+Ohh!!<$FFFE>
+In that case, leave the matter of the aerial fortress to me!<$FFFC>
+If it is damaged enough, it won't be able to take flight.<$FFFE>

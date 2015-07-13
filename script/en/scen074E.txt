@@ -1,0 +1,90 @@
+Langrisser III dumper [0x28df48 to 0x28e61b]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+JÅEler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+AltemÅEler<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Barral Commander<$FFFF>
+Dark Knight<$FFFF>
+Larcuss Commander<$FFFF>
+Viscount Raymond<$FFFF>
+General Bortz<$FFFF>
+Galshook<$FFFF>
+Adjutant Gates<$FFFF>
+General Gaiel<$FFFF>
+<$FFFC>
+Scenario - 17<$FFFC>
+"Operation:  Recapture Laffel"<$FFFE>
+By attacking Fort Rogier, [diehardt's name]'s mobile division<$FFFC>
+successfully drew the Dark Knight from Laffel, allowing them<$FFFC>
+to switch over to their true goal, the recapture of Laffel.<$FFFE>
+However, while the mobile division makes way to Laffel, the<$FFFC>
+war situation on Lord Raymond's front has taken a serious<$FFFC>
+turn for the worse.<$FFFE>
+*Condition for Victory<$FFFC>
+ -Defeat of Flaire<$FFFC>
+*Condition for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Barral Territory - Fort Rogier<$FFFF>
+What's going on here?<$FFFC>
+The fort was captured, but isn't occupied?<$FFFC>
+What the hell.....<$FFFE>
+....Hurry on back.<$FFFE>
+Sir?<$FFFE>
+Don't you see?<$FFFC>
+It's a diversion.<$FFFE>
+Outskirts of Larcussia - Currently Imperial Territory<$FFFF>
+Whoah!<$FFFC>
+Just a little more!<$FFFE>
+Perfect!<$FFFC>
+Now, victory is ours!<$FFFE>
+Sir Kirikaze, you have done well.<$FFFE>
+No, no, I've done little at all.<$FFFE>
+It was more the high spirits of the soldiers.<$FFFC>
+That's the real reason we've won.<$FFFE>
+W..what the!<$FFFC>
+What's that!?<$FFFE>
+What's going on!?<$FFFE>
+I didn't want to have to rely on this kind of thing, since I find the amount of damage it lets loose excessive.<$FFFE>
+Don't think too badly of me.<$FFFE>
+What is that strange contraption?<$FFFE>
+I don't know.<$FFFC>
+I've never heard of anything that resembles that!<$FFFE>
+Go for it, magically-propelled giant soldier Galshook!<$FFFC>
+Show them the magical might of the ancients!<$FFFE>
+Target acquisition.....completed.<$FFFC>
+Powering up generator.<$FFFE>
+....Magic power replenished.<$FFFC>
+Ready to fire magic cannon.<$FFFE>
+Attaaaaaack!<$FFFE>
+Uwaa!<$FFFE>
+What the hell was that!?<$FFFE>
+This is very bad!<$FFFC>
+All troops, retreat!<$FFFE>
+Too late for that!<$FFFE>
+Skyboat Fleet - Deck of the Flagship<$FFFF>
+General Gaiel.<$FFFC>
+It seems the Galshook made it in time.<$FFFE>
+Hmmph, of course it did.<$FFFC>
+Because we had the skyboat fleet, I knew we'd be able to transport even that giant monster in two days.<$FFFE>
+And you were right as always.<$FFFE>
+Now, let's begin our own attack.<$FFFE>
+Yes, sir!<$FFFE>
+<$FFFF>
