@@ -14,48 +14,48 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JEler<$FFFF>
+Jügler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemEler<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-JEler<$FFFF>
+Jügler<$FFFF>
 Fauvel<$FFFF>
 Jessica<$FFFF>
 Viscount Raymond<$FFFF>
 Böser<$FFFF>
 Necromancer Grove<$FFFF>
 Lushiris Gate ~ Western Gate<$FFFF>
-Thanks.<$FFFC>
+Thank you.<$FFFC>
 Your help was much appreciated.<$FFFE>
 Wow!<$FFFC>
 He's so fluffy-fluffy!<$FFFE>
-Can I please touch you, too?<$FFFE>
+You wouldn't mind if I'd touched you too right?<$FFFE>
 My, you really are fluffy, aren't you.<$FFFE>
 .....Guu.<$FFFE>
-Good to see you again, JEler.<$FFFE>
+Good to see you again, Jügler.<$FFFE>
 Master Fauvel, Mistress Sophia.<$FFFD>
 I am very glad to see both of you are well.<$FFFE>
 Both of us were also surrounded by enemies, until Sir [diehardt's name] and company came and saved us.<$FFFE>
 The demons of Velzeria are beginning to invade Larcuss.<$FFFD>
 We've got to renew the Lushiris Gate as soon as possible.<$FFFE>
 ....I see.<$FFFC>
-Guess I shall open the gate.<$FFFE>
+I shall open the gate immediately.<$FFFE>
 Please do.<$FFFE>
 Holy light of Lady Lushiris, grant me the power to open this gate, to drive back the powers of darkness.<$FFFE>
 Wonderful.....<$FFFE>
 A pillar of light is shining in the northern sky, too!<$FFFE>
-Somehow, the northern gate must have been liberated, too.<$FFFE>
+Somehow, the northern gate must have been liberated, as well.<$FFFE>
 Guess so.<$FFFB>
 <$FFFC>
 Lord Raymond must have been successful.<$FFFE>
 Right now, this country faces troublesome times.<$FFFC>
-JEler will help you, too!<$FFFE>
-JEler joined the part!<$FFFE>
+I Jügler, will help you too!<$FFFE>
+Jügler joined the part!<$FFFE>
 My, even Mr. Fluffy-fluffy is coming with us!<$FFFE>
-Nice to have you with us, JEler.<$FFFE>
+Nice to have you with us, Jügler.<$FFFE>
 Gr....<$FFFE>
 Lushiris Gate ~ Center<$FFFF>
 I have been waiting for your return, Lord Raymond.<$FFFD>
@@ -93,10 +93,10 @@ All of the countries haven't been worn out from the fighting.<$FFFC>
 Indeed, the Empire is still much too strong.<$FFFE>
 If that's the case, I know a human who will suit our needs well.<$FFFC>
 If we use him, we should be able to assassinate the Field Marshal.....<$FFFE>
-Kill AltemEler, eh....<$FFFC>
+Kill Altemüller...?<$FFFC>
 Intriguing, go ahead and try!<$FFFE>
 Yes, Master.<$FFFE>
-In all likelihood, if the ever-popular AltemEler is killed and replaced by that idiot Imperial prince, the Empire will be embroiled in the chaos of the succession.<$FFFE>
+In all likelihood, if the ever-popular Altemüller is killed and replaced by that idiot Imperial prince, the Empire will be embroiled in the chaos of the succession.<$FFFE>
 That chaos will create a gap for us to enter....<$FFFC>
 Hohoho!<$FFFE>
 <$FFFF>

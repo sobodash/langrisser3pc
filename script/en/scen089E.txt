@@ -2,7 +2,7 @@ Langrisser III dumper [0x2e7f96 to 0x2e87bf]
 
 Cyber Warrior X
 
-Dieh舐te<$FFFF>
+Diehﾃ､rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,37 +14,37 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-J・ler<$FFFF>
+Jﾃｼgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-Altem・ler<$FFFF>
+Altemﾃｼller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 King Sieghart<$FFFF>
-Field Marshal Altem・ler<$FFFF>
+Field Marshal Altemﾃｼller<$FFFF>
 Elthlied Soldier<$FFFF>
-Ber<$FFFF>
+Bﾃｶser<$FFFF>
 Necromancer Grove<$FFFF>
-Doppleganger Ferakia<$FFFF>
-Elthlied's Royal Capitol, Larcussia - Audience Hall<$FFFF>
-For now, we of Elthlied and the Rig・er Empire shall agree to a cease-fire until the defeat of Velzeria.<$FFFE>
+Shapeshiftress Ferakia<$FFFF>
+Elthlied's Royal Capitol, Larcussia ~ Audience Hall<$FFFF>
+For now, we of Elthlied and the Rigﾃｼler Empire shall agree to a cease-fire until the defeat of Velzeria.<$FFFE>
 Elthlied has barely even been established as a country.<$FFFC>
 Right now we'd rather focus our efforts on settling our internal affairs than on fighting.<$FFFE>
 We of the Empire are in the same boat.<$FFFC>
-These monsters of Velzeria have invaded even our Empore of Rig・er.<$FFFE>
+These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
 And with the recent death of our Emperor, the administration is in a state of instability.<$FFFC>
 So, neither of us have the luxury of ignoring this mutual problem posed by Velzeria.<$FFFE>
-So as things stand now, it is a pleasure to formalize this cease-fire agreement.<$FFFE>
+As things stand now, it is mutually beneficial to formalize this truce.<$FFFE>
 With that done, I bid you farewell.<$FFFE>
 ........<$FFFE>
 What's wrong, Tiaris?<$FFFE>
 Say, [diehardt's name].<$FFFE>
-Do you approve of this cease-fire agreement with that guy?<$FFFE>
-Ah, that's what's bothering you.<$FFFE>
+Do you approve of allying with that guy?<$FFFE>
+Oh, that's what's bothering you.<$FFFE>
 I think it's a good thing that we don't have to fight both Velzeria and the Empire at the same time.<$FFFE>
 ....I guess so.<$FFFE>
-If [diehardt's name] agrees, I'll agree too.<$FFFE>
+If it's okay for you, I think I can live with it too.<$FFFE>
 Tiaris.....<$FFFE>
 ....I just can't believe it.<$FFFC>
 That guy...killed Father....<$FFFE>
@@ -57,24 +57,24 @@ My, my, Lady Jessica.<$FFFC>
 You are quite a sight for sore eyes.<$FFFE>
 I have thought of a plan to strike against Velzeria.<$FFFE>
 Many thanks for your efforts.<$FFFE>
-By using the power of the demon sword, the Alhazard, Ber has amplified his powers of darkness and been able to negate the power of the Lushiris Gate.<$FFFD>
+By using the power of the demon sword, the Alhazard, Bﾃｶser has amplified his powers of darkness and been able to negate the power of the Lushiris Gate.<$FFFD>
 We must obtain the power to overcome the demon blade, the Alhazard.<$FFFE>
 Is the Haja no Ken not sufficient?<$FFFE>
 Of course, the Haja no Ken is important.<$FFFD>
 However, we can't overcome the Alhazard with just the power of the Haja no Ken.<$FFFE>
 So the Alhazard is that powerful....<$FFFE>
-So, to strengthen the power of the Haja no Ken, we need to secure the cooperation of a certain person.<$FFFD>
+To strengthen the power of the Haja no Ken, we need to secure the cooperation of a certain person.<$FFFD>
 Please, help me escort this person to the center of the Lushiris Gate.<$FFFE>
-I hate to ask this, but could you all go and help her?<$FFFE>
+I hate to ask this, but could I once more depend on you all?<$FFFE>
 Of course.<$FFFE>
 Velzeria Castle<$FFFF>
 I can't believe this turn of events.<$FFFC>
-Altem・ler's very existence has become a hindrance to our plans.<$FFFE>
+Altemﾃｼller's very existence has become a hindrance to our plans.<$FFFE>
 Grove!<$FFFC>
-Hurry up the assassination of this pesk!<$FFFE>
+Hurry up the assassination of this pest!<$FFFE>
 Yes, my lord!<$FFFE>
 Now, what to do about Elthlied....<$FFFE>
-Lord Ber, please let me deal with Elthlied.<$FFFE>
-Ferakia, eh.<$FFFC>
+Lord Bﾃｶser, please let me deal with Elthlied.<$FFFE>
+Ferakia...<$FFFC>
 Very well, I shall leave it to you.<$FFFE>
 <$FFFF>

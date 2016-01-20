@@ -1,0 +1,43 @@
+﻿Langrisser III dumper [0x3720ae to 0x37235b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+　<$FFFC>
+Scenario ~ 36<$FFFC>
+"The Birth of a Legend"<$FFFE>
+After the division strikes down Demon General Geier<$FFFC>
+and begins descending into the deeper parts of Castle Velzeria,<$FFFC>
+they are welcomed by an eerie light bearing ill omen undoubtedly.<$FFFC>
+From the inner part Paul's voice can be heard,<$FFFC>
+offering up ceremonial chants to the God of Chaos. <$FFFE>
+Should the ceremony be completed,<$FFFC>
+not only would the Demonic God terrorize the world again<$FFFC>
+but also would her soul fall into eternal darkness.<$FFFC>
+And so the battle for Diehärte's beloved<$FFFC>
+and the fate of all mankind unfolded.<$FFFE>
+
+
+*Condition for Victory<$FFFC>
+  Defeat Böser within 17 turns<$FFFC>
+* Conditions for Defeat<$FFFC>
+  Death of [diehardt's name]<$FFFC>
+  Death of the hostage<$FFFE>

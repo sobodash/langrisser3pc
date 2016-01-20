@@ -2,7 +2,7 @@ Langrisser III dumper [0x2dc61e to 0x2dcfb7]
 
 Cyber Warrior X
 
-Dieh‰rte<$FFFF>
+Dieh√§rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,11 +14,11 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J√ºgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem√ºller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Elthlied Soldier<$FFFF>
@@ -33,7 +33,7 @@ Because the monsters have gotten stronger!<$FFFE>
 I think the problem's with the Gate.<$FFFE>
 That's just not possible!<$FFFC>
 I'm sure it's the Alhazard!<$FFFE>
-But, I don't think any kind of sword could have that kind of power!<$FFFE>
+But, I don't think any kind of sword could have that so much power!<$FFFE>
 I'd have to agree with Tiaris on that one.<$FFFC>
 I'm sure the problem is with the Gate itself......<$FFFE>
 Say, [diehardt's name]!<$FFFC>
@@ -76,13 +76,13 @@ I'd say the demons have found some new way to strike back.<$FFFE>
 ...........<$FFFE>
 I've got some bad news!<$FFFC>
 The Imperial army's launched a surprise attack against the royal capitol!<$FFFE>
-Wow.<$FFFC>
+Phew.<$FFFC>
 We've got not time to waste.<$FFFE>
 The Imperial army's at the royal capitol!?<$FFFC>
 Gah, at this kind of time....!<$FFFE>
 Very well.<$FFFC>
 Let's hurry and head back.<$FFFE>
-Center of Lushiris Gate<$FFFF>
+Central Lushiris Gate<$FFFF>
 Recently, there have been numerous monster infestations.<$FFFC>
 Do you have any idea why?<$FFFE>
 The Gate itself is functioning perfectly.<$FFFE>
@@ -92,7 +92,7 @@ The Alhazard is the symbol of the Demon Lord.<$FFFC>
 It has the ability to amplify the power of an evil wielder.<$FFFE>
 Then, can you explain how we can deal with the Alhazard?<$FFFD>
 If we knew that, wouldn't we be able to halt the encroachments of the monsters?<$FFFE>
-The only way to stop the monsters is to defeat the wielder of the sword......the Prince of Darkness, Boser, and then seal the Alhazard.<$FFFE>
+The only way to stop the monsters is to defeat the wielder of the sword......the Prince of Darkness, B√∂ser, and then seal the Alhazard.<$FFFE>
 We've got some trouble, Sir Kirikaze!<$FFFD>
 The Imperial army has attacked the royal capitol in force.<$FFFC>
 Please, return immediately!<$FFFD>

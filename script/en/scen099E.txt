@@ -1,0 +1,177 @@
+Langrisser III dumper [0x3222d2 to 0x32354b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+General Varna<$FFFF>
+King Sieghart<$FFFF>
+Sieghart<$FFFF>
+Field Marshal Geier<$FFFF>
+Rigüler Commander<$FFFF>
+Monster<$FFFF>
+Wormmaster Rag<$FFFF>
+Elthlead Commander<$FFFF>
+General Emaillink<$FFFF>
+King Wilder<$FFFF>
+Dark Knight<$FFFF>
+Princess Flaire<$FFFF>
+Velzerian Castle ~ Underground<$FFFF>
+It seems that after all the cursed swords strength depends on his wielder.<$FFFD>
+Even with Alhazard's power he couldn't compete with the our combined powers.<$FFFE>
+Your Excellency, you are safe.<$FFFD>
+Lately I've been nothing but trouble for you.<$FFFE>
+There's no need to feel that way.<$FFFD>
+One could endure indescribable agony and overcome the most grievous hardships for the sake of someone dear.<$FFFE>
+Altemüller...<$FFFE>
+Varna was threatened by Böser to kill me, who had taken her sister as a hostage.<$FFFE>
+To deceive everyone, I drank a medicine that put me into a death like state.<$FFFC>
+All that was done to give us the chance to rescue Anna.<$FFFE>
+Even the slightest mistake could have been lethal, it was a risky bet.<$FFFC>
+And yet you've gone through all of this...<$FFFE>
+Truly, Thank you.<$FFFE>
+I see, this it how it all came to be.<$FFFE>
+Well then, let us initiate the ceremony to seal the demon sword.<$FFFE>
+Lewin.<$FFFE>
+Yes, Father.<$FFFE>
+This means goodbye for us as well.<$FFFE>
+Huh!?<$FFFE>
+In order to seal Alhazard successfully, my soul must melt with the Langrisser completely.<$FFFD>
+It is the only way.<$FFFE>
+I..I see...<$FFFE>
+Don't make such a sad face.<$FFFC>
+From now on you are the King of Elthlied.<$FFFD>
+You must hold your head high and lead our people.<$FFFB>
+<$FFFC>
+...I have faith in you.<$FFFE>
+...Yes father! I shall give it my all!<$FFFE>
+Awaken, sacred powers of the divine one.<$FFFC>
+Saintly Sword imbued with the noble spirit of a king, <$FFFE>
+take away the power from the Sword of Darkness, Alhazard, and put it into everlasting slumber.<$FFFE>
+The dark aura is growing weaker...<$FFFE>
+This at least should put an end to Velzeria.<$FFFE>
+After all you live, Altemüller.<$FFFE>
+General Geier!?<$FFFC>
+What are you doing here?<$FFFE>
+It is not General, call me Field Marshal!<$FFFE>
+Field Marshal...You!?<$FFFC>
+Never!<$FFFE>
+And I had such high hopes for the poison to put an end to you.<$FFFC>
+This shouldn't be possible!<$FFFE>
+It was just an act.<$FFFE>
+You finally dead would have been to good to be true...<$FFFC>
+You're nothing but an obstacle for his majesty Paul.<$FFFE>
+Too bad for you that, in the meantime I have become the new Field Marshal!<$FFFE>
+So, this is what you've been after.<<$FFFE>
+If I'd present your head to his majesty Paul, he'd surely be overjoyed!<$FFFE>
+Fire!<$FFFE>
+Watch out your Excellency!<$FFFE>
+Urgh!<$FFFE>
+Idiots!<$FFFC>
+You missed!?<$FFFE>
+Varna!<$FFFE>
+Geier!<$FFFE>
+Ahh, don't!<$FFFC>
+The sword...<$FFFE>
+As for that sword!<$FFFE>
+Guwargh!！<$FFFE>
+Damn!<$FFFC>
+Retreat for now!<$FFFE>
+Hold it!<$FFFC>
+Geier!<$FFFE>
+*giggle*...<$FFFC>
+You didn't really think you could escape,<$FFFC>
+you little dumbass...<$FFFE>
+Demons have appeared?<$FFFC>
+What is going on...?<$FFFE>
+Alhazard has recognized you as its new wielder.<$FFFC>
+You are now the absolute ruler of the demon tribe.<$FFFE>
+We approve of you being our new master and pledge our livelong loyalty to you.<$FFFE>
+...Hmph, interesting.<$FFFC>
+I accept this power!<$FFFE>
+After we finally were able to help Anna, you had to die...<$FFFE>
+You will not get away with this Geier!<$FFFC>
+Paul!<$FFFE>
+This is bad!<$FFFC>
+At this rate the sword will possess him!<$FFFC>
+We have to stop him!<$FFFE>
+If he gets away, all our efforts so far would be in vain!<$FFFE>
+Everyone chase after Altemüller!<$FFFE>
+You will do no such thing.<$FFFE>
+As for you, Rag!<$FFFE>
+You are becoming an annoying obstacle.<$FFFE>
+How can you still be alive?<$FFFE>
+Me, Grove and Ferakia, we all are, in a way.<$FFFE>
+Impossible!<$FFFC>
+No way they could...<$FFFE>
+Oh, but we are immortal.<$FFFC>
+Fighting us is useless.<$FFFE>
+We will see if those claims are valid!<$FFFE>
+Hoho.<$FFFC>
+This is nothing compared to the holy blade.<$FFFE>
+Ah it seems like you can't wait to suffer at my hands.<$FFFE>
+But for today we have to say our goodbyes.<$FFFC>
+We have to stand by our new master's side.<$FFFE>
+It isn't too late just yet.<$FFFC>
+We have to chase after him.<$FFFE>
+Don't tell me we have to seal Alhazard once more, what a pain!<$FFFE>
+So much for the supposedly decisive battle...<$FFFE>
+Emergency!<$FFFE>
+What's happening, why are you being so flustered?<$FFFE>
+The Barral troops have crossed the border!<$FFFC>
+Please return immediately!<$FFFE>
+What!?<$FFFE>
+It seems that they have reorganized a combat force.<$FFFD>
+If we decide to stop Barral, we'll probably lose Altemüller.<$FFFE>
+...That may be true.<$FFFC>
+However, Altemüller is just out of his mind in anger right now.<$FFFD>
+After he calms down, we may be able to talk some sense into him.<$FFFD>
+For now we have to stop Barral.<$FFFE>
+Until Alhazard is sealed and Velzeria is brought down, I shall accompany you on your way.<$FFFE>
+Plains near Velzeria Castle<$FFFF>
+....<$FFFE>
+....Altemüller.<$FFFC>
+What are your plans from here on?<$FFFE>
+It is likely that Paul sends some pursuers this way.<$FFFD>
+We will be gone when they arrive and strike back at them.<$FFFD>
+Furthermore we have Elthlead to be aware of.<$FFFC>
+We cannot say if they will be interfering with our plans...<$FFFE>
+You can leave that matter to me my lord.<$FFFC>
+Alright, do as you please.<$FFFE>
+Well then.<$FFFC>
+In that case I entrust dealing with Elthlead to you Rag.<$FFFD>
+Once I've dealt with Paul, I'll claim back the empire.<$FFFC>
+We will take our leave now.<$FFFE>
+Well then.<$FFFE>
+Barrel castle during audience<$FFFF>
+The combat force is ready at last.<$FFFC>
+These are no times to sit idly by, we'll move out soon.<$FFFE>
+Everything is permitted including plundering and slaughter.<$FFFC>
+The attack will commence tomorrow!<$FFFE>
+Our first target in Elthlead territory should be the City of Neref....<$FFFE>
+This town...<$FFFC>
+There was a big floodgate there, use it to our advantage...<$FFFE>
+Father you can't mean!<$FFFE>
+...As you wish.<$FFFE>
+Please wait, Sir Dark Knight!<$FFFE>
+....<$FFFE>
+Could you truly do such a terrible thing!?<$FFFE>
+...And that coming from the princess; do you care for your own family so little, opposing the King's orders like this?<$FFFE>
+...Argh!<$FFFE>

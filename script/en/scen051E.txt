@@ -14,16 +14,16 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Baron Torrand<$FFFF>
 King Wilder<$FFFF>
-Kraus<$FFFF>
+Klaus<$FFFF>
 Princess Flaire<$FFFF>
 Colcia Commander<$FFFF>
 Viscount Raymond<$FFFF>
@@ -33,8 +33,8 @@ Baron Torrand's Mansion<$FFFF>
 I'm glad you were able to escape to safety.<$FFFE>
 Additionally, my uncle, Lord Raymond, has assembled an army so we can finally mount a counterattack.<$FFFD>
 That's why we've been tasked with coming to obtain your assistance, Lord Torrand.<$FFFE>
-....Do you truly think you can restore the kingdom of Larcuss?<$FFFE>
-We're not 100% certain.<$FFFB>
+....Do you truly think you can restore the Kingdom of Larcuss?<$FFFE>
+We cannot be certain of it yet.<$FFFB>
 <$FFFC>
 But, if we do nothing, we'll have lost any chance we might have had.<$FFFD>
 Though it has taken us half a year to gather this army in secret, we still might have time if we act now.<$FFFD>
@@ -43,36 +43,36 @@ But, we can't utilize the full power of our army to follow our hearts if we have
 I wouldn't have thought it possible, save for the sight of a person with your power and determination....<$FFFD>
 Very well.<$FFFC>
 It would be a pleasure to offer my aid.<$FFFE>
-[diehardt's name], Lewin-kun, we've done it!<$FFFE>
+[diehardt's name], Lewin, we did it!<$FFFE>
 However, upon reflection, I won't be able to travel much because of my infirmity.<$FFFE>
 And, if I leave here, there will be no one left to protect the citizens of my lands.<$FFFE>
 ....Luna.<$FFFE>
 Yes, Father.<$FFFE>
-It would be best if you traveled with my daughter, Luna.<$FFFC>
+It would be best if you travelled with my daughter, Luna.<$FFFC>
 She's learned the arts of war well and fought before.<$FFFE>
-My thanks for everything you've done for me before now.<$FFFE>
+My thanks for everything you've done for me and my father.<$FFFE>
 Don't worry about her.<$FFFC>
 I've personally trained Luna in tactics and strategy.<$FFFD>
 With all her knowledge of strategy, she shouldn't lose to any ordinary general.<$FFFE>
 Thank you very much, Lord Baron.<$FFFE>
 But, before you leave, I'd like to share a little more of what I've learned.<$FFFD>
-At present, with the Riguler Empire occupying the center of the country, Colcia and Barral have begun invading.<$FFFD>
-Since we face numerous enemy countries, if we hold off making decisive strikes and instead get our foes to fight amongst themselves, we can save our army while exhausting the might of our enemies.<$FFFE>
+At present, with the Rig¸ler Empire occupying the center of the country, Colcia and Barral have begun invading.<$FFFD>
+Since we face numerous enemy countries, if we hold off making decisive strikes and instead get our foes to fight amongst themselves, we can save our army while exhausting of our enemies.<$FFFE>
 Oh, trick our enemies into fighting each other, you say?<$FFFE>
 Indeed.<$FFFD>
-If we strike then, in addition to saving our resources, we can strike with maximum efficacy when our foes are at their weakest.<$FFFE>
-You really do have a deep understanding of strategy.<$FFFE>
-Also, at the Lushiris Gate, deep in the forest of Baldea, there is said to be a great sorceress, the Lady Jessica.<$FFFD>
+If we make our move then, in addition to saving our resources, we can strike with maximum efficacy when our foes are at their weakest.<$FFFE>
+You really do have a deep understanding of warfare.<$FFFE>
+Also, at the Lushiris Gate, deep in the forest of Baldea, there is said to live a great sorceress, the Lady Jessica.<$FFFD>
 It would be best if you tried to meet her.<$FFFE>
 Lady Jessica of the Lushiris Gate, eh.<$FFFE>
 ....I'm still baffled by the Barral Kingdom.<$FFFD>
-That King Wilder seems to have changed completely.<$FFFC>
+That King Wilder seems to have changed past all recognition.<$FFFC>
 Rumors say that he's gone completely mad.<$FFFE>
 King Wilder....<$FFFE>
 Speaking of which, do you know about Barral's new Supreme Commander?<$FFFD>
-He always goes about completely covered in jet-black armor, and it seems no one knows his true identity.<$FFFD>
-Showing no mercy to his foes, this nebulous figure is called Dark Knight.<$FFFE>
-Dark Knight!?<$FFFE>
+He always goes about all covered in jet-black armor, and it seems no one knows his true identity.<$FFFD>
+Showing no mercy to his foes, this nebulous figure is called the Dark Knight.<$FFFE>
+The Dark Knight!?<$FFFE>
 That's about all I've been able to learn.<$FFFB>
 <$FFFC>
 Just ask Luna if you wish to know more at a later date.<$FFFE>
@@ -82,11 +82,11 @@ I, Luna, shall do my best to take your place and serve with honor and distinctio
 I leave it to you, Luna.<$FFFE>
 Oh, and I came across this.<$FFFC>
 See that you put it to good use....<$FFFE>
-Received the Gleipnir!<$FFFE>
+Received Gleipnir!<$FFFE>
 Sir [diehardt's name], look after my daughter.<$FFFB>
 <$FFFC>
 Take care on your journey.<$FFFE>
-Barral Castle - Audience Room - 12 Years Earlier<$FFFF>
+Barral Castle ~ Audience Room ~ 12 Years Earlier<$FFFF>
 Ohh!<$FFFB>
 <$FFFC>
 It's been such a long time since last we met; I'm so glad you came, Kraus.<$FFFE>
@@ -95,10 +95,10 @@ No need to speak so distantly.<$FFFC>
 You and I are close friends, after all.<$FFFE>
 A pleasure to meet you, King Wilder and Princess Flaire.<$FFFB>
 <$FFFC>
-My name is Dieh‰rte.<$FFFE>
+My name is [diehardt's name].<$FFFE>
 ....I'm Flaire.<$FFFB>
 <$FFFC>
-Nice to meet you, Dieh‰rte.<$FFFE>
+Nice to meet you, [diehardt's name].<$FFFE>
 Hey, Flaire?<$FFFC>
 What's the matter?<$FFFD>
 Today you seem a little sunburnt and quite soft-spoken.<$FFFC>
@@ -107,10 +107,10 @@ Sheesh!<$FFFC>
 Papa, you meanie!<$FFFE>
 Ha ha ha!<$FFFC>
 I didn't mean to make you nervous.<$FFFD>
-Dieh‰rte, why don't you go play a bit and have fun with your new friend, Flaire.<$FFFD>
+[diehardt's name], why don't you go play a bit and have fun with your new friend, Flaire.<$FFFD>
 And in the meantime, Krause and I can have a little chat together.<$FFFE>
 .....Geeze, I can't believe how obnoxious Papa was being.<$FFFE>
-Say, Dieh‰rte, want to go play outside?<$FFFE>
+Say, [diehardt's name], want to go play outside?<$FFFE>
 Very well, Princess.<$FFFB>
 <$FFFC>
 Whatever milady does wish.<$FFFE>
@@ -119,7 +119,7 @@ Don't be milady-ing me!<$FFFB>
 Didn't you hear Papa berate your father about that?<$FFFD>
 Like him, I'm not a stickler for manners.<$FFFC>
 It's so tiresome to hear day in, day out!<$FFFC>
-Wouldn't you agree, Dieh‰rte?<$FFFE>
+Wouldn't you agree, [diehardt's name]?<$FFFE>
 ....Phew.<$FFFD>
 Honestly, I was afraid I was going to make a mistake if I kept talking like that.<$FFFE>
 Ahahaha!<$FFFB>
@@ -136,7 +136,7 @@ We'll play tag!<$FFFE>
 Alright!<$FFFC>
 No way I'm losing!<$FFFE>
 Plains of Former Larcuss<$FFFF>
-Oh, shit!<$FFFB>
+Dammit all!<$FFFB>
 <$FFFC>
 Back, back!<$FFFC>
 Retreeaaaaat!!<$FFFE>
@@ -145,11 +145,11 @@ The Colcian Army's headed back home.<$FFFE>
 Indeed.<$FFFC>
 Now we've got one less enemy country facing us.<$FFFE>
 Lord Raymond!<$FFFE>
-Oh, a report from the mobile divison, eh.<$FFFC>
+Oh, an incoming report from the mobile division.<$FFFC>
 What does it say?<$FFFE>
 Sir, the mobile division has secured the aid of Lord Torrand.<$FFFD>
 Because Lord Torrand is ill and can't move much, the Baron's Daughter, Lady Luna, has come in his place.<$FFFE>
-Oho, the Baron's daughter, eh.<$FFFD>
+Oho, the Baron's daughter.<$FFFD>
 I hear she's quite a skilled woman, better than most men with the blade.<$FFFC>
 That's excellent.<$FFFE>
 Oh, there's also one more matter mentioned in the message.<$FFFD>
@@ -157,7 +157,7 @@ Lushiris Gate, in the forest of Baldea.<$FFFB>
 <$FFFC>
 It seems that the Lady Jessica, a mighty sorceress, resides there.<$FFFD>
 They recommend that our next move should be to head there.<$FFFE>
-Lushiris Gate, eh.<$FFFE>
+Lushiris Gate, I see.<$FFFE>
 Lord Raymond, are you knowing anything about this woman, or the Lushiris Gate?<$FFFE>
 This Lushiris Gate is on consecrated grounds, dedicated to the goddess of light who watches over our country, Lady Lushiris.<$FFFD>
 Because of this strife, I have a feeling the Lushiris Gate may no longer be able to properly function.<$FFFE>

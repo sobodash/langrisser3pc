@@ -14,17 +14,17 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JEler<$FFFF>
+Jügler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemEler<$FFFF>
+Altemüller<<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 General Varna<$FFFF>
-Field Marshal AltemEler<$FFFF>
-RigEer Commander<$FFFF>
-Former Royal Castle of Larcussia - Currently Imperial Headquarters<$FFFF>
+Field Marshal Altemüller<$FFFF>
+Rigüler Commander<$FFFF>
+Former Royal Castle of Larcussia ~ Currently Imperial Headquarters<$FFFF>
 Your Excellency!<$FFFC>
 It's still dangerous to your health to be very active.<$FFFE>
 Don't worry about me.<$FFFD>

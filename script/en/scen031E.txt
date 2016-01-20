@@ -1,0 +1,367 @@
+Langrisser III dumper [0x1438e8 to 0x14603b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Ruud<$FFFF>
+Dark Knight<$FFFF>
+Barral Commander<$FFFF>
+-Annihilate the enemy<$FFFE>
+-Death of [diehardt's name]<$FFFC>
+-Destruction of the Watergate $FFFE>
+Town of Nefuru<$FFFF>
+Sir Dark Knight.<$FFFC>
+Are we about to invade this town?<$FFFE>
+That is correct.<$FFFE>
+But it would seem that this town doesn't hold any strategic value.<$FFFE>
+That may be so.<$FFFC>
+It will serve to demonstrate the might of the Barral Kingdom<$FFFE>
+and our unwavering determination to conquer all.<$FFFC>
+We will think of its further use afterwards.<$FFFE>
+Today we make clear to the world that nothing can compare to the power of Barral, just as King Wielder desires.<$FFFE>
+To prove ourselves worthy we must strike swiftly and effectively.<$FFFE>
+Certainly.<$FFFC>
+Once the floodgate is broken our victory is assured.<$FFFE>
+I see, that way the city will submerge.<$FFFC>
+What a prudent plan.<$FFFE>
+Then nothing remains...<$FFFE>
+Enough idle talk, begin the maneuver.<$FFFE>
+...Forward the orders Ruud.<$FFFE>
+.....<$FFFE>
+...All troops!<$FFFC>
+The target is the floodgate.<$FFFC>
+Spread out!<$FFFE>
+Yessir!<$FFFE>
+Hold it!<$FFFC>
+We will not permit you to lay waste to this town!<$FFFE>
+So we meet again Dark Knight!<$FFFE>
+Sir Dios...<$FFFE>
+Ruud?<$FFFB>
+<$FFFC>
+...it has been a long time.<$FFFE>
+Change of orders.<$FFFD>
+Ruud you lead the front-line unit and stop the enemy's advance.<$FFFC>
+Mobile units flank the enemy.<$FFFE>
+Yessir.<$FFFE>
+<$fe><$14>‥<$fe><$1e>‥<$fe><$1e>‥。<$FFFE>
+What are you doing Ruud!<$FFFD>
+He may once was your superior but now he's nothing more than a traitor.<$FFFC>
+As such you will strike him down without hesitation.<$FFFB>
+<$FFFC>
+...Move out.<$FFFE>
+Prepare Yourself Dark Knight!<$FFFE>
+Are you ready for me?<$FFFC>
+If not you will pay the ferryman soon.<$FFFE>
+That goes without saying! <$FFFE>
+Geriord...<$FFFB>
+<$FFFC>
+Why, Geriord...<$FFFE>
+Now I understand what they are up to!<$FFFC>
+The enemy plans to open the flood gate!<$FFFE>
+What!?<$FFFC>
+If the Floodgate was destroyed it would mean the end for this town.<$FFFE>
+Right.<$FFFB>
+<$FFFC>
+We mustn't allow this to happen!<$FFFE>
+What!<$FFFB>
+<$FFFC>
+Could they really commit an act of such cruelty?<$FFFE>
+If they open the flood gate, this whole town will be in peril!<$FFFE>
+Right.<$FFFB>
+<$FFFC>
+Could they really commit an act of such cruelty?<$FFFE>
+Sir Dios.<$FFFC>
+After all it seems I too committed a terrible error.<$FFFD>
+Listen, our objective is to destroy the floodgate to make this town submerge.<$FFFE>
+What?!<$FFFD>
+Crap!<$FFFC>
+Just how low has the Barral Kingdom fallen?<$FFFE>
+...They want Barral to be feared.<$FFFC>
+It is due to the king's own wish.<$FFFE>
+What absurdity.<$FFFC>
+Aren't we soldiers to protect our people? Slaughtering all those civilians is what you vowed to prevent, not to cause.<$FFFD>
+We cannot allow this town to fall into their hands...<$FFFE>
+Ruud.<$FFFC>
+Are you aware of what you just did?<$FFFD>
+Leaking information to the enemy is treason.<$FFFE>
+Sir Ruud!?<$FFFC>
+Do you understand what do just did?<$FFFD>
+What it means to leak information to the enemy?<$FFFE>
+...I'm well aware of what it means.<$FFFE>
+SO you did it intentionally and fully aware of the consequences.<$FFFD>
+You are hereby branded a traitor!<$FFFE>
+...Me a traitor...<$FFFE>
+The front line units have been engaged in combat!<$FFFE>
+All troops move out.<$FFFE>
+Yessir!<$FFFE>
+That can't be...<$FFFE>
+....<$FFFC>
+I wonder, is this truly the righteous way to life...<$FFFE>
+Diehärte...<$FFFE>
+What is it, Dios?<$FFFE>
+I'm concerned for my former subordinate Ruud.<$FFFC>
+Are you worried about going to battle with him?<$FFFE>
+That's quiet right.<$FFFC>
+Maybe I can bring him back to his senses somehow.<$FFFE>
+Alright, we'll leave him to you then.<$FFFE>
+Ruud advance!<$FFFE>
+...Yessir!<$FFFE>
+Something funny is going on.<$FFFC>
+Ruud face looks like he is brooding over something.<$FFFD>
+Maybe it's about the enemy tactics...<$FFFE>
+[diehardt's name]!<$FFFC>
+The floodgate was broken!<$FFFE>
+Damn!<$FFFC>
+Protecting the floodgate takes top priority!<$FFFE>
+We didn't pay enough attention!<$FFFC>
+Protect the floodgate!<$FFFE>
+It's been a while Ruud.<$FFFE>
+...Sir Dios.<$FFFE>
+Just how long do you plan to stick with those guys?<$FFFE>
+One man alone can go his own way.<$FFFD>
+But I could not sacrifice my wife for my own desires.<$FFFC>
+...there's little chance to escape the resulting persecution.<$FFFE>
+....<$FFFE>
+In the end, one who leaves behind his wife to run away is nothing but a coward.<$FFFE>
+I don't think so.<$FFFD>
+Taking the opportunity to run away to stay true to oneself is certainly better than losing oneself and becoming a disfigured person.<$FFFD>
+...This would be what the person that loves you couldn't endure more than anything else.<$FFFE>
+Thank you.<$FFFC>
+Your words have restored you a little in my eyes.<$FFFE>
+Ruud why did you leak information to our enemy?<$FFFC>
+Do you care for your family so little?<$FFFE>
+Protecting my family is the very reason I became a soldier.<$FFFC>
+I never to slaughter innocent people.<$FFFD>
+But if you betray us, you know what'll happen to your family, right?<$FFFE>
+It's too late to turn back now anyway.<$FFFC>
+I lay my fate into the hands my new comrades.<$FFFC>
+We simply must throw down the Dark Knight!<$FFFE>
+Sir Dios...<$FFFE>
+Ruud.<$FFFC>
+Don't you care about your family? <$FFFE>
+....Ugh!<$FFFD>
+Are you so quick to forget the oath you made?<$FFFC>
+Your methods have become intolerable!<$FFFC>
+From now on I'll follow Dios's way!<$FFFE>
+...I see.<$FFFC>
+Throwing away pride for survival is the path of the weak-minded!<$FFFC>
+Thank you, Sir Dios.<$FFFE>
+If it's completely broken this town will be doomed!<$FFFE>
+Stop this madness!<$FFFE>
+There's no time left!<$FFFE>
+Now Barral's might shall be known far and wide!<$FFFE>
+We have failed...to protect..the people of this town.<$FFFE>
+You come across a large gravestone.<$FFFC>
+It is inscribed with ancient letters that say:<$FFFD>
+"Seven ramparts and the great witch sleep here."<$FFFE>
+Do you want to offer up a prayer?<$FFFE>
+Suddenly a you hear a voice from unknown origin.<$FFFD>
+"Those who call out my name<$FFFC>
+shall be granted power".<$FFFE>
+What do you say?<$FFFE>
+Media<$FFFE>
+Sukasaha<$FFFE>
+Shihu<$FFFE>
+Nothing happened.<$FFFE>
+When you speak the name Sukasaha a magic circle appears on the ground.<$FFFC>
+From below a book rises and floats right into your hands.<$FFFE>
+The book of Sukasaha was obtained!<$FFFE>
+Nothing happened.<$FFFE>
+After all we still have to fight each other.<$FFFE>
+It can't be helped.<$FFFC>
+We are enemies now!<$FFFE>
+I won't hold back!<$FFFE>
+Let's see if your skill can match mine!<$FFFE>
+It pains me to have to do battle with a former subordinate.<$FFFC>
+But it seems, there's no other way than to beat some sense into you!<$FFFE>
+Only a fool would dream of defeating me.<$FFFE>
+I'm sorry, everyone!<$FFFE>
+...I'm sorry General...<$FFFE>
+Don't be modest now.<$FFFC>
+Move on with all your power!<$FFFE>
+This town has to be saved...<$FFFC>
+Uuhh...<$FFFE>
+Huh?<$FFFC>
+I don't have anything else to say...<$FFFE>
+...Oh. That was quiet good.<$FFFE>
+You are just one strong person but we draw upon a different power!<$FFFE>
+The strength that comes with comradeship!<$FFFC>
+With it your defeat is already a certainty!<$FFFE>
+You're just a bunch of rebels to me.<$FFFC>
+I will show you how helpless you really are!<$FFFE>
+Awww...what a waste...<$FFFE>
+Uwaaah!<$FFFC>
+I'll be more careful next time...<$FFFE>
+The enemy...is upon us...<$FFFE>
+I'm so sorry for what I did!<$FFFC>
+What a strange twist of fate!<$FFFE>
+Why does this happen so soon...<$FFFC>
+I didn't think my strength was this...meh....<$FFFE>
+I'm sorry for failing in the hour of need...<$FFFE>
+Ahh, I'm done for..good luck to you...<$FFFE>
+Despicable!<$FFFC>
+Be respectful to your elders...<$FFFE>
+GURRRRR...<$FFFE>
+Dammit!<$FFFC>
+That Dark Knight guy..is...<$FFFE>
+Diehärte, you have to bring down the Dark Knight...<$FFFE>
+You are the only one who can stop him now!<$FFFE>
+I'm sorry, I can't...<$FFFE>
+Mistake!<$FFFC>
+What a terrible mistake!<$FFFE>
+Uugh!<$FFFE>
+Ruud!<$FFFE>
+Sir Dios!<$FFFC>
+You always have been my idol...<$FFFD>
+You're a bit rough around the edges but your concern for your subordinates is exemplary.<$FFFD>
+When King Wilder changed, everyone else said nothing out of fear but you stood up and acted.<$FFFE>
+It's alright...<$FFFC>
+Don't speak anymore...<$FFFE>
+Sir Dios.<$FFFC>
+My wife Remi...<$FFFE>
+I know, don't worry.<$FFFC>
+With that I can go in peace...<$FFFE>
+Uugh!<$FFFE>
+....<$FFFE>
+After...all..I did..for Barral...I die..being branded as a traitor...<$FFFD>
+Forgive me, Remi....<$FFFC>
+I have been nothing but trouble to the end...<$FFFE>
+...Ruud.<$FFFE>
+Di..Dios.<$FFFC>
+You always have been my idol...<$FFFD>
+You're a bit rough around the edges but your concern for your subordinates is exemplary.<$FFFD>
+When King Wilder changed, everyone else said nothing out of fear but you stood up and acted.<$FFFD>
+I..never wanted to fight against you...<$FFFC>
+It's thanks to you that I found courage in myself...<$FFFE>
+You give me too much credit..<$FFFC>
+It's alright to let go, Ruud.<$FFFE>
+Remi...please take care of my wife...<$FFFE>
+...Understood...<$FFFE>
+Thank you for everything...you ever did for me...<$FFFE>
+....<$FFFE>
+After...all..I did..for Barral...I die..being branded as a traitor...<$FFFD>
+All I ever did...was for the sake of my country..and for you, Remi...<$FFFC>
+D-don't let them have their way...<$FFFE>
+Understood, Ruud.<$FFFC>
+You can struggle all you want.<$FFFE>
+You all will follow him to the netherworld before long!<$FFFE>
+Now I'm really pissed.<$FFFC>
+I won't let you get away unpunished!<$FFFE>
+...We mustn't be defeated.<$FFFC>
+We will protect this town no matter what!<$FFFE>
+Oh, what is this power...<$FFFC>
+that could best even me...<$FFFE>
+...this cannot...I...guarh..<$FFFE>
+Geriord?<$FFFE>
+...N..no way...<$FFFC>
+Geriord was the Dark Knight all along...<$FFFE>
+That can't be...<$FFFE>
+...Just what is going on?...<$FFFE>
+Please safe them!<$FFFC>
+If the enemy isn't pushed down...!<$FFFE>
+Ah..Arghh...<$FFFE>
+Uoooh!<$FFFE>
+This....I....<$FFFE>
+Lucky...strike...<$FFFE>
+I don't wanna...<$FFFE>
+Forgive me...my daughter...<$FFFE>
+Huh?...Am I dead....?<$FFFE>
+I couldn't....<$FFFE>
+Is that you god....?<$FFFE>
+This was pointless....<$FFFE>
+Uuhh...my conscience grows wide....<$FFFE>
+Where's my sword...<$FFFE>
+Excuse me....<$FFFE>
+Please...stop...<$FFFE>
+Long live the Barral Kingdom!<$FFFE>
+Victory shall be ours!<$FFFE>
+I'll just use a resurrection spell...later....<$FFFE>
+This is not the way....Urgh!<$FFFE>
+I....can't move....<$FFFE>
+Uwaaaah!<$FFFE>
+Good-bye my friends, it's hard to die!<$FFFE>
+Heh, heeeergh!<$FFFC>
+My death draws near....<$FFFE>
+It's so cold....<$FFFE>
+Cahrge!<$FFFE>
+God abandoned us.....that figures.<$FFFE>
+I'll never fly again...<$FFFC>
+You better be ready for this!<$FFFE>
+At least I'll die like a maaarrggh!<$FFFE>
+Flood gate...Fl..ood..ga...<$FFFE>
+Destroying...town..is...fun...<$FFFE>
+...Uaahh!<$FFFC>
+The Barral troops that were aiming at the gate are no more.<$FFFD>
+This destruction...<$FFFE>
+Silence!<$FFFC>
+Join as one and attack!<$FFFE>
+...Hmph, this is getting interesting.<$FFFD>
+Come and give it a try!<$FFFE>
+We will protect this town with our very lives!<$FFFE>
+The units dedicated to destroy the gate was wiped out...<$FFFD>
+No matter, we'll have to kill everyone around by ourselves than, even though it's slower...<$FFFE>
+What are you doing from here on out Ruud?<$FFFE>
+I left Barral behind me but not my family.<$FFFC>
+I'll have to protect them with my own hands.<$FFFD>
+...this I can do because of your help.<$FFFE>
+I see.<$FFFC>
+Good luck to you Ruud.<$FFFE>
+Thank you.<$FFFE>
+I left Barral behind me but not my family.<$FFFD>
+I'll protect mine and you must seek out the origin of this mess by moving on to the royal family.<$FFFE>
+I see.<$FFFC>
+Let's all give our best.<$FFFE>
+Yes.<$FFFC>
+Thank you very much.<$FFFE>
+Die, you traitor!<$FFFE>
+Dammit!<$FFFC>
+How can I be bested?<$FFFE>
+At ease.<$FFFC>
+Take good care of your family.<$FFFE>
+What!?<$FFFE>
+...At last it's over..<$FFFE>
+Your command was magnificent [diehardt's name].<$FFFE>
+[diehardt's name]...<$FFFC>
+We spend to much time fighting.<$FFFD>
+This will influence our further progress...<$FFFE>
+I'm relieved we were able to save this town.<$FFFE>
+[diehardt's name].<$FFFC>
+Finally we were able to stop the Dark Knight.<$FFFE>
+...Yeah.<$FFFE>
+General Dios.<$FFFD>
+I would only be a hindrance to all of you.<$FFFD>
+May this spear will prove useful to you in my stead.<$FFFE>
+I would only be a hindrance to all of you.<$FFFD>
+May this spear will prove useful to you in my stead.<$FFFE>
+Gae Bolg was obtained!<$FFFE>
+I would only be a hindrance to all of you.<$FFFD>
+Unfortunately I have nothing to give you.<$FFFD>
+But know that my prayers will be with you.<$FFFE>
+....Ruud.<$FFFC>
+Show them what the true Spirit of Barral is.<$FFFD>
+As you once promised to Remi.<$FFFE>
+Traitor.<$FFFC>
+Prepare to receive your punishment!<$FFFE>
+Don't make me laugh Dark Knight!<$FFFC>
+I won't forgive you for mistreating my subordinates!<$FFFD>
+Today you'll regret, being so full of yourself!<$FFFE>
+You coward will eat those words soon!<$FFFE>
+<$FFFF>

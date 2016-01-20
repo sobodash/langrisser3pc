@@ -1,0 +1,120 @@
+Langrisser III dumper [0x356154 to 0x356ce7]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Sage Fauvel<$FFFF>
+Do Kahni<$FFFF>
+ <$FFFC>
+Scenario ~ 34<$FFFC>
+"The Shape of a Heart"<$FFFE>
+As the chosen of the Demon Sword Alhazard, <$FFFC>
+Altemüller ascended to be the sovereign ruler of the Demon Tribe.<$FFFC>
+Sitting on the throne of the Rigüler Empire,<$FFFC>
+he patiently awaits the arrival of<$FFFC>
+Diehärte and his companions.<$FFFE>
+The upcoming battle would be the last chance<$FFFC>
+to prevent Altemüller from becoming Böser irrevocable.<$FFFC>
+Now only the Holy Sword Langrisser carries onward<$FFFC>
+the flame of hope, as it moves toward the Imperial Capitol.<$FFFE>
+*Conditions of Victory<$FFFC>
+ -Defeat of Altemüller<$FFFC>
+*Conditions of Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFE>
+Rigüler Royal Castle<$FFFF>
+...Hmm?<$FFFE>
+What is the matter lord Böser?<$FFFE>
+Rag's life force has diminished completely.<$FFFC>
+It seems that he is dead for good.<$FFFE>
+After all he was all bark and no bite.<$FFFE>
+Well then, Lord Böser.<$FFFC>
+What will be our next step?<$FFFE>
+We needn't trouble ourselves with plans for an attack.<$FFFC>
+They will come here without a doubt.<$FFFE>
+With Alhazard in my hands, there is nothing that could possibly threaten me.<$FFFC>
+And I have you by my side too, Varna.<$FFFE>
+Alte...lord Böser.<$FFFC>
+My devotion to you knows no limit; I will follow you to all ends.<$FFFE>
+Gladly would I give my very life, if it was for you...<$FFFE>
+In front of the Rigüler Castle Walls<$FFFF>
+At last, we have made it here.<$FFFE>
+It was only possible with the Langrisser and everyone clinging together..<$FFFE>
+It seems like an eternity since the floating castle fell.<$FFFE>
+When the Empire suddenly invaded Laffel, for one moment I thought all hope was lost.<$FFFE>
+Now now, Pierre.<$FFFC>
+I'm just glad that everyone was alright in the end.<$FFFE>
+Before I met you I thought I'd never use a blade again.<$FFFD>
+I was overwhelmed by regret,<$FFFC>
+doing nothing while slowly decaying from the inside; looking back I'm ashamed of myself.<$FFFD>
+You however cleared away my doubts and gave me a new purpose, for that you have my sincerest gratitude.<$FFFE>
+Also, when father was in danger it was thanks to everyone's help that he was saved...<$FFFE>
+That's true.<$FFFE>
+Gurur...Jug..Jügler...<$FFFE>
+Damn right, the sole reason for thinking of others as our enemies<$FFFD>
+is that we don't understand each others perspective,<$FFFC>
+don't you think?<$FFFE>
+Exactly.<$FFFE>
+Whooah hold it there!<$FFFD>
+Are you telling me that once we restore peace I can't act troublesome and violently any more, that's my profession as a thief!<$FFFE>
+So you're planning to continue to be a thief afterwards?<$FFFE>
+Well....<$FFFD>
+Maybe Elthlied has use for someone of my trade.<$FFFC>
+I wonder if there'll be need for a spy.<$FFFE>
+Anyhow, this will be the decisive battle for the Demon Sword Alhazard.<$FFFD>
+Whoever can claim it will have the power to shape the world.<$FFFC>
+Once this task is complete I will return to my home country.<$FFFE>
+Kirikaze...<$FFFE>
+What soothing thought.<$FFFC>
+Once this matter is concluded, I'm sure father will rejoice with us from above.<$FFFE>
+Well then, shall we?<$FFFC>
+Nothing less than the future of mankind depends on this next battle.<$FFFE>
+True enough.<$FFFC>
+...King Lewin, please give the word.<$FFFE>
+Ehm...that..<$FFFC>
+With Langrisser on our side we will not falter.<$FFFC>
+Everyone, if we give it our all, we are bound to emerge victorious!<$FFFE>
+Shiikaaa!<$FFFE>
+Move out everyone!<$FFFE>
+Yeahh!<$FFFE>
+.....<$FFFE>
+Something on your mind, Tiaris?<$FFFE>
+We just have to win this!<$FFFE>
+Of course!<$FFFE>
+.....<$FFFE>
+Something on your mind, Riffany?<$FFFE>
+Just...make sure to win this one.<$FFFE>
+Of course!<$FFFE>
+.....<$FFFE>
+Something on your mind, Luna?<$FFFE>
+Just make extra sure we win this one!<$FFFE>
+Leave it to me!<$FFFE>
+.....<$FFFE>
+Something on your mind, Sophia?<$FFFE>
+I'm sure the goddess will grant us victory.<$FFFE>
+Of course!<$FFFE>
+.....<$FFFE>
+Something on your mind, Flaire?<$FFFE>
+Just don't forget what you promised!<$FFFE>
+Of course!<$FFFE>
+...Father.<$FFFC>
+Please watch over us.<$FFFB>
+<$FFFC>
+We will win for sure!<$FFFE>

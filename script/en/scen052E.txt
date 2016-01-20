@@ -14,16 +14,16 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JEler<$FFFF>
+Jügler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemEler<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 <$FFFC>
-Scenario - 06<$FFFC>
-"Double Enemy"<$FFFE>
+Scenario ~ 06<$FFFC>
+"Enemies on all Sides"<$FFFE>
 Now that Luna, daughter of the genius tactician Baron Torrand,<$FFFC>
 has joined [diehardt's name] and company, the mobile division<$FFFC>
 has come between the forces of the RigEer Empire and Barral<$FFFC>
@@ -36,7 +36,7 @@ the Larcussians' plans, buying some time to realize their goal.<$FFFE>
   after initiating combat between the Imperial and Barral forces<$FFFC>
 *Condition for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-Near the Borderline Between Barral and the RigEer Empire<$FFFF>
+Near the Borderline between Barral and the Rigüler Empire<$FFFF>
 Sir [diehardt's name]<$FFFB>
 <$FFFC>
 An enemy base is just a little farther.<$FFFE>
@@ -50,7 +50,7 @@ If we can trick the Empire into fighting against Barral, we'll be in a much bett
 But, how can we get them to fight each other?<$FFFE>
 Ahead of us is a borderline manned by the Imperial and the Barral armies.<$FFFD>
 If we attack both of their armies simultaneously there, and quickly retreat, they'll fight amongst themselves.<$FFFE>
-I see!<$FFFB>
+Now I get it!<$FFFB>
 <$FFFC>
 Each will think the other has tried to invade, and we can move on in the aftermath!<$FFFE>
 Precisely.<$FFFB>

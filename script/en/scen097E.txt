@@ -2,7 +2,7 @@ Langrisser III dumper [0x30ca60 to 0x30cd2b]
 
 Cyber Warrior X
 
-Dieh舐te<$FFFF>
+Diehﾃ､rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,16 +14,16 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-J・ler<$FFFF>
+Jﾃｼgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-Altem・ler<$FFFF>
+Altemﾂ・ler<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Emperor Paul<$FFFF>
 Field Marshal Geier<$FFFF>
-Rig・er Imperial Castle - Audience Hall<$FFFF>
+Rigﾃｼler Imperial Castle ~ Audience Hall<$FFFF>
 Uhahaha!<$FFFD>
 I can't stop laughing in joy!<$FFFC>
 Now the Empire is mine in both name and truth!<$FFFD>

@@ -14,21 +14,21 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 <$FFFC>
-Scenario - 20<$FFFC>
-"Fighting in the Vast Skies"<$FFFE>
+Scenario ~ 20<$FFFC>
+"Skirmish in the Vast Skies"<$FFFE>
 Since General Bortz fought to his last breath to let the majority<$FFFC>
 of his subordinates escape, he gave a fierce accounting of
-himself.  During that battle, he showed that even to his death,<$FFFC>
+himself. During that battle, he showed that even to his death,<$FFFC>
 he was a true man.<$FFFE>
-Having defeated Bortz and captured the skyboat,<$FFFC>
+Having defeated Bortz and captured the airship,<$FFFC>
 [diehardt's name] quickly set sail to rescue Lord Raymond<$FFFC>
 from his convoy to the Empire.<$FFFE>
 And now, a fierce battle was about to ensue in the vast skies.<$FFFE>
@@ -37,16 +37,16 @@ And now, a fierce battle was about to ensue in the vast skies.<$FFFE>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Time up<$FFFE>
-Captured Skyboat<$FFFF>
-Wow, it's fast, so fast!<$FFFE>
-After seeing the strength of this skyboat and that magically-propelled giant soldier, I'm worried about what the Empire might use next.<$FFFE>
+Captured Airship<$FFFF>
+Wow, it's fast, soo fast!<$FFFE>
+After seeing the strength of this airship and that magically-propelled giant soldier, I'm worried about what the Empire might use next.<$FFFE>
 !!<$FFFE>
 Sir [diehardt's name]!<$FFFC>
-There's an Imperial skyboat up ahead!<$FFFE>
+There's an Imperial airship up ahead!<$FFFE>
 So we've caught up to it!<$FFFE>
 Father's in there......<$FFFE>
-Prepare the boarding plank.<$FFFC>
-Soon as we touch their gunwale, we'll board them.<$FFFE>
+Prepare the boarding planks.<$FFFC>
+As soon as we touch their gunwale, we'll board them.<$FFFE>
 Eh?!<$FFFC>
 That's pretty reckless!<$FFFE>
 Very much so.<$FFFC>

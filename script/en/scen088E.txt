@@ -2,7 +2,7 @@ Langrisser III dumper [0x2e0604 to 0x2e09cf]
 
 Cyber Warrior X
 
-Dieh舐te<$FFFF>
+Diehﾃ､rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,33 +14,33 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-J・ler<$FFFF>
+Jﾃｼgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-Altem・ler<$FFFF>
+Altemﾃｼller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Imperial First Prince Paul<$FFFF>
 Advisor<$FFFF>
 <$FFFC>
-Scenario - 24<$FFFC>
+Scenario ~ 24<$FFFC>
 "The Field Marshal's Determination"<$FFFE>
-Velzeria, country of monsters, has begun a full-scale invasion.<$FFFC>
+Velzeria, country of the demon kind, has begun a full-scale invasion.<$FFFC>
 The mobile division was defending the border villages but got a<$FFFC>
 high priority recall because of the Empire's attack on the royal capitol.<$FFFE>
-But, who will ultimately win in this battle between three foes -<$FFFC>
-the Empire, Velzeria, or Larcuss?<$FFFE>
+But, who will ultimately win in this battle between three foes; <$FFFC>
+the Empire, Velzeria, or Elthlied?<$FFFE>
 *Condition for Victory<$FFFC>
  -Defeat of all enemies<$FFFC>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Death of Sieghart<$FFFE>
-Rig・er Imperial Castle - Paul's Personal Room<$FFFF>
+Rigﾃｼler Imperial Castle ~ Paul's Personal Room<$FFFF>
 So, now that my father's died, it's my turn to take the throne.<$FFFE>
-But, Altem・ler seems more popular within the court here.<$FFFE>
+But, Altemﾃｼller seems more popular within the court here.<$FFFE>
 How shall we deal with those fools expected to oppose us?<$FFFE>
-Let's just give Altem・ler no margin for error if he blunders again.<$FFFE>
+Let's just give Altemﾃｼller no margin for error if he blunders again.<$FFFE>
 And when he does.....I'll call for his death.<$FFFE>
 This plan might take some time before it can be hatched.<$FFFC>
 But, it gives me such a rush.<$FFFC>

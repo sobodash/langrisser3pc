@@ -25,9 +25,9 @@ General<$FFFF>
 Viscount Raymond<$FFFF>
 General Bortz<$FFFF>
 General Emaillink<$FFFF>
-Field Marshal Altemîêler<$FFFF>
+Field Marshal Altemüller<$FFFF>
 Rigüler Commander<$FFFF>
-General Gaiel<$FFFF>
+General Geier<$FFFF>
 General Varna<$FFFF>
 Adjutant Gates<$FFFF>
 Plains of Former Larcuss<$FFFF>
@@ -49,11 +49,11 @@ I fear I have something to bring to your attention!<$FFFD>
 I'd like to look into this myself.<$FFFD>
 This place has grown a mite bit boring.<$FFFC>
 I'd like to do something enjoyable like a hunt.<$FFFE>
-Gaiel.<$FFFC>
+Geier.<$FFFC>
 Don't waste troops for no reason.<$FFFD>
 Your tactics often result in heavy casualties.<$FFFE>
 ................<$FFFE>
-...Hunting human foes, he said.<$FFFE>
+...Hunting humans, he said.<$FFFE>
 That's just the way he likes to talk about things.<$FFFD>
 Well, do as you've said.<$FFFC>
 If you fulfill your duty, no questions will be asked.<$FFFD>
@@ -68,6 +68,6 @@ But, I'll show him.<$FFFC>
 Sometime soon I'll get a chance to rub his face in the dirt!<$FFFE>
 That would be most excellent.<$FFFD>
 That brat doesn't have a chance in the world against you, General.<$FFFE>
-Damned straight.<$FFFD>
+Damn straight.<$FFFD>
 Let's go, Gates!<$FFFE>
 Yessir!<$FFFE>

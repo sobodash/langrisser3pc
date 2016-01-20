@@ -19,19 +19,19 @@ Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
 Altemüller<$FFFF>
-Varma<$FFFF>
+Varna<$FFFF>
 Emaillink<$FFFF>
 <$FFFC>
-Scenario - 04<$FFFC>
-"General Gaiel"<$FFFE>
-Having won the heart of the powerful ally called "Blademaster Gilbert,"<$FFFC>
+Scenario ~ 04<$FFFC>
+"The Despicable General Geier"<$FFFE>
+Having won the backing of the powerful ally called "Blademaster Gilbert,"<$FFFC>
 [diehardt's name] heads towards the land of Baron Torrand. Along the<$FFFC>
 way, on a mountain road he notices citizens of Larcuss being harried<$FFFC>
-by General Gaiel and the Imperial Army.<$FFFE>
+by General Geier and the Imperial Army.<$FFFE>
 In order to rescue the citizens from the Imperial Army, [diehardt's name]<$FFFC>
-makes a stand against General Gaiel.<$FFFE>
+makes a stand against General Geier.<$FFFE>
 *Condition for Victory<$FFFC>
- - Annihilation of all enemies but Gaiel<$FFFC>
+ - Annihilation of all enemies but Geier<$FFFC>
 * Conditions for Defeat<$FFFC>
  - Death of [diehardt's name]<$FFFC>
  - Death of all NPCs<$FFFE>

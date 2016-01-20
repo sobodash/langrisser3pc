@@ -1,0 +1,249 @@
+Langrisser III dumper [0x14e900 to 0x150253]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Princess Flaire<$FFFF>
+Barral Commander<$FFFF>
+Jessica<$FFFF>
+Defeat or persuade Flaire$FFFE>
+Death of [diehardt's name]<$FFFE>
+Barral Kingdom ~ Defensive Position<$FFFF>
+...I still can't believe it.<$FFFC>
+How could the Dark Knight be defeated?<$FFFE>
+When I received the report I couldn't believe my ears.<$FFFC>
+I too thought the Dark Knight to be unbeatable...<$FFFE>
+Princess! The enemy has appeared!FFFC>
+After all it seems to be the truth that the Dark Knight has fallen.<$FFFE>
+Don't panic!<$FFFC>
+Our defence here has never crumbled before.<$FFFC>
+Fight defensively and we surely will be victorious.<$FFFE>
+Blazes!<$FFFC>
+They've put up some tough looking defence.<$FFFE>
+The princess is proud of this spot being the perfect place for thwarting any attempt to assault the Barral Kingdom.<$FFFE>
+She is quiet the brave princess to command the troops herself, don't you think?<$FFFE>
+You can say that again.<$FFFC>
+Her offensive abilities are good but her defensive skills are her real strong point.<$FFFC>
+We will have a hard time here for sure.<$FFFD>
+...Luckily it seems that, despite the King's and Dark Knight's madness the princess is still herself.<$FFFE>
+We should try to avoid any meaningless fighting with her.<$FFFE>
+Yeah.<$FFFE>
+...Flaire!<$FFFC>
+Listen to me!<$FFFE>
+What is your business here?<$FFFE>
+Flaire.<$FFFC>
+We have no desire to do senseless battle.<$FFFC>
+Please let us through to meet with King Wilder.<$FFFE>
+So you are after my father's life?<$FFFE>
+We only want to talk to him.<$FFFE>
+I cannot believe you.<$FFFC>
+It is my duty to protect the king from any danger.<$FFFC>
+Therefore you will not pass.<$FFFE>
+You may have defeated the Dark Knight but don't think you will have so much luck a second time!<$FFFE>
+Flaire!<$FFFE>
+What should we do,[diehardt's name]?<$FFFE>
+If Velzeria is related to this, the longer we do nothing the worse it will get.<$FFFE>
+...We have to persuade Flaire somehow.<$FFFC>
+Everyone if I can explain the situation to Flaire I'm sure she'll cooperate.<$FFFE>
+In this case we should concentrate only on securing a path to her.<$FFFE>
+Leave it to me!<$FFFC>
+I've got your back!<$FFFE>
+Everyone, I put my faith in you!<$FFFE>
+Charge!<$FFFE>
+Vanguard troops mobilize.<$FFFC>
+Don't let them through!<$FFFE>
+Understood!<$FFFC>
+Commencing to eliminate the enemy.<$FFFE>
+Healing units support the others from the back!<$FFFE>
+Leave it in our care!<$FFFE>
+All troops, move out!<$FFFC>
+If we can't hold this position our lives will be forfeited!<$FFFC>
+Crush the enemy!<$FFFE>
+Understood!<$FFFE>
+How did we end up fighting like this [diehardt's name]...<$FFFE>
+Princess we will protect you with our lives.<$FFFE>
+Thank you...<$FFFC>
+Retreat if it gets too dangerous.<$FFFD>
+There are families you need to take care of.<$FFFE>
+Princess...<$FFFE>
+The outcome of this battle will decide the fate of Barrel!<$FFFD>
+Remember that even a small force can best a large one if the advantage is on their side!<$FFFC>
+Stay strong!<$FFFE>
+Yeaaah!<$FFFE>
+As expected they are coming across the bridge...<$FFFD>
+Ranged units!<$FFFC>
+Aim with utmost accuracy!<$FFFC>
+Sorcerers move on to the attack!<$FFFE>
+Understood.<$FFFE>
+Flaire!<$FFFC>
+Please hear me out!<$FFFE>
+The sudden change of King Wilder's personality is just too strange.<$FFFC>
+You must have noticed yourself right?<$FFFE>
+.....<$FFFE>
+You come across a conspicuous spot of barren land.<$FFFE>
+Do you want to inspect it more closely?<$FFFE>
+You discover two closed boxes in the dirt.<$FFFE>
+Do you want to open one of them?<$FFFE>
+The smaller one<$FFFE>
+The larger one<$FFFE>
+Don't open any<$FFFE>
+Upon opening the box, a ray off light flashes towards you.<$FFFE>
+Divine Blessing was obtained!<$FFFE>
+Out of nowhere an enormous bird appears and flies off.<$FFFC>
+holding the box you didn't chose in its claws...<$FFFE>
+An ancient book was found inside.<$FFFE>
+Book of Mysteries was obtained!<$FFFE>
+Out of nowhere an enormous bird appears and flies off.<$FFFC>
+holding the box you didn't chose in its claws...<$FFFE>
+Out of nowhere an enormous bird appears and flies off,<$FFFC>
+taking both boxes away...<$FFFE>
+Halt!<$FFFE>
+You may not pass through!<$FFFE>
+You sadden me, Flaire...<$FFFC>
+We haven't come to do battle.<$FFFD>
+We just want to meet King Wilder to uncover the truth behind all of this!<$FFFD>
+That's why I'm asking you to step aside!<$FFFE>
+I will do no such thing!<$FFFC>
+You are no other than any other invader in my eyes!<$FFFE>
+You shall feel our wrath for this act of aggression!<$FFFE>
+Don't place yourself in our way!<$FFFE>
+There's no turning back for any of us!<$FFFE>
+This is as far as you get!<$FFFE>
+You will not pass through here!<$FFFE>
+Return to where you came from!<$FFFE>
+<$F702><$F702>N..No!<$FFFD>
+Flaire...<$FFFE>
+Good bye, [diehardt's name]...<$FFFE>
+Kyaaaah!<$FFFC>
+This was unnecessary...<$FFFE>
+Ugh...<$FFFC>
+Where's my power...<$FFFE>
+What!?<$FFFC>
+This can't be...<$FFFE>
+What excessiveness.<$FFFC>
+Not now...<$FFFE>
+Farewell, Diehärte...<$FFFC>
+I'm so tired....<$FFFE>
+I'm going to rest...just a little bit...<$FFFE>
+...I'm done....<$FFFE>
+Tough luck...<$FFFC>
+How's that possible....<$FFFE>
+Grrr....<$FFFE>
+I'm sorry, Diehärte...<$FFFC>
+We were so close to our goal...<$FFFE>
+Grrr!<$FFFC>
+One shouldn't throw ones live away carelessly...<$FFFD>
+It is unfortunate but retreat seems to be the only option.<$FFFE>
+Forgive me, but I need to rest a little.<$FFFE>
+My power wasn't enough...<$FFFE>
+Uuh...Ughh.<$FFFC>
+My sword is eluding the grasp of my hand....<$FFFE>
+Kyaahh!<$FFFE>
+Such a horrible thing to do...<$FFFE>
+Why...<$FFFE>
+Oh Goddess...<$FFFE>
+It's hopeless already...<$FFFE>
+Forgive me...princess...<$FFFE>
+Uaaargh!<$FFFE>
+Is this...the realm of the gods...?<$FFFE>
+Not like this...<$FFFE>
+I want power....!<$FFFE>
+Just my cursed luck...<$FFFE>
+I expected no less of the ones who defeated the dark knight...<$FFFE>
+My body is collapsing....<$FFFE>
+My spear...where's my spear...<$FFFE>
+Ahh...please...don't...<$FFFE>
+My sword was not enough...<$FFFE>
+So...cruel...<$FFFE>
+This doesn't look well...<$FFFE>
+That's not how it should be....<$FFFE>
+P..Princess...<$FFFC>
+Run...<$FFFE>
+Will I ever see the blue sky again..?<$FFFE>
+Save...the princess...<$FFFE>
+Grrr...how could I....<$FFFE>
+Dying is such sweet sorrow....<$FFFE>
+I won't go down like this!<$FFFC>
+I hate this tainted world...<$FFFE>
+Defend the Princess to the last man!<$FFFE>
+A..After everything that happened...<$FFFC>
+If only my magic worked...<$FFFE>
+My last spell....<$FFFE>
+Protect the Princess!<$FFFE>
+My charge failed...<$FFFE>
+It was a good life...<$FFFE>
+All troops have been wiped out?<$FFFC>
+That's....<$FFFD>
+Unforgivable...<$FFFC>
+But I'll fight to the bitter end, for Barral!<$FFFE>
+Aahhh...<$FFFC>
+It hadn't have to come to this...<$FFFE>
+There's always a better way...<$FFFE>
+The Elthlied troops are advancing!<$FFFE>
+Princess.<$FFFC>
+Diehärte, you have come all this way for naught!<$FFFE>
+Dios you damn traitor...<$FFFC>
+Have you come back to murder my father!?<$FFFE>
+Tch!<$FFFC>
+Such persistence!<$FFFE>
+There is the possibility that King Wilder is being manipulated by Velzeria.<$FFFD>
+Wouldn't that explain everything King Wilder has done of late?<$FFFE>
+Listen to me carefully Flaire!<$FFFE>
+In truth the Dark Knight was Geriord.<$FFFE>
+We could still sense the dark magic around him.<$FFFC>
+He was being used by the Velzerians.<$FFFE>
+Perhaps his and King Wilder's transfiguration is due to some dark magic.<$FFFE>
+The person affected becomes a walking corpse stripped of his own will.<$FFFE>
+Impossible! Father...<$FFFE>
+We only want to investigate if that is the case.<$FFFE>
+If fortune smiles upon us we might be able to rescue the King from the spell!<$FFFE>
+....But...<$FFFE>
+Please believe me Flaire!<$FFFE>
+...I believe you.<$FFFE>
+Even if chances are slim, you may be able to help my father being himself again.<$FFFE>
+Flaire...<$FFFE>
+It's painful to admit but I can't do anything else for him.<$FFFC>
+Neither can I endure seeing him in his current state any longer...<$FFFD>
+Please try to rescue my father...<$FFFE>
+I promise Flaire.<$FFFC>
+We will do our utmost to rescue King Wilder!<$FFFE>
+Thank you, [diehardt's name].<$FFFC>
+...I'd like to help too.<$FFFE>
+Huh?!<$FFFE>
+Well, I can handle myself in battle<$FFFC>
+and my knowledge about the castle should prove somewhat useful.<$FFFE>
+You're right, I'm counting on you.<$FFFE>
+Flair joins the division!<$FFFE>
+...Not long ago, I was out in the forest hunting on my own and followed my prey deep into the forest.<$FFFE>
+When I didn't come home Father and some of his subordinates came looking for me.<$FFFC>
+The fleeing prey had startled father's horse and father fell from a cliff.<$FFFE>
+It was a miracle that he wasn't injured seriously.<$FFFC>
+However...<$FFFE>
+...Flaire.<$FFFE>
+...Afterwards.<$FFFC>
+The kind father I knew was no more.<$FFFE>
+It was all my fault!<$FFFC>
+Father only changed because of my mindlessness!<$FFFC>
+That's what I believe.<$FFFE>
+Please everyone you must leave here, there is nothing you can do to help!!<$FFFE>
+The enemy has come!<$FFFB>
+<$FFFC>
+Protect the princess with your lives!<$FFFE>

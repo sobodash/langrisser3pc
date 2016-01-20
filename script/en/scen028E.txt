@@ -1,0 +1,202 @@
+Langrisser III dumper [0x11a9d6 to 0x11bce3]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Monster<$FFFF>
+Velzerian Commander<$FFFF>
+-Defeat Ferakia<$FFFE>
+-Death of Diehärte<$FFFE>
+Plains of Luon ~ Marshlands<$FFFF>
+This place is just perfect for an ambush, I can already smell the scent of carnage in the air.<$FFFE>
+...But waiting is so unnerving.<$FFFC>
+If we get rid of them here, surely Master Böser would be very pleased.<$FFFE>
+Lady Ferakia.<$FFFC>
+The smell of humans is becoming strong.<$FFFE>
+They are approaching.<$FFFC>
+Now my little darlings, do me a favor and don't mess this up.<$FFFE>
+We won't fail you.<$FFFE>
+The scouts have reported sightings of demons around here.<$FFFE>
+Undoubtedly...<$FFFC>
+The presence of demons can be felt all around.<$FFFE>
+So here it will be then.<$FFFE>
+....This time I will bring a conclusion!<$FFFE>
+Everyone, stay alert!<$FFFE>
+You bet!<$FFFE>
+GIGIGI!<$FFFE>
+Blasted!<$FFFC>
+Enemies are attacking from behind!?<$FFFE>
+Hahahah!<$FFFC>
+Let the bloodbath begin!<$FFFC>
+Make sure our honored guests enjoy themselves to the fullest!<$FFFE>
+The frozen ground is rather hard to tread on.<$FFFE>
+Yes.<$FFFC>
+Furthermore our overland units are handicapped because there's only a narrow path.<$FFFD>
+It would be advisable to deploy fLying and naval units to wipe out the enemy's ranged units.<$FFFE>
+You must be pretty carefree or simply stupid to think you can venture into our territory like this.<$FFFE>
+Spare us the act, for the time of your death draws near!<$FFFE>
+Spare us the act, for the time of your death draws near!<$FFFE>
+Coincidently this crystal here has the convenient property to enhance my magic tenfold.<$FFFD>
+Today you'll witness my less timid side.<$FFFC>
+You should consider yourselves lucky, not many are blessed with so much of my loving attention.<$FFFE>
+I can't wait to try out this body!<$FFFC>
+Here I come!<$FFFE>
+Tss!<$FFFC>
+Here you are already; you're quiet a dashing one!<$FFFE>
+It's time to settle this once and for all!<$FFFC>
+The Shinigami eagerly await the offering of your life!<$FFFE>
+If you want to end your misery so badly, come right at me!<$FFFC>
+This time I won't let you off the hook that easily!<$FFFE>
+Why did it have to end like this...<$FFFE>
+I'm sorry....<$FFFC>
+Sir Diehärte...<$FFFE>
+Father...<$FFFE>
+Coty....<$FFFE>
+Farewell everyone...<$FFFC>
+I'm so tired...<$FFFE>
+Aaah...<$FFFE>
+Sir Diehärte....<$FFFE>
+That light...is so...warm...<$FFFE>
+Sophia...<$FFFE>
+Grrr...<$FFFE>
+Dammit, I failed!<$FFFE>
+This could have been avoided...<$FFFE>
+Aaaahh, the blue sky...<$FFFE>
+I've got no regrets...<$FFFC>
+I can't sense the enemy...anymore...<$FFFE>
+<$F702><$F702>Lord Kirikaze...<$FFFE>
+You...morons...<$FFFC>
+This...is not..the end...<$FFFE>
+Forgive me Lord Böser...I have failed...<$FFFC>
+..I'll be watching...you...from Oblivion...my ill-mannered darlings..<$FFFE>
+My lord....your murder has been indemnified...<$FFFE>
+My lord....your murder has been indemnified...<$FFFE>
+...<$FFFE>
+You did well, Sir Diehärte. Today we have won an important victory.<$FFFE>
+Sir Diehärte....<$FFFC>
+I know this was a difficult battle...<$FFFD>
+So this time I'll let it slide...<$FFFE>
+Hmm, a strange doll flew by...<$FFFC>
+I wonder what was that all about...<$FFFE>
+Right now those demons need to be purged!<$FFFC>
+Be prepared!<$FFFE>
+Ouch...<$FFFC>
+You naughty little human!<$FFFE>
+I have been honorably defeated!<$FFFC>
+I recognize your greatness!<$FFFE>
+How laughable...<$FFFE>
+GUUGAAAA!<$FFFE>
+GUUGAAAA!<$FFFE>
+Uarggh!<$FFFE>
+Such cruelty...<$FFFE>
+You cretins won't trample on our land unpunished!<$FFFE>
+It shouldn't be...<$FFFC>
+me...whose...dying...<$FFFE>
+You morons!<$FFFC>
+You came all the way just to die!<$FFFE>
+Uuugh....<$FFFC>
+I'm dreaming of a world of pure darkness...<$FFFE>
+I may die now....<$FFFE>
+It's time to...let go...<$FFFE>
+GOOOON!<$FFFE>
+GOOOON!<$FFFE>
+GOOOON!<$FFFE>
+GUGAAAAA!<$FFFE>
+I cannot stand this world anymore....<$FFFE>
+So far...so good...<$FFFE>
+Later...<$FFFD>
+Guaaargh!<$FFFE>
+GAAAAA!<$FFFE>
+Atone!...<$FFFE>
+Lord...Chaos<$FFFE>
+SYUUH!<$FFFE>
+You hurt my feelings...mostly...<$FFFE>
+Uwaaaaah!<$FFFE>
+SYUUHH!<$FFFE>
+GURRR....<$FFFE>
+GUURRR...<$FFFE>
+You are the only one left.<$FFFC>
+Resign yourself.<$FFFE>
+Give yourself up Ferakia, all your troops has been wiped out!<$FFFE>
+Hmmph!<$FFFC>
+What use would that have if you'd kill me anyway!?<$FFFE>
+You're doing quiet well, for humans.<$FFFE>
+To reward your many efforts I will show you the true extent of my beauty!<$FFFE>
+What!?<$FFFE>
+Watch closely!<$FFFE>
+I wonder how she did this?<$FFFC>
+What kind of peculiar magic is that?<$FFFE>
+Hahaha!<$FFFE>
+Now that I have taken this form, all hope for you has dwindled!<$FFFE>
+No matter what monstrosity you turn into, I will deliver you to justice all the same!<$FFFE>
+Be my guest and witness this body's disastrous power with your own flesh!<$FFFE>
+This time you can't run away!<$FFFC>
+At long last I will avenge my Lord's murder, so my anguish will be soothed!<$FFFE>
+Hmph!<$FFFC>
+Don't get your hopes up.<$FFFC>
+Once I've sent you to hell you're torment will continue for eternity! <$FFFE>
+You come across a blue glowing round object.<$FFFE>
+What do you do?<$FFFE>
+Do your favorite pose<$FFFE>
+Smile at it<$FFFE>
+Watch it<$FFFE>
+The head of a terracotta doll was obtained!<$FFFD>
+A terracotta head shots out and flies laughingly through the sky until it's out of sight...<$FFFE>
+....<$FFFC>
+You are invited to make a weird pose...<$FFFD>
+But you couldn't do it!<$FFFE>
+You come across a strangely glowing shard-like object.<$FFFE>
+What do you do?<$FFFE>
+Punch it<$FFFE>
+Do nothing<$FFFE>
+Dance around<$FFFE>
+You smashed it to pieces...<$FFFE>
+The object remained in the snow...<$FFFE>
+A blue shard jumped into your hand!<$FFFD>
+Fragment of the doll was obtained!<$FFFE>
+You come across a strangely glowing shard-like object.<$FFFE>
+What do you do?<$FFFE>
+Try touching it<$FFFE>
+Pay your respects<$FFFE>
+Spit on it<$FFFE>
+The moment you bow down to get the shard, it comes out of the snow by itself!<$FFFE>
+The blue shard jumped right into your hand!<$FFFD>
+Fragment of the doll was obtained!<$FFFE>
+Upon carrying out your plan,<$FFFD>
+the shard dissolved...<$FFFE>
+You are in possession of the dolls head!<$FFFD>
+But major parts of it's body are still missing!<$FFFE>
+The doll gives you feelings of unrest...<$FFFC>
+Frustrated you throw it away!<$FFFE>
+Suddenly the face of the doll turns to you!<$FFFD>
+As it dances in mid-air, it gives off an eerie laughter and begins talking :<$FFFE>
+Come Diehärte, there's a place you must see!<$FFFD>
+What's going on now?<$FFFE>
+Umm...<$FFFC>
+Was it not you who gathered my body?<$FFFE>
+Uh huh.<$FFFE>
+So you must like dolls.<$FFFC>
+On the other hand you must hate me somehow, or you wouldn't have thrown me away!<$FFFE>
+HAHAHAHAHA!<$FFFC>
+Anyway, let's be on our way!<$FFFC>
+But wait, there are still enemies you need to take care of, no?<$FFFE>
+<$FFFF>

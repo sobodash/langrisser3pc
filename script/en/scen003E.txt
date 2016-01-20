@@ -2,7 +2,7 @@ Langrisser III dumper [0x12c6a to 0x14cf3]
 
 Cyber Warrior X
 
-DiehÑrte<$FFFF>
+Dieh‰rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,11 +14,11 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅgler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅller<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 General Dios<$FFFF>
@@ -33,9 +33,9 @@ Thief<$FFFF>
 Barral Soldier<$FFFF>
 Barral Supreme Commander<$FFFF>
 -Total destruction of enemy<$FFFC>
--Arrival of [DiehÑrte's name], Layla,<$FFFC>
+-Arrival of [diehardt's name], Layla,<$FFFC>
  and Tiaris at the bottom of the map<$FFFE>
--Death of [DiehÑrte's name]<$FFFC>
+-Death of [diehardt's name]<$FFFC>
 -Death of Layla<$FFFE>
 Vice Capital Laffel<$FFFF>
 Listen up!<$FFFC>
@@ -46,13 +46,13 @@ Hmmm!?<$FFFE>
 What's wrong, [diehardt's name]?<$FFFE>
 They're....not from the Imperial army.<$FFFE>
 Huh?<$FFFC>
-If that's so, then what on earth...<$FFFE>
-What's going on!<$FFFC>
-That's the army of Barral Kingdom!<$FFFE>
+If that's so, then who on earth...<$FFFE>
+Impossible!<$FFFC>
+That's the army of the Barral Kingdom!<$FFFE>
 Barral Kingdom!?<$FFFC>
-Aren't they allies!?<$FFFE>
+Aren't they our allies!?<$FFFE>
 What could have possibly happened?<$FFFE>
-...Anyhow, if the citizens can't escape...we've got to help them, with or without backup!<$FFFE>
+...Anyhow, the citizens are having a hard time escaping...we've got to help them, with or without backup!<$FFFE>
 Kyaa!<$FFFE>
 Round up the citizens!<$FFFE>
 But then that party will get away...<$FFFE>
@@ -67,17 +67,17 @@ Don't let them escape!<$FFFC>
 Kill all of these obstructions!<$FFFE>
 King Wilder!<$FFFC>
 Have you forgotten who I am!?<$FFFC>
-I'm the son of Kraus!<$FFFE>
-Kraus?<$FFFC>
-...Ah, that's right. You're Kraus's little boy.<$FFFE>
-[DiehÑrte's name], you know that person?<$FFFE>
-[DiehÑrte's name], you know that person?<$FFFE>
+I'm the son of Klaus!<$FFFE>
+Klaus?<$FFFC>
+...Ah, that's right. You're Klaus's little boy.<$FFFE>
+[diehardt's name], you know that person?<$FFFE>
+[diehardt's name], you know that person?<$FFFE>
 Yes.<$FFFD>
-Barral Kingdom and the house of Kraus have always had a close relationship.<$FFFD>
-...but, why would kind-hearted King Wilder....<$FFFE>
+Barral Kingdom and the house of Klaus have always had a close relationship.<$FFFD>
+...but, why would the kind-hearted King Wilder....<$FFFE>
 Your friend in the past is your enemy today, huh.<$FFFC>
 Well, they say that people change.<$FFFE>
-All this jabbering makes no sense.<$FFFC>
+Enough of this senseless jabbering.<$FFFC>
 Die and be silenced! Slay them! Don't let a single one escape!<$FFFE>
 Miss Layla!<$FFFC>
 Please flee through the south gate!<$FFFC>
@@ -111,14 +111,14 @@ Do you really think you can kill me, the grand and honorable thief, Sir Silver W
 Such utter unwordliness proves you're nothing but a country-confined Barral bumkin!<$FFFE>
 I'll make you eat those words!<$FFFE>
 General!<$FFFC>
-There's a Larcuss knight over there!<$FFFC>
+There's a Larcussian knight over there!<$FFFC>
 With his help, it looks like the citizens will be able to escape!<$FFFE>
 What did you say!?<$FFFE>
 He's a young one!<$FFFC>
 Once he gets his first taste of cold steel, he'll change his tune!<$FFFE>
 Hey, lass, we'll take it from here - hurry up and escape!<$FFFE>
 I'll do no such thing!<$FFFC>
-If I did, Mr. Wolf might get captured!<$FFFE>
+If I did, you might get captured, Mr. Wolf!<$FFFE>
 ....'kay.<$FFFC>
 Thanks, Mr. Wolf.<$FFFE>
 Hey, Mr. Knight, we'll take it from here - hurry up and escape!<$FFFE>
@@ -335,13 +335,13 @@ Let's hurry out of here.<$FFFE>
 .....<$FFFE>
 Oh, by the way.<$FFFC>
 When the citizens fled the city, they handed me this to give to you in thanks,<$FFFD>
-saying "Please use this, Sir Knight."<$FFFE>
+saying "Please deliver this to the brave Sir Knight."<$FFFE>
 Received the Angel Ring!<$FFFE>
 Thanks.<$FFFC>
-I'll be sure to use it.<$FFFE>
+I'll be sure to put it to good use.<$FFFE>
 ...Hey, [diehardt's name].<$FFFC>
 What are we going to do now?<$FFFE>
-Good question. I think we should seek my uncle...Viscount Raymond.<$FFFD>
+Good question. I think we should seek out my uncle...Viscount Raymond.<$FFFD>
 His domain is removed from Larcuss Kingdom, since it is enclosed by mountains, so the Empire probably hasn't reached it yet.<$FFFE>
 And we'll muster an army there?<$FFFE>
 Indeed.<$FFFC>

@@ -14,25 +14,25 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 <$FFFC>
-Scenario - 08<$FFFC>
-"Lushiris Gate - The Southern Gate"<$FFFE>
+Scenario ~ 08<$FFFC>
+"The Southern Lushiris Gate"<$FFFE>
 In times long past, Lushiris Gate was built in order to guard<$FFFC>
 against demonic invasion. Gates were built in all four<$FFFC>
 directions to complement the power of the Gate.<$FFFE>
 At the time when war broke out, it seems that its functionality<$FFFC>
 was interrupted; the seal binding the demons is growing<$FFFC>
 increasingly weaker.<$FFFE>
-The moment when Lushiris Gate would need to be restored,<$FFFC>
-to forestall for the coming demonic offensive, was quickly<$FFFC>
-approaching. So, the party has travelled to the southern gate<$FFFC>
+The moment when the protection of Lushiris was needed,<$FFFC>
+to avert the coming demonic offensive, was quickly<$FFFC>
+approaching. Therefore, the party has traveled to the southern gate<$FFFC>
 in order to meet its warden, Sophia.<$FFFE>
 But enemies are also seeking her and have made preparations<$FFFC>
 against the arrival of [diehardt's name] and company.<$FFFE>

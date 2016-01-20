@@ -2,7 +2,7 @@ Langrisser III dumper [0x2f5e18 to 0x2f7763]
 
 Cyber Warrior X
 
-Dieh‰rte<$FFFF>
+Dieh√§rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,11 +14,11 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J√ºgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem√ºller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 King Sieghart<$FFFF>
@@ -35,11 +35,11 @@ Good to see you again, Lady Jessica.<$FFFE>
 Good to see you too, Master Olver.<$FFFD>
 My apologies for the haste, but we really need your help.<$FFFE>
 No worries.<$FFFD>
-These fellers have given me the specifics.<$FFFC>
+These people have given me the specifics.<$FFFC>
 We'll need to head to Heaven right away.<$FFFE>
 To Heaven?<$FFFE>
 That's right.<$FFFD>
-To make the Haja no Ken into a holy blade, we need to instill it with Lady Lushiris's power in Heaven.<$FFFE>
+To make the Haja no Ken into a holy blade, we need to infuse it with Lady Lushiris's power in Heaven.<$FFFE>
 Very well, let's use the power of the Gate to teleport to Heaven.<$FFFE>
 Please do.<$FFFE>
 Kesle Kehanitos, Kesle Kehanitos.<$FFFD>
@@ -135,7 +135,7 @@ Haha.<$FFFC>
 I'm not her daughter in the way you're thinking.<$FFFE>
 Jessica serves as my avatar, watching and warding the human world in my stead, since I cannot directly act there.<$FFFD>
 However, she really is human, no different from the rest of humanity.<$FFFD>
-She uses her own judgment to supporting the human worldview and decide what is best to do at any given time.<$FFFE>
+She uses her own judgement to supporting the human worldview and decide what is best to do at any given time.<$FFFE>
 But while we're all here, Velzeria is likely trying to stir up more mischief.<$FFFD>
 We'd best return to the earth right away.<$FFFE>
 Fare well, Lady Lushiris.<$FFFC>
@@ -144,7 +144,7 @@ I shall wish for everyone's success.<$FFFE>
 ...........<$FFFE>
 <$fe><$78><$FFFC>
    Big<$fe><$78><$FFFC>
-     Å@ mis..<$fe><$78><$FFFC>
+     „ÄÄ mis..<$fe><$78><$FFFC>
                ..take<$fe><$3c><$FFFC>
                      !<$FFFE>
 <$FFFC>
@@ -187,7 +187,7 @@ How could something so harsh be just?<$FFFF>
 Ugh.....<$FFFE>
 You're just being overly negative.<$FFFE>
 Bad news!<$FFFE>
-What's wrong?<$FFFE>
+What is the matter?<$FFFE>
 Someone who claims to be of the Larcuss royal bloodline has appeared at the castle!<$FFFE>
 Impossible!<$FFFD>
 Didn't the captured nobles testify that every member of the royal family was slain?<$FFFE>
@@ -197,7 +197,7 @@ Well, that was what the message said.<$FFFD>
 We have our own legitimate successor to this country's rule.<$FFFC>
 Everyone who supports Sieghart needs to return to the royal capitol immediately!<$FFFE>
 What in the world could be happening?<$FFFE>
-Well, we let's hurry back to the castle.<$FFFE>
+Well, let's hurry back to the castle.<$FFFE>
 Somehow, I have a bad feeling about this.<$FFFE>
 Lady Jessica.....<$FFFE>
 I'll return with you.<$FFFD>
@@ -207,22 +207,22 @@ Jessica joined the party!<$FFFE>
 Thank you very much.<$FFFE>
 I will come as well.<$FFFE>
 Very well.<$FFFC>
-Anyhow, let's hurry to the castle.<$FFFE>
-RigÅEer - Elthlied Border ~ Outside Imperial Base<$FFFF>
+Anyhow, let's be on our way to the castle.<$FFFE>
+Rig√ºler - Elthlied Border ~ Outside Imperial Base<$FFFF>
 So we've entered into a ceasefire agreement with Elthlied.<$FFFC>
 But, Velzeria....<$FFFE>
 A vampire bat....?<$FFFE>
 Stop that jabbering, Varna.<$FFFE>
 A monster!?<$FFFE>
 Better not forget that we have your younger sister, Anna.<$FFFD>
-If you don't kill AltemÅEler, her life will be in danger.<$FFFE>
+If you don't kill Altem√ºller, her life will be in danger.<$FFFE>
 Grrr, ....you underhanded scumbag!<$FFFE>
 Hohoho!<$FFFC>
 If you value your younger sister's life, you'd better hurry up and kill him.<$FFFD>
 Use this poison......<$FFFC>
 It has no distinctive taste or smell, and will kill him quickly.<$FFFD>
 Just mix it in with some sake, it should be undetectable.....<$FFFE>
-Anna and Lord AltemÅEler both are precious to me......<$FFFE>
+Anna and Lord Altem√ºller both are precious to me......<$FFFE>
 I....<$FFFC>
 I, I don't know what to do.....<$FFFE>
 <$FFFF>

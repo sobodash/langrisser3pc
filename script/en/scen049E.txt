@@ -26,7 +26,7 @@ General Varna<$FFFF>
 General Emaillink<$FFFF>
 Rigüler Commander<$FFFF>
 General Bortz<$FFFF>
-Former Larcuss Royal Castle - Currently Imperial Headquarters<$FFFF>
+Former Larcuss Royal Castle ~ Currently Imperial Headquarters<$FFFF>
 Have your wounds healed, Varna?<$FFFE>
 My thanks for your concern, Your Excellency.<$FFFC>
 Up until now I have been just a source for worry,<$FFFC>
@@ -39,9 +39,9 @@ Anyhow, does it look like the armies of Lord Raymond and Colcia are still fighti
 Yes, and somehow it looks like the Colcian army is being pressed back.<$FFFE>
 Excuse my interruption!<$FFFE>
 I have a report to offer.<$FFFD>
-While General Gaiel pursued the escaped prisoners, he ran across some armed Larcussians near Baron Torrand's land.<$FFFD>
+While General Geier pursued the escaped prisoners, he ran across some armed Larcussians near Baron Torrand's land.<$FFFD>
 From their apparent route, it looks like they are trying to meet up with Baron Torrand.<$FFFE>
-Imagine that.  Gaiel giving us new information while he hunts...<$FFFD>
+Imagine that.  Geier giving us new information while he hunts...<$FFFD>
 You have done well.<$FFFC>
 Take a much-earned break.<$FFFE>
 Yes, sir!<$FFFE>
@@ -50,17 +50,17 @@ Emaillink.<$FFFC>
 Using your cavalry, go and attack the Baron's manor and this...mobile Larcuss division.<$FFFE>
 It will be difficult to capture them if they're on the run...<$FFFC>
 ..but I wonder what will be the best way to attack the Baron's manor..<$FFFE>
-Might I employ the skyboat for this task?<$FFFE>
+Might I employ an airship for this task?<$FFFE>
 I don't believe it would stand up well against the heavy mountain winds.  The land route should be faster.<$FFFC>
 You should be able to make it in time if you use your cavalry.<$FFFD>
 ...and if you get a chance to see how well he lives up to this reputation for genius strategy, go for it.<$FFFE>
 I shall save it for later use, then.<$FFFC>
 My thanks for this opportunity.<$FFFD>
-Farewell.<$FFFE>
+Well then, I shall take my leave now.<$FFFE>
 Bortz!<$FFFB>
 <$FFFC>
 I leave the matter of Lord Raymond in your hands.<$FFFD>
 Strike when they are at their weakest, right after they defeat the Colcians!<$FFFE>
 Yes, sir!<$FFFC>
-If the circumstances have changed, I'll use my best discretion.<$FFFE>
+I'll asses the situation at hand and deal with it accordingly.<$FFFE>
 Then head on out!<$FFFE>

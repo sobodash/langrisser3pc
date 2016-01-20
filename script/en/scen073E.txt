@@ -24,7 +24,7 @@ Viscount Raymond<$FFFF>
 Larcuss Commander<$FFFF>
 RigÅEer Commander<$FFFF>
 General Bortz<$FFFF>
-Outskirts of Larcussia - Presently Imperial Territory<$FFFF>
+Outskirts of Larcussia ~ Presently Imperial Territory<$FFFF>
 Charge!<$FFFC>
 We will reclaim our country!<$FFFE>
 Ohhhh!!<$FFFE>
@@ -36,7 +36,7 @@ That would be a huge step towards reclaiming our kingdom.<$FFFE>
 ....Sir Kirikaze.<$FFFC>
 Will you aid me now in our struggle to reclaim our kingdom?<$FFFE>
 It would be my pleasure.<$FFFE>
-After all, I cannot accept death until I have defeated the spectral sorceress who destroyed my homeland.<$FFFE>
+After all, I cannot accept death until I have defeated the demonic sorceress who destroyed my homeland.<$FFFE>
 But, before I pursue my vendetta, I shall offer my service in driving out the Imperials.<$FFFC>
 If you will excuse me?<$FFFE>
 Make way!<$FFFE>
@@ -48,7 +48,7 @@ Their forces seem invigorated; I have this feeling we're about to be routed!<$FF
 I'd expect nothing less from Lord Raymond.<$FFFC>
 He might even be able to corner me.<$FFFE>
 But, don't worry!<$FFFC>
-General Gaiel should be bringing relief forces shortly.<$FFFE>
+General Geier should be bringing relief forces shortly.<$FFFE>
 I see, now.<$FFFC>
 The General doesn't seem disturbed in the slightest in the face of this adversity.<$FFFE>
 Given that, we'll fight with our spirits high until those relief troops arrive!<$FFFE>

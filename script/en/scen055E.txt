@@ -14,11 +14,11 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Princess Flaire<$FFFF>
@@ -26,40 +26,40 @@ Dark Knight<$FFFF>
 Young Dieh‰rte<$FFFF>
 King Wilder<$FFFF>
 General Varna<$FFFF>
-Field Marshal AltemÅEler<$FFFF>
-Riguler Commander<$FFFF>
-General Gaiel<$FFFF>
+Field Marshal Altem¸ller<$FFFF>
+Rig¸ler Commander<$FFFF>
+General Geier<$FFFF>
 Adjutant Gates<$FFFF>
 General Emaillink<$FFFF>
 Viscount Raymond<$FFFF>
 General Bortz<$FFFF>
 Town of Railym<$FFFF>
 Enough is enough, Flaire.<$FFFC>
-The duel is over.<$FFFE>
+The battle is over.<$FFFE>
 ....I won't be defeated.<$FFFC>
-If my blade is not enough, I'll use my leadership abilities.<$FFFE>
+If my blade is not enough, I'll use bare hands to keep you from invading Barral.<$FFFE>
 Princess Flaire, I'm afraid you're going to be our prisoner.....<$FFFE>
 I think not.<$FFFE>
 Who's there!?<$FFFE>
 Dark Knight....<$FFFE>
 Hmmph.<$FFFC>
-I didn't come here to protect the princes.....<$FFFE>
+I didn't come here to protect the princess.....<$FFFE>
 There are too many incompetent soldiers in Barral.<$FFFE>
 So you're the Dark Knight!<$FFFE>
 That rat......<$FFFE>
 Think you're all that!?<$FFFC>
 Punk!<$FFFE>
 Wait, Pierre!<$FFFE>
-Haha, wisely spoken.<$FFFC>
+*Huff*...wisely spoken.<$FFFC>
 You'll never win against the Dark Knight.<$FFFE>
-I'll let you bastards take this town of Railym.<$FFFC>
+I'll let you bastards take Railym.<$FFFC>
 Just return the princess to me.<$FFFE>
 Flaire!<$FFFE>
 Next time we meet, don't be foolish enough to show any lenience.<$FFFD>
 I won't hold anything back when we fight.<$FFFE>
 Flaire....<$FFFE>
 I'd heard rumors, but it felt like he was under some form of coercion....<$FFFE>
-Plains Southwest of the Town of  Railym - Now Barral<$FFFF>
+Plains Southwest of the Town of Railym<$FFFF>
 It can't be, Dieh‰rte and I.....,<$FFFC>
 I never wanted to fight against him.....<$FFFD>
 ....Dieh‰rte....<$FFFE>
@@ -89,45 +89,45 @@ For now, the only thing on my mind is becoming a knight.<$FFFE>
 I've had a lot of fun with you up to now, Flaire.<$FFFC>
 It would be grand if we could get together again.<$FFFE>
 ....Dieh‰rte....<$FFFE>
-Plains Southwest of the Town of  Railym - Now Barral<$FFFF>
+Plains Southwest of the Town of Railym<$FFFF>
 How could that have been how our reunion turned out...<$FFFC>
 Father, why have we gone to war.....<$FFFE>
 I have to wonder.....<$FFFC>
 Was it my fault that Father changed so?.....<$FFFE>
-Former Royal Castle of Larcussia - Currently the Imperial Headquarters<$FFFF>
+Former Royal Castle of Larcussia ~ Current Imperial Headquarters<$FFFF>
 How are you feeling, Your Excellency?<$FFFE>
 Don't worry about me.<$FFFD>
-However, Dark Knight must have been hurt just as badly as I was.<$FFFC>
+However, that Dark Knight must have been hurt just as badly as I was.<$FFFC>
 He won't be on the battlefield for a while.<$FFFD>
 And with him out of the picture, Barral has nothing that can stand against us.<$FFFC>
 Even without my presence, we should be able to capture Barral.<$FFFE>
 W..we've got a problem, sir!<$FFFD>
-In the battle between that rogue mobile division and Princess Flaire, it looks like the Larcuss forces won.<$FFFD>
-Afterwards, that Dark Knight appeared and rescured Princess Flaire....<$FFFE>
+In the battle between that rogue mobile division and Princess Flaire, it looks like the Larcussian forces won.<$FFFD>
+Afterwards, that Dark Knight appeared and rescued Princess Flaire....<$FFFE>
 Impossible!<$FFFE>
 But he had to have been deeply wounded by His Excellency!<$FFFD>
 What kind of monster is he!?<$FFFD>
 Does that mean that Barral also has a healer of such high caliber?<$FFFE>
-Gaiel.<$FFFB>
+Geier.<$FFFB>
 <$FFFC>
-Use the fleet of skyboats and capture Laffel!<$FFFD>
+Use the fleet of airships and capture Laffel!<$FFFD>
 I doubt the Dark Knight will make another appearance soon.<$FFFC>
 But, be careful.<$FFFE>
 .....Yes, sir!<$FFFE>
-Deck on the Flagship of the Skyboat Fleet<$FFFF>
+Deck on the Flagship of the Airship Fleet<$FFFF>
 So the Dark Knight wasn't defeated by that young brat.<$FFFD>
 I wonder just how strong a man he is.<$FFFE>
 Even with the Dark Knight out of the picture, Laffel is the second largest city of Larcuss.<$FFFE>
 Three days.<$FFFB>
 <$FFFC>
 No matter what kind of city it is, I'll capture it in three days.<$FFFE>
-Haha, you're the greatest, Lord Gaiel!<$FFFE>
+Haha, you're the greatest, Lord Geier!<$FFFE>
 Hohohoho.....<$FFFB>
 <$FFFC>
 I look forward to seeing the look of utter surprise on that young brat AltemÅEler's face!<$FFFD>
 Wahahaha!<$FFFE>
 Former Royal Castle of Larcussia - Currently the Imperial Headquarters<$FFFF>
-Even if Gaiel has the use of the skyboat, he will be hard-pressed when fighting against the Dark Knight.....<$FFFD>
+Even if Geier has the use of the airship, he will be hard-pressed when fighting against the Dark Knight.....<$FFFD>
 Emaillink!<$FFFB>
 <$FFFC>
 Attack this mobile division of Larcuss!<$FFFE>
@@ -138,6 +138,6 @@ Our opponent will likely be one of the four generals, the bold general called Bo
 We can't afford to lose here!<$FFFC>
 All units, attack!<$FFFE>
 Listen up!<$FFFC>
-For the prosperity of the Empire, we will destroy all the remnants of the Larcuss army!<$FFFC>
+For the prosperity of the Empire, we will destroy all the remnants of the Larcussian army!<$FFFC>
 Let's charge with a spirited battle cry!<$FFFE>
 Uoooo!!<$FFFE>

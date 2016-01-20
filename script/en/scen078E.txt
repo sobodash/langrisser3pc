@@ -25,11 +25,11 @@ General Bortz<$FFFF>
 RigÅEer Commander<$FFFF>
 Imperial Soldier<$FFFF>
 <$FFFC>
-Scenario - 19<$FFFC>
-"Bortz the Man"<$FFFE>
+Scenario ~ 19<$FFFC>
+"A man called Bortz"<$FFFE>
 After the destruction of the Galshook, General Bortz gathered his<$FFFC>
 remaining troops and began a retreat, to prevent the complete<$FFFC>
-annihilation of his men.  This is just like Bortz, to accept even<$FFFC>
+annihilation of his men. This is just like Bortz, to accept even<$FFFC>
 defeat with manly stoicism and move on.<$FFFE>
 However, [diehardt's name]'s mobile division refuses to allow<$FFFC>
 him this chance to escape.  As soon as they have reformed<$FFFC>
@@ -38,16 +38,16 @@ their troops, they continue their pursuit.<$FFFE>
  -Defeat of Bortz<$FFFC>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
- -Bortz's arrival at the skyboat<$FFFE>
-Boarding Pad for the Skyboat, Near the Larcussia Border Defense Base<$FFFF>
+ -Bortz's arrival at the airship<$FFFE>
+Boarding Pad for the airship, Near the Larcussia Border Defense Base<$FFFF>
 ..<$fe><$28>..<$fe><$f>..<$fe><$f>ÅB<$FFFC>
 So, there are still some who haven't made their escape.<$FFFE>
 That bunch will probably catch up with us soon.<$FFFC>
 Somehow, we've got to buy more time.<$FFFE>
 ...But, what strategy can I come up with.<$FFFE>
 Only one pattern comes to mind.<$FFFE>
-Well piss on them, General.<$FFFE>
-We'd follow you anywhere, General Bortz, even into Hell!<$FFFE>
+Never mind them, General.<$FFFE>
+All of us would follow you anywhere, General Bortz, even into Hell!<$FFFE>
 Us, too!  Please feel free to make whatever use of us you need!<$FFFE>
 Heck, I owe my life to the General anyways.<$FFFC>
 Now's the perfect time for us to return the favor.<$FFFE>
@@ -64,5 +64,5 @@ Just be sure not to become war orphans like me.<$FFFE>
 Hold on, General!<$FFFC>
 Don't say things like that!<$FFFE>
 Sorry about that.<$FFFC>
-Alright, listen up - every one of you damned well better live to return from this!<$FFFE>
+Alright, now listen up, every one of you damned well better live to return from this!<$FFFE>
 Yeahhhhhhhhhhhhhhhh!<$FFFE>

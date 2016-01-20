@@ -1,0 +1,82 @@
+Langrisser III dumper [0x3949b2 to 0x394f8b]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Emperor Christ<$FFFF>
+Field Marshal Altemüller<$FFFF>
+First prince Paul<$FFFF>
+Barral Commander<$FFFF>
+King Wilder<$FFFF>
+Princess Flaire<$FFFF>
+Mysterious man<$FFFF>
+Colcian General<$FFFF>
+Colcian Soldier<$FFFF>
+In front of the Royal Capitol Larcussia$FFFF>
+ <$FFFE>
+ <$FFFE>
+ <$FFFE>
+ <$FFFE>
+Rigüler Imperial castle ~ Audience Hall<$FFFF>
+Field Marshal Altemüller...<$FFFC>
+The invasion of Larcussia was a splendid success, thanks to your efforts.<$FFFD>
+If we were to conquer the Vice Capitol Laffel next, it surely would benefit the whole Empire...<$FFFE>
+Understood!<$FFFC>
+It shall be as you wish.<$FFFE>
+ <$FFFC>
+The future of the Empire depends....<$FFFC>
+...Aghh!<$FFFE>
+Father...<$FFFE>
+Don't worry yourself...<$FFFC>
+As of late, I don't feel...<$FFFD>
+ <$FFFC>
+....Ugh!<$FFFE>
+Your Majesty!?<$FFFE>
+Vice Capitol Laffel<$FFFF>
+Sir, the princess has arrived.<$FFFE>
+Good.<$FFFE>
+Father,<$FFFC>
+it has been a while.<$FFFE>
+Oh, Flaire.<$FFFC>
+How do you like Laffel?<$FFFC>
+I guess if you compare it to the Royal Capitol Larcussia it isn't much though...<$FFFD>
+But no matter,<$FFFC>
+sooner or later we will conquer the royal capitol as well.<$FFFE>
+It seems like Larcussia has fallen into the hands of the Rigüler Empire...<$FFFE>
+Father, don't tell me you are planning to go against the Empire!?<$FFFE>
+There's no need to be concerned.<$FFFC>
+With General Dios and our newest associate even the Empire will bow down before us...<$FFFE>
+....<$FFFE>
+Who is he...?<$FFFE>
+A man with a heart as black as the night...Dark Knight, would be a suitable name, no?<$FFFC>
+He will act as Barral's new supreme commander.<$FFFD>
+I can't wait to put him to test against the Empire...<$FFFC>
+Hohohoho!<$FFFE>
+ <$FFFE>
+The Imperials already have made their move, now it's our turn to take our slice of the cake.<$FFFD>
+Glory for the Kingdom of Colcia!<$FFFC>
+All troops advance!<$FFFE>
+ <$FFFC>
+ <$FFFC>
+Oohhh!<$FFFE>
+Half a year later ~ Raymond's mansion<$FFFF>
+ <$FFFE>
+ <$FFFE>

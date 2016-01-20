@@ -4,7 +4,7 @@ Cyber Warrior X
 
 Dieh‰rte<$FFFF>
 Tiaris<$FFFF>
-Riffant<$FFFF>
+Riffany<$FFFF>
 Luna<$FFFF>
 Sophia<$FFFF>
 Flaire<$FFFF>
@@ -27,8 +27,8 @@ Barral Commander<$FFFF>
 Princess Flaire<$FFFF>
 Dark Knight<$FFFF>
 Bˆser<$FFFF>
-Doppleganger Ferakia<$FFFF>
-Insect Mage Rag<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Wormmaster Rag<$FFFF>
 Necromancer Grove<$FFFF>
 Vice Capitol Laffel<$FFFF>
 Geriord.....<$FFFE>
@@ -52,7 +52,7 @@ I'll come and help, too.<$FFFE>
 At any rate, these circumstances change things; we need to finish up right away and hurry on to Larcussia!<$FFFE>
 Near Fort Rogier<$FFFF>
 Are you all right, Princess?<$FFFE>
-...Eh?<$FFFC>
+...Huh?<$FFFC>
 What happened?<$FFFE>
 My apologies.<$FFFC>
 It seems we weren't strong enough, as always.....<$FFFE>
@@ -60,9 +60,9 @@ What are you talking about.<$FFFC>
 You all did very well.<$FFFD>
 I take full responsibility for this failure.<$FFFE>
 Princess.....<$FFFE>
-Yes, Overcommander Dark Knight.....<$FFFE>
+Supreme Commander Dark Knight.....<$FFFE>
 How could this be?<$FFFC>
-What happened?<$FFFE>
+What is the meaning of this?<$FFFE>
 They retook Laffel....<$FFFD>
 If you must ask, it was solely my weakness which has left us with only these troops remaining.<$FFFD>
 It is entirely my fault.<$FFFE>
@@ -79,19 +79,19 @@ No matter who's at fault, if this is all the military might we can muster at pre
 Until the soldiers are prepared, we won't be able to invade Larcuss.....<$FFFE>
 I see.<$FFFC>
 All units, withdraw and return to our homeland.<$FFFE>
-Verzeria Castle<$FFFF>
+Velzeria Castle<$FFFF>
 So Barral was defeated that quickly.....<$FFFC>
 This is quite unexpected><$FFFE>
 However, the main body of Larcuss troops was annihilated by the Empire.<$FFFE>
-Our only remaining ostacle now is the Empire.<$FFFC>
+Our only remaining obstacle now is the Empire.<$FFFC>
 However, the Empire's power has further increased as a result.<$FFFE>
-.....No, I wouldn't call them an obstacle, since I've word that the Empire's military might has been exhausted as well.<$FFFE>
+.....No, I wouldn't call them an obstacle, since I've got word that the Empire's military might has been exhausted as well.<$FFFE>
 So all that remains of Larcuss is [diehardt's name] and his mobile division, eh.  I wonder if they will fight against the Empire.<$FFFE>
 But regardless, if the two fight, their armies will be even more greatly diminished.<$FFFC>
-So, when they've fought it out, that would be a perect opportunity for us.....<$FFFE>
+So, when they've fought it out, that would be a perfect opportunity for us.....<$FFFE>
 Grove.<$FFFC>
-How goes the assassination of AltemÅEler?<$FFFE>
-Sir, we've captured the younger sister of one of the Imperial Generals.<$FFFC>
+How goes the assassination of Altem¸ller?<$FFFE>
+We've captured the younger sister of one of the Imperial Generals.<$FFFC>
 At present, we are using her as leverage.<$FFFE>
 I see.....<$FFFC>
 Wahahahahaha!<$FFFE>

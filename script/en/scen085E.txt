@@ -2,7 +2,7 @@ Langrisser III dumper [0x2ce2b0 to 0x2ceb6f]
 
 Cyber Warrior X
 
-Dieh舐te<$FFFF>
+Diehﾃ､rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,15 +14,15 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-J・ler<$FFFF>
+Jﾃｼgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-Altem・ler<$FFFF>
+Altemﾃｼller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 King Sieghart<$FFFF>
-Field Marshal Altem・ler<$FFFF>
+Field Marshal Altemﾃｼller<$FFFF>
 General Varna<$FFFF>
 Elthlied Soldier<$FFFF>
 General Emaillink<$FFFF>
@@ -35,7 +35,7 @@ At that time, if this aerial fortress had made it in time, we would have been sa
 Ah well.<$FFFC>
 Now, just a little longer.<$FFFC>
 Their attacks are already starting to lose momentum!<$FFFE>
-L..lord Altem・ler!<$FFFE>
+L..lord Altemﾃｼller!<$FFFE>
 What's wrong, Varna?<$FFFE>
 Monsters!?<$FFFC>
 Gah, at this kind of time!<$FFFE>
@@ -44,12 +44,12 @@ Monsters......<$FFFE>
 Monsters?<$FFFE>
 While it looks like they're still far enough away.....this is bad!<$FFFE>
 No, in this situation it looks like our army will profit.<$FFFE>
-Because of the monsters, the Empire's aerial fortess will reduce the number of attacks it makes on us.<$FFFE>
+Because of the monsters, the Empire's aerial fortress will reduce the number of attacks it makes on us.<$FFFE>
 The aerial fortress.......<$FFFE>
 At this rate, the fortress might be sunk!<$FFFE>
 .....But we came this far!<$FFFE>
 Cease and withdraw!<$FFFC>
-We'll recoupt our losses, and return again!<$FFFE>
+We'll recoup our losses, and return again!<$FFFE>
 Elthlied Royal Capitol, Larcussia - Audience Hall<$FFFF>
 Somehow they seem to have been driven off.<$FFFE>
 Indeed.<$FFFC>
@@ -65,9 +65,9 @@ Sir Kirikaze, I have a favor to ask.<$FFFE>
 What might you ask of me?<$FFFE>
 I'd like you to go to Lady Jessica and discover how the monsters have been able to invade this deeply.<$FFFE>
 As you command.<$FFFE>
-Imperial Base along the Rig・er - Elthlied Borderline<$FFFF>
+Imperial Base along the Rigﾃｼler ~ Elthlied Borderline<$FFFF>
 I can't believe these monsters came....  I didn't think that Velzeria would start a war.<$FFFE>
-Velzeria, the monster continent.<$FFFC>
+Velzeria, the Kingdom of Demons.<$FFFC>
 Do they plan on ending the age of man?<$FFFE>
 Foul news, Your Excellency!<$FFFE>
 What's happened?  Your face has become grim.<$FFFE>
@@ -83,6 +83,6 @@ I can't say for certain.<$FFFC>
 But if so, I'll never forgive that damnable Paul.....<$FFFE>
 Very well, Varna, let's return to the Imperial capitol!<$FFFE>
 Yes, sir!<$FFFE>
-Emaillink, I'll trust you and Gaiel to manage things in our absence.<$FFFE>
+Emaillink, I'll trust you and Geier to manage things in our absence.<$FFFE>
 It seems that, once again, the monsters have managed to leave the confines of Velzeria.<$FFFE>
 I'll see that they stay on the other side of our border!<$FFFE>

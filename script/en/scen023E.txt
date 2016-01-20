@@ -1,0 +1,241 @@
+Langrisser III dumper [0xd77ae to 0xd8fcb]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+General Emaillink<$FFFF>
+Rigüler Commander<$FFFF>
+Monster<$FFFF>
+-Defeat all enemies<$FFFE>
+Death of Diehärte<$FFFE>
+Imperial Base along the Rigüler ~ Elthlied National Border<$FFFF>
+It has been some time since our main troops has set out...<$FFFD>
+I wonder if Altemüller is engaging the Elthlied troops in combat already.<$FFFE>
+Lord Emaillink!<$FFFC>
+The enemy is here!<$FFFE>
+What!?<$FFFE>
+My?<$FFFC>
+There is only a handful of enemy troops stationed here.<$FFFE>
+Maybe their main force haven't arrived just yet.<$FFFE>
+Don't you think it's more likely the main troops are already marching towards Larcussia?<$FFFE>
+King Sieghart and Lord Kirikaze are defending the royal capitol.<$FFFC>
+There is nothing for us to worry about.<$FFFE>
+Additionally this gives us the fortunate opportunity to strike where the enemy is weakest.<$FFFC>
+Cutting their supply lines should be an easy task...<$FFFE>
+You sure the capitol can withstand them long enough for that to matter?<$FFFE>
+Certainly.<$FFFE>
+It's settled then, we won't return to the capitol.<$FFFE>
+We can help them the most by severing the enemy's chain of supply.<$FFFC>
+Everyone, let's do this!<$FFFE>
+It couldn't be that Lord Altemüller have been defeated by the enemy at this time.<$FFFD>
+Maybe it was risky leaving just so few men for guarding the border.<$FFFD>
+With this kinds of troops a victory against Diehärte's Division seems unlikely...<$FFFD>
+But if we can't hold our ground here our main forces will be cut off from supplies.<$FFFC>
+If that happens we couldn't hope to implement our invasion.<$FFFE>
+Now I get it!<$FFFC>
+That's what they are truly after, if their plan succeeds the main force's defeat will be certain!<$FFFD>
+Such a thing must be avoided no matter what.<$FFFC>
+All troops, hold off the enemy with all you've got!<$FFFE>
+Of course Sir, you don't have to tell us twice!<$FFFE>
+Now even demons start appearing...<$FFFC>
+Our luck has just turned from bad to worse, but giving up is not an option.<$FFFD>
+I just wonder how we'll get out of this mess...<$FFFE>
+Here they come!<$FFFC>
+First division slow down the enemy's advance!<$FFFD>
+Second division flank the enemy!<$FFFC>
+Intercept them before they can cross the river!<$FFFE>
+Yes, sir!<$FFFE>
+Understood!<$FFFE>
+General.<$FFFC>
+What are your orders?<$FFFE>
+The escort for the supplies may be under the demon's attack as well...<$FFFE>
+Second Division!<$FFFC>
+Fall back and reinforce the escort for the supplies!<$FFFE>
+Yes, sir!<$FFFC>
+We'll be leaving promptly!<$FFFE>
+General.<$FFFC>
+What are your orders?<$FFFE>
+The escort for the supplies may be under the demon's attack as well...<$FFFE>
+Second Division!<$FFFC>
+Fall back and reinforce the escort for the supplies!<$FFFE>
+Yes, sir!<$FFFC>
+We'll be leaving promptly!<$FFFE>
+Protect them!<$FFFC>
+Our supplies are off crucial significance!<$FFFE>
+We will be covering your withdrawal!<$FFFC>
+I'll see to it!<$FFFE>
+Yes, sir!<$FFFE>
+Leave the supplies in our care!<$FFFC>
+We're on our way!<$FFFE>
+We are now leaving the battlefield to protect the supplies.<$FFFE>
+Lord Emaillink, please take care.<$FFFE>
+We have to hurry!<$FFFC>
+Our supplies may be in danger!<$FFFE>
+The supplies must be secured ASAP.<$FFFE>
+Lord Emaillink, please take care.<$FFFE>
+Well then, we're off to fulfil the assigned task!<$FFFE>
+We are now leaving the battlefield to protect the supplies.<$FFFE>
+Lord Emaillink, please take care.<$FFFE>
+There is no time.<$FFFC>
+Hurry onward!<$FFFE>
+We are now leaving the battlefield to protect the supplies.<$FFFE>
+Lord Emaillink, please take care.<$FFFE>
+Now hurry!<$FFFE>
+The supplies must be secured ASAP.<$FFFE>
+Lord Emaillink, please take care.<$FFFE>
+Make haste, this matter is of great importance!<$FFFE>
+We are now leaving the battlefield to protect the supplies.<$FFFE>
+Lord Emaillink, please take care.<$FFFE>
+I just hope those supplies are still intact...<$FFFC>
+In any case, we'd better hurry.<$FFFE>
+The water in the pond before you glitters eerily.<$FFFE>
+What do you do?<$FFFE>
+Nothing<$FFFE>
+Drink the Water<$FFFE>
+Take some of the water with you<$FFFE>
+After a while the weird glittering stops and the pond is wrapped in silence.<$FFFE>
+<$f6>Stat change<$fc>INT rose +2<$FFFE>
+After a while the weird glittering stops and the pond is wrapped in silence.<$FFFE>
+Water of the Demon World was obtained!<$FFFE>
+After a while the weird glittering stops and the pond is wrapped in silence.<$FFFE>
+This was the perfect chance...<$FFFE>
+Father...<$FFFE>
+I'm sorry everyone...<$FFFE>
+I'm so sorry...<$FFFE>
+Don't spoil all the fun!<$FFFE>
+It's hopeless...<$FFFE>
+Huh?<$FFFE>
+Lushiris...<$FFFE>
+Not again...<$FFFE>
+Gurgh...<$FFFC>
+Beware...the Jabberwock<$FFFE>
+Grrr...<$FFFE>
+I could have evaded if I wanted...<$FFFE>
+I shall not yield!<$FFFE>
+How shameful, it seems I'll be taking my last breath shortly...<$FFFE>
+Please withdraw yourself from battle, General Emaillink.<$FFFC>
+You have to report this incident to the Field Marshal.<$FFFD>
+We're counting on you.<$FFFE>
+But...<$FFFE>
+Leave those demons to us!<$FFFC>
+We'll follow up as soon as they are dead.<$FFFE>
+...I'm sorry.<$FFFE>
+I swear by my life that we'll throw down the demons and Elthlied's troops!<$FFFC>
+Now, Hurry!<$FFFE>
+Keh, forgive me!<$FFFE>
+If we get the chance we'll fall back to the supply unit too.<$FFFC>
+Now, Hurry!<$FFFE>
+Keh, forgive me!<$FFFE>
+Dammit!<$FFFC>
+This is not a suitable place to die...<$FFFE>
+Diehärte!<$FFFC>
+This time I'll seal your fate!<$FFFC>
+En Guard!<$FFFE>
+You cannot be permitted to go any further!<$FFFC>
+I'm afraid you have to die now!<$FFFE>
+Crap!<$FFFC>
+Such a nuisance!<$FFFE>
+Urghh!<$FFFC>
+Shutting down all systems....<$FFFE>
+All my efforts were in vain...<$FFFE>
+I have to keep..going...<$FFFE>
+Lord Emaillink!<$FFFE>
+How could you!<$FFFE>
+Where's my sword...<$FFFE>
+There is no death...<$FFFE>
+I...<$FFFC>
+I just wanted to be happy...<$FFFE>
+Let's see how you handle our charge!<$FFFE>
+I need more..power...<$FFFE>
+I still have a duty to fulfil!<$FFFC>
+Don't cross me!<$FFFE>
+...Father...you were right...<$FFFE>
+This isn't good...<$FFFC>
+Laying down my soul to pray...<$FFFE>
+Uwaaahh!<$FFFC>
+This is...our land...<$FFFE>
+You cannot pass!<$FFFE>
+Uuuuhh!<$FFFC>
+After all that happened!<$FFFE>
+Don't blame me if you get hurt!<$FFFE>
+I thought my magic was...perfect...<$FFFE>
+If you hadn't come here you wouldn't have died!<$FFFE>
+What about..our mission...<$FFFE>
+I'm afraid there's no choice!<$FFFE>
+This is the end...my only friend...<$FFFE>
+My comrades, I'm sorry!<$FFFE>
+I'll protect this border to the bitter end!<$FFFC>
+Now come!<$FFFE>
+GUGYAAAAH!<$FFFE>
+KISYAAAHHH!<$FFFE>
+GAAAAH!<$FFFE>
+GAAAARRH!<$FFFE>
+GRUAARRH!<$FFFE>
+GRRRAAHH!<$FFFE>
+GUGOORRHHHGG!<$FFFE>
+GUOOHHH!<$FFFE>
+GUGOOHHH!!<$FFFE>
+GUUUGOOHHH!<$FFFE>
+How did this...<$FFFC>
+If only Velzeria didn't show up...<$FFFE>
+Now only the demons remain!<$FFFE>
+Good news everyone, the demons are no more!<$FFFC>
+Now only the Imperials remain!<$FFFE>
+Now only the demons remain!<$FFFE>
+KSYAAAHH!<$FFFE>
+What's that supposed to mean!?<$FFFE>
+What is going on now!?<$FFFE>
+Hordes of demons!?<$FFFC>
+...It couldn't be..Velzeria...<$FFFE>
+It's just too soon...<$FFFE>
+Grruuu...<$FFFE>
+How!?<$FFFE>
+Isn't Lushiris gate supposed to hold them off...<$FFFE>
+Maybe it's because Lushiris Gate lost it's power somehow?<$FFFE>
+Absurd!<$FFFC>
+The power of Lushiris Gate couldn't have diminished like this!<$FFFE>
+<$F702><$F702>I dare say it's Al Hazard.<$FFFE>
+It's probably Al Hazard.<$FFFE>
+Al Hazard?<$FFFE>
+<$F703><$F704><$F703><$F704>In any case, we have to deal with them.<$FFFC>
+Afterwards we'll return to the Capitol and think about a course of action.<$FFFE>
+It's over at last...<$FFFE>
+You did exemplary, Sir Diehärte.<$FFFE>
+Sir Diehärte...<$FFFC>
+You need to stay focused even if unexpected things occur...<$FFFD>
+Try to learn from this...<$FFFE>
+It seems like Velzeria has decided to make its move.<$FFFE>
+Yeah...<$FFFE>
+<$F705><$F705>We will return to the Capitol.<$FFFE>
+Velzeria is a thread not only to Elthlead, but to every human in existence.<$FFFE>
+First we have to help King Sieghart to drive off Altemüller, after that we'll plan our further actions.<$FFFE>
+I consent, this would be the most reasonable thing to do.<$FFFE>
+That's right.<$FFFC>
+While facing the forces of darkness,<$FFFC>
+there's no time to wage petty wars.<$FFFE>
+In that case, let's be on our way!<$FFFE>
+Certainly.<$FFFE>
+That's not it.<$FFFC>
+Lushiris magic is as strong as before.<$FFFE>
+The legendary sword of black magic that amplifies the power of the demon kind.<$FFFE>
+Most likely those demons have been send here utilizing the power of Al Hazard.<$FFFE>
+Sir Diehärte, do you intend to pursue the Imperials?<$FFFC>
+Or are we heading back to the Capitol?<$FFFE>

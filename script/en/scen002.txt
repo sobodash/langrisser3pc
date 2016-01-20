@@ -1,0 +1,208 @@
+Langrisser III dumper [0x1ecac8 to 0x1ecd83]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+William<$FFFF>
+Knight Geriord<$FFFF>
+Larcuss Commander<$FFFF>
+Duke William<$FFFF>
+Rigüler Commander<$FFFF>
+General Varna$FFFF>
+Field Marshal Altemüller$FFFF>
+-Defeat all enemies<$FFFE>
+-Death of [diehardt's name]<$FFFE>
+The Floating Castle<$FFFF>
+Honestly!<$FFFC>
+Why does this has to happen at such a time....<$FFFE>
+They probably used the stormy weather to their advantage<$FFFC>
+and hid themselves in the clouds, while approaching the castle unnoticed.<$FFFE>
+I guess they also chose this day because today was the investiture ceremony.<$FFFE>
+Yeah.<$FFFC>
+That was favourable for them too.<$FFFD>
+But complaining about this won't help us any right now.<$FFFC>
+Let's go Tiaris.<$FFFC>
+We have to protect the castle's magical cannon!<$FFFE>
+We are in time.<$FFFC>
+The enemy has yet to appear.<$FFFE>
+Let us hurry and prepare to intercept the enemy here.<$FFFE>
+On your positions!<$FFFE>
+Lord William!<$FFFC>
+The enemy has come into sight!<$FFFE>
+Get ready to intercept them!<$FFFE>
+The enemy is awaiting us.<$FFFE>
+It seems our strategy has failed your Excellency.<$FFFE>
+Hmph.<$FFFC>
+Hmmph. So they predicted our main force would come from the east side.<$FFFE>
+This should be interesting.<$FFFC>
+Alright!<$FFFC>
+Destroy the central crystal whatever it takes!<$FFFE>
+Seems like those imperials on the east side go after the crystal too.<$FFFE>
+Yeah!<$FFFC>
+If the crystal would be destroyed the magical cannon would lose its energy and the flying castle would fall right out of the sky!<$FFFE>
+This could lead to the destruction of the whole Larcussian Kingdom.<$FFFC>
+We must prevent that from happening at all cost!<$FFFE>
+Papa.....<$FFFE>
+Lord William was defeated<$FFFC>
+That guy Altemüller sure is a dreadful enemy.<$FFFE>
+Charge!<$FFFC>
+Destroy the Demonic Cannon!<$FFFE>
+On your positions!<$FFFE>
+Yessir!<$FFFE>
+Diehärte, I entrust my daughter's safety to you.<$FFFE>
+Leave her to me!<$FFFE>
+Hey, don't treat me like a child!<$FFFE>
+Everyone move out!<$FFFC>
+Protect the crystal to the bitter end!<$FFFE>
+Understood!<$FFFE>
+I will prove that the strength of the flying fortress not comes from the demonic gun alone!<$FFFE>
+For the Duke's sake we cannot be defeated!<$FFFE>
+Knight Geriord<$FFFC>
+You'll have to face me now.<$FFFE>
+....<$FFFE>
+And now its only the crystal that needs to be destroyed...<$FFFE>
+Stop!<$FFFE>
+Khe!<$FFFC>
+Have to protect the crystal.....<$FFFE>
+This is just a scratch...<$FFFC>
+Nevertheless we will be the driving force soon....<$FFFD>
+...Geriord.<$FFFC>
+It is the regrettable man.<$FFFE>
+With this the fate of Larcuss is sealed.<$FFFE>
+So this is how it ends.<$FFFE>
+Even though the Rigüler field Marshal is still young,<$FFFC>
+he claimed victory for himself...<$FFFE>
+Diehärte....<$FFFE>
+You have to make your way to the city of Laffel and contact our allies the Barral Kingdom <$FFFC>
+Then army must be formed to initiate the counter attack.<$FFFE>
+And please take care of my daughter and Geriord in my stead...<$FFFE>
+Papa!<$FFFE>
+...Lord William...<$FFFC>
+Khe!<$FFFE>
+This crystal must be the energy source supplying the Demonic Cannon.<$FFFC>
+Hyaa!<$FFFE>
+Excellent! In the end my plan succeeded!<$FFFC>
+But we shouldn't be here when this place drops down. All units fall back!<$FFFE>
+The Floating Castle is sinking!?<$FFFE>
+That's not good!<$FFFC>
+We have to get away from here now!<$FFFE>
+No!<$FFFC>
+Open your eyes papa!<$FFFE>
+The crystal is under attack!<$FFFE>
+No good!<$FFFC>
+Don't allow them to force their way through!<$FFFE>
+Understood.<$FFFC>
+I entrust the crystal's safety to you!<$FFFE>
+Yessir!<$FFFC>
+So, this is the enemies fortress; commence the attack!<$FFFE>
+The crystal is under attack!<$FFFE>
+No good!<$FFFC>
+You mustn't allow them to force their way through!<<$FFFE>
+Understood.<$FFFC>
+I entrust the crystal to you!<$FFFE>
+Yessir!<$FFFC>
+So, this is the enemies fortress; commence the attack!<$FFFE>
+Attack the crystal!<$FFFE>
+No good!<$FFFC>
+Ready to head out!<$FFFE>
+Understood<$FFFC>
+I entrust the crystal to you!<$FFFE>
+Yessir!<$FFFC>
+So, this is the enemies fortress; commence the attack!<$FFFE>
+In the shadow of the pillar grows a plant with magical powers.<$FFFE>
+Magic Herb was obtained!<$FFFE>
+A magic herb grows in a dark corner under the stairwell.<$FFFE>
+Magic Herb was obtained!<$FFFE>
+Such...<$FFFC>
+So this is what real battle is like....<$FFFE>
+You won't go any further than this!<$FFFE>
+Eek!<$FFFE>
+Hang in there, Tiaris!<$FFFC>
+What did I do!<$FFFE>
+I'm sorry....<$FFFC>
+Such a burden....<$FFFE>
+Leave us alone alright!<$FFFE>
+Urghh!<$FFFE>
+Eek!<$FFFC>
+P..papa!<$FFFE>
+Lord William!<$FFFE>
+Milord!<$FFFE>
+Grrr! Those sword skills are beyond impressive!<$FFFC>
+Even my elite troop can't compare to this kind of skill!<$FFFE>
+The error is all yours.<$FFFC>
+Did you really think you could take the Floating Castle with this meager force?<$FFFE>
+You! So, the Rigüler Field Marshal Altemüller has come himself. <$FFFD>
+You shall receive due punishment for this violation!<$FFFE>
+This floating castle is an eyesore to the Rigüler Empire and its desire to expand further.<$FFFC>
+It is regrettable but it has to fall.<$FFFE>
+You won't lay as much as a finger on it!<$FFFC>
+Prepare yourself!<$FFFE>
+Ghh... I didn't expect you Altemüller..<$FFFC>
+to be the first, to best me in combat...<$FFFE>
+So even Geriord!?<$FFFE>
+Hmphh. Such foolishness.<$FFFE>
+Now nothing stands between me and the crystal.<$FFFE>
+I'd give my life for the ones I pledged to protect!<$FFFE>
+You seem to be one of the top knights around...<$FFFC>
+Tell me, how do they call you?<$FFFE>
+Geriord, Knight of Larcuss.<$FFFE>
+Geriord it is then.<$FFFC>
+I guess you will prove a worthy opponent.<$FFFC>
+You can call me Varna, General of the Rigüler Empire!<$FFFE>
+I won't take your life.<$FFFC>
+But you need to be punished for attempting to invading this castle!<$FFFE>
+Lord William has been wounded, we have to end this battle fast!<$FFFD>
+Go!<$FFFE>
+Oho.<$FFFC>
+You must be Geriord, the famous Knight of Larcuss.<$FFFD>
+They say you are the finest warrior in these parts.<$FFFC>
+You shall be an opponent worthy of myself.<$FFFC>
+...Do you accept my challenge?<$FFFE>
+You are the one that threw down Varna, what unexpected resistance.<$FFFD>
+They say you are the finest warrior in these parts.<$FFFC>
+You shall be an opponent worthy of myself.<$FFFC>
+...Do you accept my challenge?<$FFFE>
+Imperial Field Marshal, Altemüller.<$FFFC>
+I shall accept your challenge.<$FFFE>
+Imperial Field Marshal, Altemüller.<$FFFC>
+You will pay with your life for what you did to the Duke!<$FFFE>
+Urrgh!<$FFFE>
+How did this happen?<$FFFE>
+Urrgh!<$FFFE>
+That can't be!<$FFFE>
+I..I can't believe it...<$FFFE>
+No obstacle can hold us off, force your way through!<$FFFE>
+What!?<$FFFC>
+You fool...<$FFFD>
+To resort to such trickery, how despicable.<$FFFC>
+A grand victory is to be won, that is all that matters!<$FFFE>
+W-what!?<$FFFC>
+I couldn't stand up to his skill...I..!<$FFFE>
+It is alright Varna, fall back for now.<$FFFE>
+B..but, your Excellency.....<$FFFE>
+Leave the rest to me.<$FFFE>
+Alright.<$FFFE>
+I thought Larcuss would only rely on the Demonic Cannon's power, but it seems as if they've got some fight in them after all.<$FFFE>
+Khe.....<$FFFC>
+You truly are a note-worthy swordsman...<$FFFE>
+Urghh!<$FFFE>
+Urgh!<$FFFE>
+Urggh!<$FFFE>

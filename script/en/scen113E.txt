@@ -1,0 +1,114 @@
+﻿Langrisser III dumper [0x378b42 to 0x3795ab]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Silver Wolf<$FFFF>
+Velzeria Castle ~ Underground<$FFFF>
+Tiaris...<$FFFE>
+...Uhm, I'm alright.<$FFFC>
+I was scared just a tiny bit...,<$FFFE>
+because I always believed in you to come for me.<$FFFE>
+...Everything's alright now.<$FFFC>
+I won't ever leave your side again.<$FFFE>
+Riffany...<$FFFE>
+You came for me after all.<$FFFE>
+Didn't I promise?<$FFFC>
+No matter what, I will protect you, always.<$FFFE>
+I never stopped believing in you.<$FFFE>
+I'm sorry to have put you through such an awful experience.<$FFFE>
+I don't mind anymore, as long as we stay like this, I could forget the world around us.<$FFFE>
+Luna...<$FFFE>
+There is no excuse.<$FFFC>
+Only because of my thoughtlessness could this...<$FFFE>
+Ah...<$FFFE>
+Umm...<$FFFE>
+Just for little while, let's stay like this.<$FFFE>
+..Yes..<$FFFE>
+...I'm so glad.<$FFFC>
+To be able to feel your heart next to mine once again.<$FFFE>
+I beg your forgiveness.<$FFFE>
+Just because of me, everyone was put in such terrible danger...<$FFFE>
+Ah...<$FFFE>
+It's alright.<$FFFC>
+Our struggles have come to an end finally.<$FFFE>
+Righty!<$FFFC>
+All villains were punished and the damsel in distress, Lady Sophia, was saved too!<$FFFE>
+Everyone wanted to help you.<$FFFC>
+Besides, it is ones obligation to help a fellow human and friend in need.<$FFFE>
+Everyone...<$FFFC>
+Thank you so much.<$FFFE>
+I'm just glad your back to safety,<$FFFC>
+right here in my arms.<$FFFE>
+...Forgive me.<$FFFC>
+I should have been more dependable.<$FFFE>
+...What are you saying?<$FFFC>
+You did come very dependently.<$FFFE>
+You defeated Böser and prevented Chaos from being revived.<$FFFC>
+You have reason to be proud of yourself!<$FFFE>
+Weren't you scared, Flaire...?<$FFFE>
+*giggle*...<$FFFE>
+I believe in you, so there is nothing in the whole wide world I have to be scared of.<$FFFE>
+Uuuuh!<$FFFC>
+By the way you two.<$FFFC>
+Just how long are you planning on holding on to each other like that?<$FFFE>
+Really now.<$FFFC>
+I'm already getting dizzy from all the heat you two are emitting!<$FFFE>
+...Emm...<$FFFE>
+Anyhow, I'm just glad that everyone is safe.<$FFFE>
+...But, Varna.<$FFFC>
+You...<$FFFE>
+Please stop your worrying, Altemüller.<$FFFC>
+My body isn't dead just yet.<$FFFE>
+Besides, when Chaos was sealed the dark surges stopped instantly, so maybe there's still hope.<$FFFE>
+...Varna.<$FFFE>
+Emaillink.<$FFFE>
+Yes, what is it, your Excellency?<$FFFE>
+Will you lend me your ear?<$FFFE>
+What is troubling you...?<$FFFE>
+I will go on a journey with Varna.<$FFFC>
+I do not intend to return to the imperial capitol.<$FFFE>
+Altemüller!<$FFFE>
+Perhaps somewhere in this world, there is a method that can restore Varna to a genuine human.<$FFFE>
+This I have to find out.<$FFFE>
+Your Excellency...<$FFFC>
+However, that is...<$FFFE>
+I know.<$FFFC>
+Probably Varna has only a short time left.<$FFFC>
+It may be an undertaking doomed to fail from the start.<$FFFE>
+But I'm ready to do everything for the person I love more than mere words could express.<$FFFC>
+Know that I have set my mind on this.<$FFFE>
+Please take care of the stately affairs in my absence.<$FFFE>
+...Understood.<$FFFE>
+Your loyal subject, Emaillink, will look after the Royal Capitol until your Excellency returns; please try to visit sometime.<$FFFE>
+Thank you...<$FFFE>
+Well then. let us be on our way, Varna.<$FFFE>
+...,<$FFFE>
+....Yes!<$FFFE>
+And this is how it came to be, that the revival of Chaos was prevented,<$FFFC>
+King Sieghart founded the Elthlied Kingdom<$FFFC>
+and the holy sword Langrisser became a legend.<$FFFE>
+<$FFFC>
+However, this should only be a prologue to the magnificent story<$FFFC>
+which goes around the sword.<$FFFE>
+<$FFFC>
+And in some distant day,<$FFFC>
+the wheel of fate would eventually start turning once again...<$FFFE>

@@ -1,0 +1,77 @@
+Langrisser III dumper [0x237864 to 0x237f6f]
+
+Cyber Warrior X
+
+Dieh‰rte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+J¸gler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altem¸ller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Rig¸ler commander<$FFFF>
+Field Marshal Altem¸ller<$FFFF>
+Lushiris Southern Gate<$FFFF>
+Oh Gate...,<$FFFC>
+may Lushiris sacred light fall upon you.<$FFFC>
+To hold back the reawakened demonic forces, let your seal be renewed.<$FFFE>
+It has been done.<$FFFE>
+I suggest we go for the eastern gate next.<$FFFE>
+The warden of the eastern gate is the sage Fauvel, I wonder if the Rig¸ler Empire will try something there.<$FFFE>
+I'm sure father will be able to keep the gate safe.<$FFFE>
+But we couldn't risk to let the Empire capture him, so please lend me your strength everyone.<$FFFE>
+....<$FFFE>
+What do you say?<$FFFE>
+Let's go everyone!<$FFFE>
+Anything else would be unjustifiable.<$FFFE>
+You can count us in Sophia.<$FFFE>
+We have to release the gate.<$FFFE>
+Say nothing.<$FFFE>
+Alright!<$FFFC>
+Let's go everyone!<$FFFE>
+I understand your worrying about your father.<$FFFC>
+But don't let it get you down Sophia.<$FFFE>
+Of course, thank you for your concern.<$FFFE>
+We probably will have to face the Empire.<$FFFC>
+This certainly will not be easy, so stay on your guard everyone.<$FFFD>
+You too, Sophia.<$FFFE>
+Yes, I shall do my best.<$FFFE>
+We have to act quickly now,<$FFFC>
+or we may be to late to reinstate the Gate...<$FFFE>
+So this is the stone you got from the chief of the Shika tribe.<$FFFD>
+Let's be extra careful with this...<$FFFC>
+Åd<$fe><$1e>Åd<$fe><$1e>Åd<$fe><$1e>ÅdÅB<$FFFD>
+we still don't know the exact method for using this.<$FFFC>
+I think it's hopeless.<$FFFC>
+Try to pray as instructed?<$FFFD>
+Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$FFFE>
+Altem¸ller's Private Chamber$FFFF>
+Your Excellency!<$FFFE>
+Your injury has yet to heal entirely, your Excellency.<$FFFD>
+Please be patient a little longer...<$FFFE>
+Don't worry yourself.<$FFFD>
+How could I stay lazily in bed while everyone is fighting out there?<$FFFE>
+But I was ordered by General Varna to look after your health with utmost sincerity.<$FFFE>
+Heh,<$FFFC>
+that's much like Varna.<$FFFE>
+Hasn't Lord Raymond has just been repelled and wouldn't this be the ideal time to strike back at Colcia?<$FFFE>
+Yes sir,<$FFFC>
+that is what they say.<$FFFE>
+We cannot allow this opportunity to go to waste.<$FFFD>
+If we grow idle, our enemies are guaranteed to get the better of us.<$FFFD>
+Now make all due preparations for the attack!<$FFFE>
+Yessir!<$FFFD>
+Everything shall be done as you wish.<$FFFE>
+<$FFFF>

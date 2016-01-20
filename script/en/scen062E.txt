@@ -1,8 +1,8 @@
-Langrisser III dumper [0x24315c to 0x24397f]
+ÔªøLangrisser III dumper [0x24315c to 0x24397f]
 
 Cyber Warrior X
 
-Dieh‰rte<$FFFF>
+Dieh√§rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,34 +14,34 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J√ºgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem√ºller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-General Gaiel<$FFFF>
-RigÅEer Commander<$FFFF>
+General Geier<$FFFF>
+Rig√ºler Commander<$FFFF>
 Adjutant Gates<$FFFF>
 Dark Knight<$FFFF>
 Barral Commander<$FFFF>
-Ferakia the Doppleganger<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
 Monster<$FFFF>
 <$FFFC>
-Scenario - 11<$FFFC>
-"Spectral Lady"<$FFFE>
+Scenario ~ 11<$FFFC>
+"Deception"<$FFFE>
 Sophia, rescued from being sacrificed by the Shika Tribe, has<$FFFC>
-now joined the party as they head towards the eastern gate.<$FFFE>
+now joined the party which now is heading towards the eastern gate.<$FFFE>
 However, in the forest ahead, there is a suspicious-looking<$FFFC>
 shadow which always follows them yet shies away from<$FFFC>
-human contact.<$FFFE>
+human contact, awaiting its opportunity to strike.<$FFFE>
 *Condition for Victory<$FFFC>
  -Rescue of NPC<$FFFC>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Death of NPC<$FFFE>
-Gaiel and the Skyboat Fleet vs. the Dark Knight<$FFFF>
+Geier and the Airship Fleet vs. the Dark Knight<$FFFF>
 Hmmph.<$FFFC>
 Now that fiend has come, will our dominance of the battlefield shift....<$FFFD>
 Is this Dark Knight as strong as the rumors say.....<$FFFE>
@@ -87,11 +87,11 @@ Damn you, Dark Knight, you and your taunting mockeries....<$FFFC>
 Then again, if you didn't offer such insolence, things wouldn't be any fun!<$FFFE>
 Mountains Near the Central Gate<$FFFF>
 Everyone, there's no need to run away now.<$FFFC>
-The power of that bitch Lushiris has disappeared.<$FFFE>
+The power of that old hag Lushiris has disappeared.<$FFFE>
 Gohhhhhh!<$FFFE>
 We're striking against the Lushiris Gate to ensure the victory of Velzeria.<$FFFE>
 That's why we're going to kill that sorceress said to guard the central Gate, Jessica.<$FFFE>
-Then Master Bˆser's dream, a world ruled by monsters, can be realized.<$FFFC>
+Then Master B√∂ser's dream, a world ruled by monsters, can be realized.<$FFFC>
 Kyahahahaha!<$FFFE>
 !?<$FFFD>
 Worrr......!!<$FFFE>
@@ -99,6 +99,6 @@ What, humans, you say!?<$FFFE>
 ....Hmmph!<$FFFC>
 How could we lose to such feeble creatures.<$FFFE>
 What a perfect opportunity for some exercise!<$FFFC>
-So, everyone, fight to your heart's content!<$FFFE>
+So, everyone, its time to bloody our nails to the heart's content!<$FFFE>
 Gohhhhhh!<$FFFE>
 <$FFFF>

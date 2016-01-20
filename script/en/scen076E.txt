@@ -2,7 +2,7 @@ Langrisser III dumper [0x298518 to 0x298bc3]
 
 Cyber Warrior X
 
-Dieh舐te<$FFFF>
+Diehﾃ､rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,20 +14,20 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-J・ler<$FFFF>
+Jﾃｼgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-Altem・ler<$FFFF>
+Altemﾃｼller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Viscount Raymond<$FFFF>
-Field Marshal Altem・ler<$FFFF>
+Field Marshal Altemﾃｼller<$FFFF>
 Healer<$FFFF>
-Rig・er Commander<$FFFF>
+Rigﾃｼler Commander<$FFFF>
 General Bortz<$FFFF>
 <$FFFC>
-Scenario - 18<$FFFC>
+Scenario ~ 18<$FFFC>
 "Ultimate Military Device of Antiquity"<$FFFE>
 After [diehardt's name] and company defeated Flaire and reclaimed<$FFFC>
 Laffel, they soon found themselves faced with the problem posed<$FFFC>
@@ -42,26 +42,26 @@ propelled giant soldier and rescue Lord Raymond.<$FFFE>
 Field of Battle Near Larcussia Castle<$FFFF>
 U..ugh.......<$FFFE>
 How's Lord Raymond's condition?<$FFFE>
-Your Excellency Altem・ler, you can see here.<$FFFD>
-The Lord yet clings to life.<$FFFC>
+Your Excellency Altemﾃｼller, as you can see,<$FFFD>
+Lord Raymond yet clings to life.<$FFFC>
 However, it would be dangerous to move him right now.<$FFFE>
-You're just as I've heard, Lord Raymond.<$FFFC>
+You're just as hardy as I've heard, Lord Raymond.<$FFFC>
 When you've recovered from your wound, we'll take you to the Empire.<$FFFD>
 Of course, you won't come as a guest, but rather as a prisoner.<$FFFE>
 U...gh.....<$FFFE>
 Your Excellency!<$FFFD>
 It looks like Laffel, previously occupied by Barral, has been captured by Larcuss forces.<$FFFE>
-...The independent forces commanded by that [diehardt's name] fellow, eh.<$FFFD>
+...The independent forces commanded by that [diehardt's name] fellow, I see.<$FFFD>
 They'll probably head here and try to rescue Lord Raymond.<$FFFD>
-Send someone to Bortz.<$FFFC>
+Send a message to Bortz.<$FFFC>
 Tell him to use the magically-propelled giant soldier to end the threat of this force.<$FFFE>
 Yes, sir!<$FFFE>
-It's getting to be time for me to return as well.<$FFFC>
+It's about time for me to return as well.<$FFFC>
 Bring word to our main headquarters as soon as Lord Raymond's condition stabilizes.<$FFFE>
 As you wish.<$FFFE>
-Larcussia Defense Perimeter - Imperial Front-Line Base<$FFFF>
+Larcussia Defense Perimeter ~ Imperial Front-Line Base<$FFFF>
 General Bortz!<$FFFC>
-We've received orders from His Excellency Altem・ler.<$FFFE>
+We've received orders from His Excellency Altemﾃｼller.<$FFFE>
 Great, what do they say?<$FFFE>
 We are to intercept and destroy the surviving rebel army which is headed here, using the Galshook.<$FFFE>
 There's a remaining military force headed here!?<$FFFD>

@@ -14,22 +14,22 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JEler<$FFFF>
+Jügler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemEler<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 General Bortz<$FFFF>
-Field Marshal AltemEler<$FFFF>
-General Gaiel<$FFFF>
+Field Marshal Altemüller<$FFFF>
+General Geier<$FFFF>
 General Varna<$FFFF>
 General Emaillink<$FFFF>
 Larcuss Commander<$FFFF>
 Layla<$FFFF>
-Former Castle of Larcussia - Currently Imperial Headquarters<$FFFF>
-My humble apologies, Your Excellency AltemEler.<$FFFE>
+Former Castle of Larcussia ~ Currently Imperial Headquarters<$FFFF>
+My humble apologies, Your Excellency Altemüller.<$FFFE>
 I am so ashamed that I have survived ignominiously after my attack of Lord Raymond.<$FFFE>
 No, Bortz.<$FFFC>
 I've heard the rumors.<$FFFE>
@@ -39,22 +39,22 @@ You don't need to fear me, just because I'm the Field Marshal.<$FFFE>
 ....I'd like it best if you retained your position, Bortz.<$FFFE>
 Yes, sir!<$FFFE>
 ........<$FFFE>
-What is it, Gaiel?<$FFFC>
+What is it, Geier?<$FFFC>
 How have you found the conquest of Laffel?<$FFFE>
-...At first we were winningB  But, when the Dark Knight destroyed a number of our skyboats, I was devastated and ordered a retreat.....<$FFFE>
+...At first we were winning...B..But, when the Dark Knight destroyed a number of our airships, I was devastated and ordered a retreat.....<$FFFE>
 .....I see.<$FFFC>
 So it was the Dark Knight, eh.<$FFFE>
-On top of that, Gaiel.<$FFFC>
+On top of that, Geier.<$FFFC>
 He managed to defeat even you.<$FFFE>
 ....I'm at a loss for words.<$FFFE>
-He couldn't be beaten even with the power of the skyboat fleet....<$FFFC>
+He couldn't be beaten even with the power of the airship fleet....<$FFFC>
 This Dark Knight is a most formidable foe.<$FFFE>
 ........<$FFFE>
 It seems we'll need more military might than I'd initially suspected.<$FFFE>
 I will return to the Imperial capitol to report the situation and request additional troops.<$FFFE>
 If it is not too late, I would that I could begin the preparations for your entourage.<$FFFE>
 That would be excellent, Varna.<$FFFE>
-Gaiel, Bortz, Emaillink.<$FFFC>
+Geier, Bortz, Emaillink.<$FFFC>
 I'm counting on you to watch over things in my absence!<$FFFE>
 Yes, sir!<$FFFE>
 Mountains Near the Western Gate<$FFFF>
@@ -72,7 +72,7 @@ You've heard of it?<$FFFE>
 Legend has it that in times long past, this sword was crafted in a foreign country far from here and instilled with the holy power to overcome evil.<$FFFE>
 Even though the Lushiris Gate has been opened now, it seems that the strongest demons will still be able to enter.<$FFFE>
 When they do, we need to have an effective way to defeat these demons, so.....<$FFFE>
-The Haja no Ken, eh.....<$FFFE>
+The Haja no Ken...<$FFFE>
 Who do you ask?<$FFFE>
 Tiaris<$FFFE>
 Riffany<$FFFE>
@@ -81,15 +81,15 @@ Sophia<$FFFE>
 Layla<$FFFE>
 What do you think, Tiaris?<$FFFE>
 Eh?<$FFFC>
-I said, what do you think.....<$FFFD>
-Like, we have to do this, right?<$FFFC>
-So, let's, like, hurry up and get a move on!<$FFFE>
+What I think, let's see...<$FFFD>
+There's no way around this, right?<$FFFC>
+So, let's hurry up and get that thingie!<$FFFE>
 Gotcha.<$FFFE>
 What do you think, Riffany?<$FFFE>
-Why do you ask, [diehardt's name]-san?<$FFFC>
-Well, you don't look all that eager to follow through with this.....<$FFFE>
+What's the matter, Sir [diehardt's name]?<$FFFC>
+You don't look all that eager to follow through with this.....<$FFFE>
 No, that's not it....<$FFFD>
-I'm just worried....if the demons' power is that strong.......<$FFFE>
+I was just taken aback a little...by the demons' power....<$FFFE>
 What do you think, Luna?<$FFFE>
 The Haja no Ken will become necessary to fight against the demons.<$FFFC>
 That's why we must get ahold of it as quickly as possible.<$FFFE>
@@ -103,15 +103,15 @@ It's the only guaranteed way to defeat demons......<$FFFE>
 What do you think, Miss Layla?<$FFFE>
 Me?  Well, Lord Raymond asked me to come tell you to go and find the Haja no Ken, so.....<$FFFD>
 Since the battle with the Empire is going to begin in earnest, and times are going to be hard, doesn't it seem necessary to get ahold of this thing?<$FFFE>
-So, if we don't get ahold of it, we'll all be facing even bigger troubles, eh...<$FFFC>
+So, if we don't get ahold of it, we'll all be facing even bigger troubles...<$FFFC>
 That's how it seems, doesn't it?<$FFFC>
-I see.  Well, let's head out.<$FFFE>
-And that's why we should go and seek the Haja no Ken.<$FFFE>
+Certainly.  Well, let's head out.<$FFFE>
+We should go and seek the Haja no Ken without further delay.<$FFFE>
 All right, I'll trust your guidance!<$FFFE>
 <$FFFC>
-Scenario - 14<$FFFC>
-"Fugitive Dios"<$FFFE>
-Thanks to the work of [diehardt's name], the power of the four gates<$FFFC>
+Scenario ~ 14<$FFFC>
+"Dios on the Run"<$FFFE>
+Thanks to the efforts of [diehardt's name], the power of the four gates<$FFFC>
 has been restored.  Furthermore, the Lushiris Gate now functions<$FFFC>
 properly, radiating its holy light.<$FFFE>
 While this protects against most demons, it will not be able to ward<$FFFC>

@@ -2,7 +2,7 @@ Langrisser III dumper [0x276bd4 to 0x277067]
 
 Cyber Warrior X
 
-Dieh舐te<$FFFF>
+Diehﾃ､rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,17 +14,17 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-J・ler<$FFFF>
+Jﾃｼgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-Altem・ler<$FFFF>
+Altemﾃｼller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Imperial First Prince, Paul<$FFFF>
 Close Associate<$FFFF>
 <$FFFC>
-Scenario - 15<$FFFC>
+Scenario ~ 15<$FFFC>
 "The Haja no Ken"<$FFFE>
 Dios, who has deserted from the Barral Army, has<$FFFC>
 joined the party as they hurry towards the ruins of<$FFFC>
@@ -37,20 +37,20 @@ history is certain to be made......<$FFFE>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Loss of the Haja no Ken<$FFFE>
-Rig・er Castle - Paul's Personal Quarters<$FFFF>
+Rigﾃｼler Castle ~ Paul's Personal Quarters<$FFFF>
 Hohoho!<$FFFC>
-So that ever-victorious, undefeated Altem・ler is hard-pressed in battle, eh!<$FFFC>
+So that ever-victorious, undefeated Altemﾃｼller is hard-pressed in battle!<$FFFC>
 My heart pounds in ecstasy!<$FFFE>
 Paul, Your Eminence.<$FFFC>
 It is most gratifying indeed.<$FFFE>
 Just icing on the cake.<$FFFC>
 His present activities merely confirm that he is on the wane.<$FFFE>
 With his father's death, my father finally became first in line to inheritor the power and privilege of the Emperorship.<$FFFE>
-Furthermore, since I am Father's child, it will be difficult for Altem・ler to claim the succession over me!<$FFFE>
+Furthermore, since I am Father's child, it will be difficult for Altemﾃｼller to claim the succession over me!<$FFFE>
 Since he so rarely blunders, though, he always gets on my nerves.<$FFFE>
-It's been said that General Gaiel also holds little love for that damned brat.<$FFFE>
+It's been said that General Geier also holds little love for that damned upstart.<$FFFE>
 ....What do you think?<$FFFE>
 Hmm....that's an interesting bit of information.<$FFFC>
 I wonder if we can use him.<$FFFE>
-One way or another, winning this war for the Empire will be the last thing that fool Altem・ler ever does!<$FFFE>
+One way or another, winning this war for the Empire will be the last thing that fool Altemﾃｼller ever does!<$FFFE>
 <$FFFF>

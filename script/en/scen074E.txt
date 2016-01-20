@@ -2,7 +2,7 @@ Langrisser III dumper [0x28df48 to 0x28e61b]
 
 Cyber Warrior X
 
-Dieh‰rte<$FFFF>
+Dieh√§rte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -14,23 +14,23 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J√ºgler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem√ºller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Barral Commander<$FFFF>
 Dark Knight<$FFFF>
-Larcuss Commander<$FFFF>
+Larcussian Commander<$FFFF>
 Viscount Raymond<$FFFF>
 General Bortz<$FFFF>
 Galshook<$FFFF>
 Adjutant Gates<$FFFF>
-General Gaiel<$FFFF>
+General Geier<$FFFF>
 <$FFFC>
-Scenario - 17<$FFFC>
+Scenario ~ 17<$FFFC>
 "Operation:  Recapture Laffel"<$FFFE>
 By attacking Fort Rogier, [diehardt's name]'s mobile division<$FFFC>
 successfully drew the Dark Knight from Laffel, allowing them<$FFFC>
@@ -42,7 +42,7 @@ turn for the worse.<$FFFE>
  -Defeat of Flaire<$FFFC>
 *Condition for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-Barral Territory - Fort Rogier<$FFFF>
+Barral Territory ~ Fort Rogier<$FFFF>
 What's going on here?<$FFFC>
 The fort was captured, but isn't occupied?<$FFFC>
 What the hell.....<$FFFE>
@@ -50,7 +50,7 @@ What the hell.....<$FFFE>
 Sir?<$FFFE>
 Don't you see?<$FFFC>
 It's a diversion.<$FFFE>
-Outskirts of Larcussia - Currently Imperial Territory<$FFFF>
+Outskirts of Larcussia ~ Currently Imperial Territory<$FFFF>
 Whoah!<$FFFC>
 Just a little more!<$FFFE>
 Perfect!<$FFFC>
@@ -79,11 +79,11 @@ What the hell was that!?<$FFFE>
 This is very bad!<$FFFC>
 All troops, retreat!<$FFFE>
 Too late for that!<$FFFE>
-Skyboat Fleet - Deck of the Flagship<$FFFF>
-General Gaiel.<$FFFC>
+Airship Fleet ~ Deck of the Flagship<$FFFF>
+General Geier.<$FFFC>
 It seems the Galshook made it in time.<$FFFE>
 Hmmph, of course it did.<$FFFC>
-Because we had the skyboat fleet, I knew we'd be able to transport even that giant monster in two days.<$FFFE>
+Because we had the airship fleet, I knew we'd be able to transport even that giant monster in two days.<$FFFE>
 And you were right as always.<$FFFE>
 Now, let's begin our own attack.<$FFFE>
 Yes, sir!<$FFFE>

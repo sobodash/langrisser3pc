@@ -14,38 +14,38 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Adjutant Gates<$FFFF>
-General Gaiel<$FFFF>
+General Geier<$FFFF>
 Viscount Raymond<$FFFF>
 Priest<$FFFF>
 <$FFFC>
-Scenario - 13<$FFFC>
-"Holy Beast"<$FFFE>
+Scenario ~ 13<$FFFC>
+"To Hunt a Holy Beast"<$FFFE>
 [diehardt's name]'s mobile division, now bolstered by the addition<$FFFC>
 of Sage Fauvel, Sophia's father and warden of the eastern gate,<$FFFC>
 heads towards the western gate, leaving the liberation of the<$FFFC>
 northern gate to Raymond's army.<$FFFE>
 It turns out that the warden of this gate is not human. However, by<$FFFC>
-the time the party arrives at the western gate, Rudo and the<$FFFC>
+the time the party arrives at the western gate, Ruud and the<$FFFC>
 Barral army, following the orders of the Dark Knight, have already<$FFFC>
 laid siege to it.<$FFFE>
 *Condition for Victory<$FFFC>
  -Complete annihilation of enemies<$FFFC>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
- -Death of JÅEler<$FFFE>
+ -Death of J¸gler<$FFFE>
 City of Laffel - Currently Occupied by Barral<$FFFF>
-Lord Gaiel!<$FFFC>
+Lord Geier!<$FFFC>
 Four ships, now six, now seven have been shot out the sky!<$FFFC>
-In that case......<$FFFE>
-Hohohoho......<$FFFC>
+If things continue like this....<$FFFE>
+Grrrrrr......<$FFFC>
 ..<$fe><$28>..<$fe><$f>Re<$fe><$f..<$fe><$f>treat<$fe><$f>.....<$FFFE>
 Send a message to the remaining ships!<$FFFC>
 All units are to retreat!<$FFFE>
@@ -54,19 +54,19 @@ Shit!<$FFFC>
 Damn you, Dark Knight!<$FFFC>
 Try to sink MY ship will you!<$FFFE>
 ....I'll remember this day!<$FFFC>
-You'll come to rue visiting this indignity upon me, I swear it!<$FFFE>
+You'll come to rue the day you humiliated me so, I swear it!<$FFFE>
 Lushiris Gate ~ Northern Gate<$FFFF>
 That general called Bortz was quite an admirable man, in spite of being our enemy.<$FFFE>
 Indeed.<$FFFD>
-Such true heroism, to come against us alone so that his subordinates could escape.<$FFFD>
+Such true heroism, to come against us, alone so that his subordinates could escape.<$FFFD>
 I'd welcome a chance to fight against him again somewhere.<$FFFE>
 ....I've opened the gate, but the power to ward away demons hasn't been revived!<$FFFE>
 Oh, is that not because only three of the gates have been opened?<$FFFE>
-Indeed.<$FFFD>
+It must be so.<$FFFD>
 Speaking of which, I've received a report that [diehardt's name] and company have headed to the western gate.<$FFFE>
 Then, how shall we proceed?<$FFFE>
 Hmm.<$FFFE>
-Once [diehardt's name] and compant have opened the final gate, let's head to Lady Jessica's place, so we can quickly finalize the renewal of the Lushiris Gate.<$FFFE>
+Once Dieh‰rte and company have opened the final gate, we should seek Lady Jessica out again, so we can quickly finalize the renewal of the Lushiris Gate.<$FFFE>
 As you wish.<$FFFC>
 I shall go and inform the soldiers.<$FFFE>
 If you will pardon me.<$FFFE>

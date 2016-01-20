@@ -23,7 +23,7 @@ Varna<$FFFF>
 Emaillink<$FFFF>
 King Sieghart<$FFFF>
 <$FFFC>
-Scenario - 29<$FFFC>
+Scenario ~ 29<$FFFC>
 "Böser, Master of the Demon Blade"<$FFFE>
 In the lowest levels of Velzeria Castle, Böser<$FFFC>
 patiently awaits the arrival of his prey.<$FFFC>
@@ -36,10 +36,10 @@ begin in earnest.....<$FFFE>
 *Conditions for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFC>
  -Death of Varna's sister, Anna<$FFFE>
-Velzeria Castle - Before the Castle Gates<$FFFF>
-So up ahead of us is Böser.....<$FFFE>
-We're almost to the final showdown with the lord of evil.<$FFFE>
-If we lose here, the entire world of humans shall be conquered by the demons.<$FFFE>
+Velzeria Castle ~ Before the Castle Gates<$FFFF>
+So Böser awaits up ahead.....<$FFFE>
+This will be the final showdown with the Lord of evil.<$FFFE>
+If we lose here, the entire world of humans is sure to fall to the demons.<$FFFE>
 Oh please.<$FFFC>
 Do excuse me for not indulging in such poignant pessimism!<$FFFE>
 Father.<$FFFC>
@@ -102,6 +102,6 @@ Y..you can't mean.....<$FFFE>
 Don't worry.<$FFFC>
 We'll win for sure.<$FFFE>
 R..right......<$FFFE>
-Haven't I always told the plain truth before now?<$FFFE>
+Haven't I always told the plain truth before?<$FFFE>
 H..how insensitive!<$FFFE>
 <$FFFF>

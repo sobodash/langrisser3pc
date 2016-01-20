@@ -14,36 +14,36 @@ Gilbert<$FFFF>
 Pierre<$FFFF>
 Fauvel<$FFFF>
 Dios<$FFFF>
-JÅEler<$FFFF>
+J¸gler<$FFFF>
 Jessica<$FFFF>
 Kirikaze<$FFFF>
 Do Kahni<$FFFF>
-AltemÅEler<$FFFF>
+Altem¸ller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Ferakia the Doppleganger<$FFFF>
+Ferakia the Doppelg‰nger<$FFFF>
 Bˆser<$FFFF>
 General Bortz<$FFFF>
-RigÅEer Commander<$FFFF>
+Rig¸ler Commander<$FFFF>
 Velzeria Castle<$FFFF>
 Master Bˆser....<$FFFE>
 ....What is it, Ferakia?<$FFFE>
 My apologies!<$FFFC>
 On the way, there was an unforseen intrusion, and I was unable to murder the sorceress.<$FFFE>
-Even without the functionality of the Gate, some of that bitch Lushiris's power remains.<$FFFE>
+Even without the functionality of the Gate, some of Lushiris loathsome power remains.<$FFFE>
 It couldn't be helped, since I didn't grant you your original power.<$FFFE>
 But, for you to have lost like this, it must have been quite a powerful party.<$FFFE>
-...It's still no excuse for my defeat.<$FFFE>
-No need to brood over a single failure.<$FFFC>
-Hmmm, I wonder what we should do from now on....<$FFFE>
+...It's just a shame I couldn't enjoy myself to the fullest.<$FFFE>
+No need to brood over it, there'll be plentiful battles in the future.<$FFFC>
+Hmmm, but I do wonder what our next move should be...<$FFFE>
 Plains Near the Northern Gate<$FFFF>
-We're in deep shit now, totally surrounded.<$FFFE>
+We're in deep shit now, being totally surrounded.<$FFFE>
 General Bortz, what should we do?<$FFFC>
 Right now, it's only a matter of time before we're all wiped out.<$FFFE>
 There's only one way you can escape the enemy surrounding us.<$FFFC>
 Let me serve as a distraction at one end, and break through the other end to escape.<$FFFE>
 !!<$FFFE>
-But, General, we're your main troops - it only makes sense we'd stay here and fight.<$FFFE>
+I'm the General of our main troops, it only makes sense I'd stay here and fight.<$FFFE>
 Yet, if they see me, and think the main troops have started to move away from me, they'll gather their troops in one place to crush me.<$FFFE>
 But, with their army all concentrated in one place, you'll definitely be able to break through the weakened perimeter.<$FFFC>
 All of you, use that opening and get out of here.<$FFFE>

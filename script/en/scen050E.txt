@@ -22,10 +22,10 @@ Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 <$FFFC>
-Scenario - 05<$FFFC>
+Scenario ~ 05<$FFFC>
 "Wily General Emaillink"<$FFFE>
 Altemüller, Field Marshal of the Imperial Army, received the<$FFFC>
-information from Gaiel and sent General Emaillink to the<$FFFC>
+information from Geier and sent General Emaillink to the<$FFFC>
 mansion of Baron Torrand, to strike before [diehardt's name] and<$FFFC>
 company make contact.<$FFFE>
 But, through the guidance of the Baron's daughter, Luna,<$FFFC>

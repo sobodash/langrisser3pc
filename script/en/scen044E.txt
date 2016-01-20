@@ -1,0 +1,120 @@
+﻿Langrisser III dumper [0x1c8516 to 0x1c8e73]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Geriord<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Jügler<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+High Priest<$FFFF>
+Layla<$FFFF>
+Soldier<$FFFF>
+Geriord<$FFFF>
+ <$FFFC>
+Scenario ~ 02 <$FFFC>
+"Insane in Laffel"<$FFFE>
+The Rigüler field marshal Altemüller assaults Larcussia<$FFFC>
+resulting in the downfall of the once majestic castle.<$FFFC>
+[diehardt's name] and his companions only barely make their escape.<$FFFC>
+Still in shock of the tragedy they reach the city of Laffel.<$FFFE>
+Now their only hope for striking back at the Empire<$FFFC>
+is to contact Larcuss's ally, the nearby Barral Kingdom.<$FFFC>
+However, short was the time for such thoughts,<$FFFC>
+since the flames of war were about to engulf Laffel as well,<$FFFC>
+sparkled by someone no one had suspected....<$FFFE>
+*Conditions for Victory<$FFFC>
+ -Annihilation of all enemies<$FFFC>
+ -[diehardt's name], Layla,<$FFFC>
+  Tiaris reach the bottom of the map.<$FFFE>
+* Conditions for Defeat<$FFFC>
+ -Death of [diehardt's name]<$FFFC>
+ -Death of all the villagers<$FFFE>
+Church of Laffel<$FFFF>
+Huff*.....,<$FFFC>
+this should suffice for now.FFFE>
+High Priest.<$FFFC>
+Thank you so very much.<$FFFE>
+High Priest.<$FFFB>
+<$FFFC>
+Will Geriord be able to recover from his injury?<$FFFE>
+...That which lies in my power I have done for him.<$FFFD>
+Truthfully speaking it is a miracle that he is alive, even now he is still in a critical state.<$FFFE>
+Then....<$FFFE>
+In a few days we will know what is to become of him.<$FFFE>
+I see...<$FFFE>
+Emergency!<$FFFE>
+It is the enemy! The enemy is here!<$FFFC>
+All citizens must evacuate the city immediately!<$FFFE>
+How terrible!<$FFFC>
+Out of my way!<$FFFE>
+The enemy has come here!?<$FFFB>
+<$FFFC>
+The Empire has caught to up to us fast....<$FFFE>
+We have an emergency!<$FFFC>
+Enemy troops are threatening to invade Laffel!<$FFFE>
+Oh no!<$FFFE>
+We must hurry to make preparations for leaving here as soon as possible!<$FFFE>
+Yes!<$FFFB>
+<$FFFC>
+Tiaris we must do our part too!<$FFFE>
+...Okay...<$FFFC>
+[diehardt's name], please hurry too.<$FFFE>
+...Wait, [diehardt's name].<$FFFE>
+Geriord!?<$FFFC>
+How are you feeling?<$FFFE>
+So the enemy has come here already?<$FFFE>
+Yeah.<$FFFE>
+You have to leave me behind and get away from here....<$FFFE>
+What are you saying Geriord!<$FFFE>
+I know my own body best.<$FFFC>
+This injury won't heal any time soon.....<$FFFE>
+I couldn't bear to be a burden to all of you.<$FFFC>
+That's why you must go without me.<$FFFE>
+Right now the Larcussian army has to fall back and reorganize.<$FFFE>
+But Geriord!<$FFFE>
+[diehardt's name]...,<$FFFC>
+you are a knight now.<$FFFC>
+Become a splendid one and protect this great land and its people.<$FFFE>
+This would be the greatest honor you can bestow upon me.<$FFFC>
+One day you'll return here,<$FFFC>
+and this is when Laffel will be liberated.<$FFFE>
+.....I got it, Geriord.<$FFFC>
+I'll become a fine knight and to come back here when that time has arrived, I promise.<$FFFE>
+We will form an army and come back here for sure.<$FFFC>
+And after we claim back Layla's and your home town, we'll liberate Larcussia as well.<$FFFE>
+......Layla my betrothed, please come over here.<$FFFE>
+Layla!?<$FFFE>
+.....<$FFFB>
+<$FFFC>
+Will you please listen to me?<$FFFE>
+Geriord, I....<$FFFE>
+...Layla I must ask something of you.<$FFFB>
+<$FFFC>
+You almost became the wife of a knight.<$FFFD>
+As such you must be ready to let go always...<$FFFD>
+This is my last request.<$FFFC>
+You must live and escape with [diehardt's name].<$FFFE>
+...I'll do as you say.<$FFFB>
+<$FFFC>
+...However, I will pray for your recovery,<$FFFD>
+so you may live to meet with me again....<$FFFE>
+Yeah....<$FFFE>
+.....<$FFFE>
+Cough*....<$FFFC>
+Go now, there is no time to lose.<$FFFE>
+I entrust this one to you, [diehardt's name]....<$FFFE>
