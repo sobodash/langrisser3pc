@@ -1,9 +1,10 @@
-<?
+#!/usr/bin/php -q
+<?php
 
-echo ("\nmpdump v0.3 (c) Mr. D 2003\n");
+echo ("mpdump v0.3 (cli)\nCopyright (c) 2003, 2015 Derrick Sobodash\n");
 set_time_limit(6000000);
 
-if ($argc < 2) { DisplayOptions(); die; }
+if ($argc < 2) { die; }
 else { $path = $argv[1]; }
 
 // Simple routine to read in a directory listing and split it to an array
@@ -23,6 +24,5 @@ for ($z=2; $z < (count($filelist)-1); $z++) {
 	if($type != "MP" . chr(0)) { break; print "Not an MP file!\n"; }
 	
 }
-
 
 ?>
