@@ -39,9 +39,9 @@ By the sovereign power of a floating fortress, hovering over its capital Larcuss
 peace remained throughout the lands.<$FFFE>
 Today, inside the same castle, a young man concludes his training as a knight<$FFFC>
 by absolving the ceremony of ascension.<$FFFC>
-It was [diehardt's name] Klaus who overcame all hardships while undergoing the rigorous knightly training,<$FFFC>
-whose many efforts now would finally bear fruit and thus<$FFFC>
-making his dream since childhood of becoming a knight reality.<$FFFE>
+It was [diehardt's name] Klaus who overcame all hardships while undergoing the rigorous knightly training.<$FFFC>
+Now his many efforts would bear fruit<$FFFC>
+and his dream since childhood should finally become a reality.<$FFFE>
 Little did he know, that this happy occasion soon would <$FFFC>
 be overshadowed by black wings of foreboding demise,<$FFFC>
 which already approached the Floating Castle stealthily.<$FFFE>

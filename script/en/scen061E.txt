@@ -53,9 +53,9 @@ or we may be to late to reinstate the Gate...<$FFFE>
 So this is the stone you got from the chief of the Shika tribe.<$FFFD>
 Let's be extra careful with this...<$FFFC>
 Åd<$fe><$1e>Åd<$fe><$1e>Åd<$fe><$1e>ÅdÅB<$FFFD>
-we still don't know the exact method for using this.<$FFFC>
-I think it's hopeless.<$FFFC>
-Try to pray as instructed?<$FFFD>
+We still don't know the exact method to use this.<$FFFC>
+Yeah, I think it's kinda hopeless.<$FFFC>
+Do you want to try to focus your mind as instructed?<$FFFD>
 Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$FFFE>
 Altem¸ller's Private Chamber$FFFF>
 Your Excellency!<$FFFE>

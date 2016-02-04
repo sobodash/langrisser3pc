@@ -151,7 +151,7 @@ Movement and actions cancelled<$FFFF>
 Move and cancel Defense Mode?<$FFFF>
 may be selected<$FFFF>
 map arrangement<$FFFF>
-Dieh„rte   <$FFFF>
+Diehärte   <$FFFF>
 Your name is?<$FFFF>
 Finished?<$FFFF>
 Enemies<$FFFF>

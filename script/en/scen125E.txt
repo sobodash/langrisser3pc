@@ -1,0 +1,243 @@
+﻿Langrisser III dumper [0x3a025a to 0x3a162f]
+
+Cyber Warrior X
+
+Diehärte<$FFFF>
+Tiaris<$FFFF>
+Riffany<$FFFF>
+Luna<$FFFF>
+Sophia<$FFFF>
+Flaire<$FFFF>
+Lewin<$FFFF>
+Silver Wolf<$FFFF>
+Gilbert<$FFFF>
+Pierre<$FFFF>
+Fauvel<$FFFF>
+Dios<$FFFF>
+Jügler<$FFFF>
+Jessica<$FFFF>
+Kirikaze<$FFFF>
+Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Varna<$FFFF>
+Emaillink<$FFFF>
+Gel Jiro<$FFFF>
+Gel Wife<$FFFF>
+Gel Husband<$FFFF>
+Gel Grandpa<$FFFF>
+Gel Beauty<$FFFF>
+Wolf<$FFFF>
+Gel Child<$FFFF>
+Gel Taro<$FFFF>
+Super Gel<$FFFF>
+-Exterminate Gel<$FFFE>
+-Death of Diehärte<$FFFE>
+<$FFFC>
+The Story of the Gel's House<$FFFC>
+<$FFFE>
+This is a story of no consequence for the main story.<$FFFC>
+After completing this Scenario the game will be over, so beware.<$FFFD>
+We, the architects of this world, have created this scenario in a hurry and only for purposes of entertainment.<$FFFD>
+And maybe also to get you thinking a little bit....*wink*...<$FFFC>
+If you still want to listen to the tale that's about to be told,<$FFFC>
+we recommend you to get some handkerchiefs ready.....*sniff-sniff*...<$FFFD>
+It has been a long way to the completion of this world...<$FFFD>
+We have to rest for now....we're just too sleepy......*snore*...<$FFFE>
+Olver's Residence<$FFFF>
+Mom, is the rise still not done?<$FFFE>
+By the way,<$FFFC>
+Gels also have their own language.<$FFFD>
+The following dialogues have been translated.<$FFFD>
+So even though you can understand what they are saying,<$FFFC>
+those who are part of the story cannot.<$FFFE>
+It will only take another short while.<$FFFD>
+And don't make a habit of calling me mom.<$FFFC>
+It's "dear mother" to you.<$FFFC>
+How many times do I have to tell you before you get it?<$FFFE>
+But why?<$FFFC>
+No one else has to say "dear mother".<$FFFC>
+Everyone just says "mom" and one has to move with the time.<$FFFE>
+Whose that "everyone" you're talking about?<$FFFE>
+Everyone, like all the other people!<$FFFC>
+That fat Gel especially!<$FFFE>
+I should've known it was that good-for-nothing fatty.<$FFFC>
+He's a bad influence, you know?<$FFFD>
+Be a good boy and stay away from him, Jiro.<$FFFE>
+Sure, sure.<$FFFE>
+What's with the attitude!?<$FFFE>
+I'll do as you wish, dear mother.<$FFFE>
+Now now, don't you think you're a bit harsh?<$FFFC>
+He's still a little Gel.<$FFFE>
+That doesn't matter.<$FFFD>
+.<$FFFC>
+I don't think I'll have to remind you that this is the house of the Chief of all Gels.<$FFFC>
+Maintaining order and a certain level of etiquette is a must for a family in our position.<$FFFE>
+Yes...my dear...<$FFFE>
+May I inquire if the meal ready yet?<$FFFE>
+Oh, father-in-law.<$FFFC>
+The preparations will be completed in just a minute.<$FFFD>
+Please excuse me for being late.<$FFFE>
+Don't worry about that.<$FFFC>
+I'm sure it will be delicious as always.<$FFFC>
+Truly, it is a pleasure having you in the family.<$FFFD>
+Quiet unlike that impious husband of yours.<$FFFE>
+Please, father-in law, don't say such a thing....<$FFFE>
+Father!<$FFFE>
+Hohohoho!<$FFFE>
+*Sigh*...<$FFFD>
+At least we have found a pleasant house to stay in...<$FFFE>
+I think it belonged to a human not too long ago.<$FFFD>
+What a stroke of luck for us....<$FFFE>
+Gel Beauty!<$FFFC>
+Dinner's almost ready!<$FFFD>
+Stop playing outside<$FFFC>
+and come in.<$FFFE>
+Whaaat? Already!?<$FFFC>
+But it's so much fun!<$FFFE>
+?<$FFFC>
+Gel Beauty.<$FFFC>
+You should listen to your mother, she's just concerned about you.<$FFFE>
+Gel Beauty!<$FFFC>
+The sun is already setting and<$FFFC>
+I wouldn't want you to catch a cold.<$FFFD>
+Please hurry back inside!<$FFFE>
+Okay!<$FFFE>
+It's quiet...<$FFFE>
+I presume the den of the monsters is close by...<$FFFE>
+Maybe they have invaded that house over there, let me take a peek.<$FFFE>
+Be careful.<$FFFE>
+Sure will.<$FFFE>
+Huh?<$FFFC>
+I can't get that door open, it doesn't even flinch.<$FFFD>
+I wonder if there's a specific way to get in.<$FFFE>
+This seems awfully familiar...<$FFFC>
+Anyway, you'll have to use magic to open it up.<$FFFE>
+Oh, right.<$FFFC>
+Give me one minute!<$FFFE>
+Hey now!<$FFFC>
+That's not really a good idea.<$FFFC>
+You'd better let someone like me handle this with discretion...<$FFFE>
+Here I go!<$FFFD>
+<$fe><$3c>Meteeeeeeoooorrr!<$FFFE>
+...Don't say I didn't warn you...<$FFFE>
+Kyaahh!<$FFFE>
+Gel Beauty!<$FFFE>
+Take this!<$FFFE>
+And this!<$FFFE>
+This'll finish you!<$FFFE>
+OK!<$FFFC>
+The door's open!<$FFFE>
+......<$FFFE>
+What was that noise just now!?<$FFFE>
+Gel Beauty come back inside!<$FFFC>
+Hurry!<$FFFE>
+Alright, let's move on to the next door!<$FFFE>
+I..it's a human!<$FFFE>
+A human!?<$FFFD>
+Gel Beauty, you have to hurry!<$FFFE>
+[diehardt's name]!<$FFFC>
+It's a Gel!<$FFFE>
+We'll be right there!<$FFFE>
+Don't worry, I can handle this myself.<$FFFD>
+I've got plenty mana left to deal with this one!<$FFFE>
+Noo!<$FFFC>
+Don't come closer!<$FFFE>
+Not a chance!<$FFFC>
+You've got nowhere to run!<$FFFC>
+Meteor!<$FFFE>
+Kyaaahhh!<$FFFC>
+Moooomyyyy!!<$FFFE>
+Good, that takes care of that!<$FFFE>
+Gel Beauty!<$FFFE>
+You filthy humans!<$FFFC>
+Father, Jiro you have to get away from here!<$FFFD>
+We'll stay back and buy some time for you to escape!<$FFFE>
+Nonsense!<$FFFC>
+I wouldn't wanna leave such an important task to a slacker like yourself.<$FFFC>
+I'll stay here and you two make sure that Jiro gets to safety!<$FFFE>
+No, please don't worry about us.<$FFFD>
+We'll catch up to you in no time, so please go!<$FFFE>
+...Fine.<$FFFE>
+This door's next.<$FFFD>
+Meteor!<$FFFE>
+One more!<$FFFE>
+And the grand finale!<$FFFE>
+What? Don't mess with Tia!<$FFFE>
+They're here!<$FFFD>
+Father, please take care of Jiro!<$FFFE>
+Of course.<$FFFC>
+We can't afford to lose!<$FFFE>
+Umm....<$FFFE>
+There's a nest of Gels inside that house.<$FFFD>
+They were all over the place with their wobbly bodies!<$FFFC>
+Oh, it was disgusting!<$FFFE>
+Good work, scouting!<$FFFC>
+Let's get them in one go!<$FFFE>
+Gel Taro!<$FFFC>
+Something strange seems to be going on around here!<$FFFE>
+Humans!<$FFFC>
+The humans are attacking!<$FFFD>
+Gel Child!<$FFFC>
+You have to wait here!<$FFFD>
+I will go and see if I can help father!<$FFFE>
+O..okay.<$FFFC>
+Gel Taro, please be careful.<$FFFE>
+[diehardt's name]!<$FFFC>
+Gel reinforcements have arrived!<$FFFE>
+They shouldn't pose any real threat.<$FFFD>
+Everyone!<$FFFC>
+Make sure to get all of them!<$FFFE>
+Forgive me...Everyone...<$FFFE>
+[diehardt's name]...<$FFFE>
+My power ways insufficient....<$FFFE>
+I wish I could've done more...<$FFFE>
+I'm sorry...<$FFFE>
+My?<$FFFE>
+My apologies....<$FFFE>
+Failure!<$FFFC>
+Forgive me, [diehardt's name]!<$FFFE>
+Uuu...<$FFFC>
+...Run...everyone...<$FFFE>
+Darling!<$FFFE>
+Honey...<$FFFC>
+You have been my one and only...<$FFFC>
+You must live....<$FFFE>
+Daaaarrliiiiiing!<$FFFE>
+Father!<$FFFE>
+Daadyyyy!<$FFFE>
+Father...<$FFFE>
+Cough...cough...<$FFFE>
+Honey!<$FFFC>
+Hold on!<$FFFE>
+Look...after...the children...<$FFFC>
+...Please...<$FFFE>
+Honeeyyyy!!<$FFFE>
+Oh, my dear wife...<$FFFC>
+At last we shall be reunited...<$FFFE>
+Father...<$FFFC>
+You were right...I'm still too immature...<$FFFD>
+Please forgive my lack of filial piety....<$FFFE>
+...It hurts...<$FFFC>
+...so much....<$FFFE>
+Dear father...<$FFFD>
+Dear mother...<$FFFE>
+It hurts...stop this...madness..<$FFFE>
+Uurrgggh!<$FFFE>
+Jiro....<$FFFC>
+...and Father too....<$FFFD>
+Honey!<$FFFE>
+his ended sooner than I thought.<$FFFD>
+This battle was easy as pie.<$FFFE>
+Yes.<$FFFD>
+And since we exterminated all the heinous monsters,<$FFFC>
+the people of this land can live in piece.<$FFFD>
+Alright everyone, let us return to our original task!<$FFFE>
+And thus,<$FFFC>
+the Gel's House and with it all the hopes and dreams of its residents perished.<$fe><$f>.<$fe><$f>.<$fe><$f>.<$FFFE>
+Utilizing the power of love, the Gel wife fuses with the Gel husband, multiplying his power by doing so!<$FFFE>
+Utilizing the power of love, the Gel husband fuses with the Gel wife, multiplying his power by doing so!<$FFFE>
+Ghastly Humans!<$FFFC>
+Prepare to pay for what you've done!<$FFFE>
+Dreadful Humans!<$FFFC>
+You shall feel my sorrow!<$FFFE>
+<$FFFF>
