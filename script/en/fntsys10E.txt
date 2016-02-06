@@ -28,7 +28,7 @@ Trident<$FFFF>
 Partisan<$FFFF>
 Feather Spear<$FFFF>
 Benkei Glaive<$FFFF>
-Gei Voulge<$FFFF>
+Gae Bolg<$FFFF>
 Gungnir<$FFFF>
 Club<$FFFF>
 Flail<$FFFF>
@@ -36,7 +36,7 @@ Morningstar<$FFFF>
 Iron Dumbbell<$FFFF>
 Mithril Hammer<$FFFF>
 Dagda Club<$FFFF>
-Mj”llner<$FFFF>
+Mjöllnir<$FFFF>
 Cypress Staff<$FFFF>
 Staff<$FFFF>
 Wand<$FFFF>
@@ -112,7 +112,7 @@ Egil Helm<$FFFF>
 Orb<$FFFF>
 Magic Circle<$FFFF>
 Talisman<$FFFF>
-Gj„ller Horn<$FFFF>
+Gjaller Horn<$FFFF>
 Crest of the Lord of Immortals<$FFFF>
 Gleipnir<$FFFF>
 Angel Feather<$FFFF>
@@ -127,7 +127,7 @@ Power Ring<$FFFF>
 Star Coin<$FFFF>
 Angel Ring<$FFFF>
 Ring of the Stone Spirit<$FFFF>
-Megingj„rdar<$FFFF>
+Megingjöro<$FFFF>
 Draupnir<$FFFF>
 Ring of Lauren<$FFFF>
 Necklace of the Hegemon<$FFFF>
@@ -157,11 +157,11 @@ Ghost Blood<$FFFF>
 Demon Dragon Stone<$FFFF>
 Book of White Magic<$FFFF>
 Holy Symbol<$FFFF>
-Book of Black Magic<$FFFF>
+Tome of Black Magic<$FFFF>
 Magic Symbol<$FFFF>
-Apollo Arrow<$FFFF>
+Apollo's Arrow<$FFFF>
 Destiny Arrow<$FFFF>
-Mermaid Tear<$FFFF>
+Mermaid's Tear<$FFFF>
 Divine Blessing<$FFFF>
 Earth Rune<$FFFF>
 Wind Rune<$FFFF>

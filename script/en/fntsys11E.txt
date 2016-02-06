@@ -1,4 +1,4 @@
-Dieh„rte<$FFFF>
+Diehärte<$FFFF>
 Tiaris<$FFFF>
 Riffany<$FFFF>
 Luna<$FFFF>
@@ -10,11 +10,11 @@ Blademaster Gilbert<$FFFF>
 Pierre<$FFFF>
 Sage Fauvel<$FFFF>
 Dios<$FFFF>
-Guardian Beast Jgler<$FFFF>
+Holy Beast Jügler<$FFFF>
 High Sorceress Jessica<$FFFF>
 Kirikaze<$FFFF>
 Brave Do Kahni<$FFFF>
-Altemller<$FFFF>
+Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 General Bortz<$FFFF>
@@ -30,12 +30,12 @@ Sir Geriord<$FFFF>
 Layla<$FFFF>
 Olver<$FFFF>
 Prince Paul<$FFFF>
-Altemller<$FFFF>
-General Gaiel<$FFFF>
-B”zer<$FFFF>
+Altemüller<$FFFF>
+General Geier<$FFFF>
+Böser<$FFFF>
 Necromancer Grove<$FFFF>
-Ferakia<$FFFF>
-Insect Master Rag<$FFFF>
+Shapeshiftress Ferakia<$FFFF>
+Worm Master Rag<$FFFF>
 Richard<$FFFF>
 Coty<$FFFF>
 Dieh„rte<$FFFF>
@@ -46,9 +46,9 @@ Street Hawker<$FFFF>
 Shopkeeper<$FFFF>
 Bat<$FFFF>
 Serpent<$FFFF>
-Dieh„rte<$FFFF>
+Diehärte<$FFFF>
 General Dios<$FFFF>
-Altemller<$FFFF>
+Altemüller<$FFFF>
 General Varna<$FFFF>
 General Emaillink<$FFFF>
 Princess Flaire<$FFFF>
@@ -352,10 +352,10 @@ Aniki<$FFFF>
 Aniki<$FFFF>
 Aniki<$FFFF>
 Kirikaze<$FFFF>
-True B”zer<$FFFF>
+True Böser<$FFFF>
 Gilbert<$FFFF>
 Fauvel<$FFFF>
-Jgler<$FFFF>
+Jügler<$FFFF>
 Jessica<$FFFF>
 Do Kahni<$FFFF>
 Bortz<$FFFF>
@@ -366,7 +366,7 @@ Christ<$FFFF>
 Raymond<$FFFF>
 Geriord<$FFFF>
 Paul<$FFFF>
-Gaiel<$FFFF>
+Geier<$FFFF>
 Grove<$FFFF>
 Rag<$FFFF>
 Ruud<$FFFF>

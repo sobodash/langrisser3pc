@@ -128,7 +128,7 @@ Little scratch long gone.<$FFFD>
 Just come home to bring wondrous stone.<$FFFE>
 A wondrous stone you say?<$FFFE>
 Pass through time.<$FFFC>
-Time is warped.<$FFFD>
+Time and Space is warped.<$FFFD>
 Chief told me to get stone, ask chief.<$FFFE>
 I hope we won't come to regret it.<$FFFE>
 Do Kahni is Champion.<$FFFC>
@@ -351,7 +351,7 @@ Sir [diehardt's name]...<$FFFC>
 We took much too long for completing this mission...<$FFFD>
 I hate you...you know that?<$FFFE>
 <$F705>Here is promised stone.<$FFFE>
-Time Warping Stone was obtained!<$FFFE>
+Time and Space Warping Stone was obtained!<$FFFE>
 Thank you, great chief.<$FFFE>
 Sir [diehardt's name].<$FFFC>
 Here's the stone you wanted.<$FFFE>

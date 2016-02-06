@@ -42,11 +42,11 @@ Stay right where you are, Altemüller!<$FFFE>
 By the way, is it important in which way we strike him down?<$FFFE>
 What do you mean, just hit him hard!<$FFFE>
 No!<$FFFC>
-He is only possessed by Al Hazard.<$FFFD>
+He is only possessed by Alhazard.<$FFFD>
 Our goal is to return him to his true self, if we simply use force he might die.<$FFFD>
 ...If we somehow can reach the remnants of his heart we may have a chance.<$FFFE>
 ...I see.<$FFFD>
-It was his furious anger about Varna's death that made him take Al Hazard.<$FFFD>
+It was his furious anger about Varna's death that made him take Alhazard.<$FFFD>
 If we somehow could persuade her...we may be able to...<$FFFE>
 Yes, I'm sure that this would be our best chance to turn him back <$FFFE>
 But what do we do then?<$FFFE>
@@ -54,10 +54,10 @@ Maybe...<$FFFB>
 <$FFFC>
 If at all, something like this would be possible with the Langrisser.<$FFFE>
 The problem is, how do we reach his original heart?<$FFFD>
-If he can recover his own heart even a little Langrisser could expel Al Hazard's bewitchment.<$FFFE>
+If he can recover his own heart even a little Langrisser could expel Alhazard's bewitchment.<$FFFE>
 It could be possible with Langrisser.<$FFFE>
 The problem is how we can reach his original heart.<$FFFD>
-If he can recover his own heart even a little Langrisser could expel Al Hazard's bewitchment.<$FFFE>
+If he can recover his own heart even a little Langrisser could expel Alhazard's bewitchment.<$FFFE>
 ...This will be my role to play.<$FFFD>
 I think I can bring him back to his senses if I get the chance to speak to him.<$FFFE>
 Emaillink!?<$FFFE>
@@ -149,7 +149,7 @@ Protect lord Böser to the last breath!<$FFFE>
 What's the matter, Emaillink?<$FFFE>
 Is it.<$fe><$14>.<$fe><$14>.<$fe><$14>.,Lady Varna?<$FFFE>
 You did well making it this far!<$FFFC>
-As a reward for your efforts I will let you bear witness the true power of Al Hazard!<$FFFD>
+As a reward for your efforts I will let you bear witness the true power of Alhazard!<$FFFD>
 Come forth, my servants!<$FFFE>
 Well then, come to me now.<$FFFC>
 And die at my own hand.<$FFFC>
@@ -175,8 +175,8 @@ Only with your help will we have a chance to bring him back!<$FFFE>
 You are Böser's fiercest enemy!<$FFFC>
 Therefore I will now put an end to you!<$FFFE>
 Wait, please listen to me!<$FFFE>
-Altemüller's heart is currently under the control of Al Hazard!<$FFFE>
-He only picked up Al Hazard because he was furious about your death!<$FFFE>
+Altemüller's heart is currently under the control of Alhazard!<$FFFE>
+He only picked up Alhazard because he was furious about your death!<$FFFE>
 I'm very much aware of that!<$FFFE>
 So you must realize that only you can bring him back to his senses!<$FFFE>
 Now to you, traitor!<$FFFC>
@@ -211,9 +211,9 @@ The demon sword has to be..sealed...<$FFFE>
 Now, come at me!<$FFFE>
 ..I have..no regrets..<$FFFC>
 Leave this to me.<$FFFE>
-If just Al Hazard didn't exist, father wouldn't...<$FFFE>
+If just Alhazard didn't exist, father wouldn't...<$FFFE>
 [diehardt's name]...<$FFFC>
-All that matters now is that Al Hazard is sealed...<$FFFE>
+All that matters now is that Alhazard is sealed...<$FFFE>
 Pana Pureho Guna,<$FFFC>
 Kaparapa Buu...<$FFFC>
 ...Shika....<$FFFE>
@@ -222,7 +222,7 @@ Shikashikatsuu!<$FFFC>
 <$FFFC>
 Shikaaaa!<$FFFE>
 Varna...<$FFFE>
-‥‥何も言うな。<$FFFE>
+...Please, say no more...<$FFFE>
 Please return to us quickly!<$FFFC>
 Your Excellency Altemüller!<$FFFE>
 [diehardt's name]....his Excellency is lost...<$FFFE>
@@ -246,7 +246,7 @@ Damn!<$FFFC>
 My head feels like it's about to burst...<$FFFE>
 Guargh!?<$FFFE>
 Did we do it!?<$FFFE>
-The power of Al Hazard....fades away...<$FFFC>
+The power of Alhazard....fades away...<$FFFC>
 ...how did...<$FFFE>
 ...this is...my end...<$FFFC>
 Uuarrrghh!<$FFFE>
@@ -258,11 +258,11 @@ We'll be together once again...<$FFFE>
 ....<$FFFE>
 Your Excellency Altemüller, please rest in peace...<$FFFE>
 ...There will be time to mourn the dead.<$FFFC>
-But right now we must seal Al Hazard....<$FFFE>
+But right now we must seal Alhazard....<$FFFE>
 ...Your right.<$FFFC>
 Prepare the ceremony...<$FFFE>
 ...There will be time to mourn the dead.<$FFFC>
-But right now we must seal Al Hazard....<$FFFE>
+But right now we must seal Alhazard....<$FFFE>
 For opposing master Böser you will be eliminated!<$FFFE>
 Damn this!<$FFFC>
 What a nuisance!<$FFFE>
@@ -327,10 +327,10 @@ Humans are...mean..<$FFFE>
 KISYHAAAA!<$FFFE>
 GRRRR...<$FFFE>
 ZUUUUU....<$FFFE>
-...No, it is just Al Hazard that possesses him.<$FFFD>
-If Al Hazard's power would be gone, he would turn back to his true self.<$FFFE>
+...No, it's just that Alhazard possesses him.<$FFFD>
+If Alhazard's power would be gone, he would turn back to his true self.<$FFFE>
 Now I get it!<$FFFC>
-Langrisser was created for the very purpose of opposing Al Hazard's dark power!<$FFFE>
+Langrisser was created for the very purpose of opposing Alhazard's dark power!<$FFFE>
 .<$fe><$14>.<$fe><$14>.<$fe><$14>..<$FFFE>
 ...His true self.<$FFFC>
 His Excellency's true self.<$FFFC>
@@ -349,44 +349,44 @@ I will not allow that to happen!<$FFFE>
 Was enough make my heart overflow with happiness.<$FFFD>
 ...Thank you....<$FFFE>
 Your Excellency!<$FFFC>
-Remember that you took Al Hazard to strike down the ones that hurt your beloved Varna.<$FFFE>
-Now that Geier and Paul are dead you have no reason anymore to wield that sword.<$FFFE>
+Remember that you took Alhazard to strike down the ones that hurt your beloved Varna.<$FFFE>
+Now that Geier and Paul are dead, you have no reason anymore to wield that sword.<$FFFE>
 You don't seem to understand the amazing powers of this sword.<$FFFC>
-Only through them could Varna be brought back to me.<$FFFE>
+Only with them could Varna be brought back to me.<$FFFE>
 Think about it, if it wouldn't have been for that sword,<$FFFC>
 Varna wouldn't have been involved with Velzeria to begin with!<$FFFE>
 In that case also your Excellency's sorrow wouldn't have come to be.<$FFFC>
-Everything Al Hazard does is to drive you mad.<$FFFE>
+Everything Alhazard does is driving you mad.<$FFFE>
 ...If this sword wouldn't exist....<$FFFE>
 Exactly!<$FFFC>
 Please realize!<$FFFC>
-Your Excellency Altemüller!<$FFFE>
+Your Excellency, Altemüller!<$FFFE>
 That's right...<$FFFC>
-If Al Hazard didn't exist...Varna wouldn't have...<$FFFE>
+If Alhazard didn't exist...Varna wouldn't have...<$FFFE>
 And Varna's resurrection....Uarrgh!<$FFFC>
 What's happening...my head...!<$FFFE>
 Your Excellency!<$FFFC>
 Please hold on!<$FFFE>
-Your Excellency Altemüller!<$FFFE>
+Your Excellency, Altemüller!<$FFFE>
 Yes, Varna...I...<$FFFE>
 Please remember!<$FFFC>
 Your noble heart!<$FFFE>
-That you are Altemüller!<$FFFE>
+That you're Altemüller!<$FFFE>
 ...Verily, I'm Altemüller...<$FFFC>
-and not the prince of darkness, Böser...Uaargh!<$FFFE>
+and not the Prince of Darkness, Böser...Uaargh!<$FFFE>
 What is happening to him!?<$FFFE>
-It seems that his original heart and Al hazard are fighting.<$FFFE>
-It seems that his original heart and Al hazard are fighting.<$FFFE>
-Doesn't it seem like his original heart and Al hazard are fighting?<$FFFE>
+It seems like his original heart and Alhazard are fighting.<$FFFE>
+It seems like his original heart and Alhazard are fighting.<$FFFE>
+Doesn't it seem like his original heart and Alhazard are fighting?<$FFFE>
 In other words there is still something left of his true self right?<$FFFE>
 This is my chance!<$FFFC>
-Now all I need to do is to use Langrisser to cut off his wicked heart! <$FFFE>
+Now, all I need to do is to use Langrisser to cut off his wicked heart! <$FFFE>
 ...That is one possible outcome.<$FFFC>
 There still is a risk that he will pass away.<$FFFE>
 Even in death there is life.<$FFFC>
 If I'll die a flower shall bloom on my grave to live in my stead!<$FFFE>
 ...Your Excellency...<$FFFE>
-As long as Al Hazard exists it is a thread to this world.<$FFFC>
+As long as Alhazard exists it is a thread to this world.<$FFFC>
 We can't take the risk of doing the same mistake again!<$FFFE>
 ...It's hopeless...<$FFFE>
 ...Emaillink?<$FFFE>
@@ -398,7 +398,7 @@ Huh, Varna!?<$FFFC>
 How is this?<$FFFC>
 But Geier killed you...<$FFFE>
 Let's talk about the details later.<$FFFC>
-Right now sealing Al Hazard takes priority.<$FFFE>
+Right now, sealing Alhazard takes priority.<$FFFE>
 Forgive me, [diehardt's name].<$FFFC>
 It looks like I caused great turmoil.<$FFFE>
 What do you reply?<$FFFE>
@@ -415,15 +415,15 @@ Gurghuu...<$FFFC>
 I'm not done yet.<$FFFE>
 Your struggle is in vain!<$FFFC>
 We have failed to return him to his original self...<$FFFE>
-UUrrrhg!<$FFFC>
-Al Hazard!<$FFFC>
+Uuurrrhg!<$FFFC>
+Alhazard!<$FFFC>
 Grant me your power!<$FFFE>
 It's useless, Altemüller!<$FFFC>
-In your state you are not able to call forth the powers of Al Hazard anymore.<$FFFE>
+In your state you are not able to call forth the powers of Alhazard anymore.<$FFFE>
 Your Excellency!?<$FFFE>
 Are you back to yourself?<$FFFE>
-I am; the last thing I know is that I took Al Hazard to exact revenge on Varna's murderers...<$FFFE>
+I am; the last thing I know is that I took Alhazard to exact revenge on Varna's murderers...<$FFFE>
 Altemüller...<$FFFE>
-You skill is remarkable,[diehardt's name].<$FFFD>
+Your skill is remarkable,[diehardt's name].<$FFFD>
 Go now, you must stop him!<$FFFE>
 ....It seems like nothing can be done anymore. I can't endure to look at his Excellency any longer. YOu must end it now...<$FFFE>

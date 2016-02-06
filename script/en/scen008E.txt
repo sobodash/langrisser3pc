@@ -1,4 +1,4 @@
-Langrisser III dumper [0x49080 to 0x4a5a5]
+﻿Langrisser III dumper [0x49080 to 0x4a5a5]
 
 Cyber Warrior X
 
@@ -121,7 +121,7 @@ Flaire, it is me, Diehärte!<$FFFE>
 So, have you become a knight by now?<$FFFE>
 Yeah.<$FFFE>
 Yeah.<$FFFC>
-[diehardt's name]という名前を与えられたよ。<$FFFE>
+It seems like you are doing honor to your familie's name, [diehardt's name].<$FFFE>
 I see.<$FFFC>
 In that case, let me offer my congratulations.<$FFFE>
 I never would have thought it possible to meet you under such circumstances...<$FFFE>
