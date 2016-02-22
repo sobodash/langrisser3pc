@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2d98ba to 0x2da1fb]
+﻿Langrisser III dumper [0x2d98ba to 0x2da1fb]
 
 Cyber Warrior X
 
@@ -32,7 +32,7 @@ Run!<$FFFC>
 Everyone, get out of here!<$FFFE>
 Rigüler Imperial Capitol ~ Main Street<$FFFF>
 ....His Imperial Majesty....<$FFFE>
-....I wonder why our country's emperor didn't rule for very long?<$FFFE>
+....I wonder why our country's Kaiser didn't rule for very long?<$FFFE>
 The imperial family member's historically have lived long lives, right......<$FFFE>
 Think someone might have murdered him?<$FFFE>
 Hey....<$FFFE>
@@ -54,7 +54,7 @@ You called me, Your Excellency Altemüller?<$FFFE>
 Thanks for responding to my summons.<$FFFC>
 I've got something I'd like to ask you.<$FFFE>
 Yes, milord, how might I help you?<$FFFE>
-You attended both my Father, the previous Emperor, and Emperor Christ IV in their final days, correct?<$FFFE>
+You attended both my Father, the previous Kaiser, and Kaiser Kleist IV in their final days, correct?<$FFFE>
 That is correct.<$FFFE>
 ....Then, let me frank with you - what do you think the true cause of death was for both of them?<$FFFE>
 ..........<$FFFE>

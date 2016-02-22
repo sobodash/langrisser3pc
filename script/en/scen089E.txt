@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2e7f96 to 0x2e87bf]
+﻿Langrisser III dumper [0x2e7f96 to 0x2e87bf]
 
 Cyber Warrior X
 
@@ -33,7 +33,7 @@ Elthlied has barely even been established as a country.<$FFFC>
 Right now we'd rather focus our efforts on settling our internal affairs than on fighting.<$FFFE>
 We of the Empire are in the same boat.<$FFFC>
 These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
-And with the recent death of our Emperor, the administration is in a state of instability.<$FFFC>
+And with the recent death of our Kaiser, the administration is in a state of instability.<$FFFC>
 So, neither of us have the luxury of ignoring this mutual problem posed by Velzeria.<$FFFE>
 As things stand now, it is mutually beneficial to formalize this truce.<$FFFE>
 With that done, I bid you farewell.<$FFFE>

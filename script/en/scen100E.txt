@@ -1,4 +1,4 @@
-Langrisser III dumper [0x326cae to 0x32718f]
+﻿Langrisser III dumper [0x326cae to 0x32718f]
 
 Cyber Warrior X
 
@@ -21,7 +21,7 @@ Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Emperor Paul<$FFFF>
+Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
  <$FFFC>
 Scenario ~ 30<$FFFC>

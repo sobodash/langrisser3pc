@@ -38,7 +38,7 @@ High Elf<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
 Ballista<$FFFF>
-J„ger<$FFFF>
+Jäger<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
 Ballista<$FFFF>

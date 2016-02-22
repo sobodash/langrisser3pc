@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2ce2b0 to 0x2ceb6f]
+﻿Langrisser III dumper [0x2ce2b0 to 0x2ceb6f]
 
 Cyber Warrior X
 
@@ -72,8 +72,8 @@ Do they plan on ending the age of man?<$FFFE>
 Foul news, Your Excellency!<$FFFE>
 What's happened?  Your face has become grim.<$FFFE>
 It's imperative that we return to the capitol!<$FFFC>
-The Emperor, the Emperor has passed away!<$FFFE>
-Christ IV....dead!?<$FFFE>
+The Kaiser, the Kaiser has passed away!<$FFFE>
+Kleist IV....dead!?<$FFFE>
 The national funeral rites are being held the day after tomorrow.<$FFFC>
 Please, let us return to the Imperial capitol with all haste.<$FFFE>
 Uncle.......<$FFFC>

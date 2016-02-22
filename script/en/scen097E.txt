@@ -1,4 +1,4 @@
-Langrisser III dumper [0x30ca60 to 0x30cd2b]
+﻿Langrisser III dumper [0x30ca60 to 0x30cd2b]
 
 Cyber Warrior X
 
@@ -21,7 +21,7 @@ Do Kahni<$FFFF>
 AltemEler<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Emperor Paul<$FFFF>
+Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
 Rigüler Imperial Castle ~ Audience Hall<$FFFF>
 Uhahaha!<$FFFD>
@@ -37,5 +37,5 @@ There is a small matter that I would like to look into first.<$FFFE>
 Then, as soon as this matter is dealt with, return to headquarters.<$FFFD>
 I shall muster additional troops.<$FFFC>
 After all, no matter what it takes, we must crush Elthlied!<$FFFE>
-As you command, Emperor Paul.<$FFFE>
+As you command, Kaiser Paul.<$FFFE>
 <$FFFF>

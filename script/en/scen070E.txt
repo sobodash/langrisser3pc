@@ -1,4 +1,4 @@
-Langrisser III dumper [0x276bd4 to 0x277067]
+﻿Langrisser III dumper [0x276bd4 to 0x277067]
 
 Cyber Warrior X
 
@@ -45,7 +45,7 @@ Paul, Your Eminence.<$FFFC>
 It is most gratifying indeed.<$FFFE>
 Just icing on the cake.<$FFFC>
 His present activities merely confirm that he is on the wane.<$FFFE>
-With his father's death, my father finally became first in line to inheritor the power and privilege of the Emperorship.<$FFFE>
+With his father's death, my father finally became first in line to inheritor the power and privilege of the Imperial Kaiser.<$FFFE>
 Furthermore, since I am Father's child, it will be difficult for Altemüller to claim the succession over me!<$FFFE>
 Since he so rarely blunders, though, he always gets on my nerves.<$FFFE>
 It's been said that General Geier also holds little love for that damned upstart.<$FFFE>

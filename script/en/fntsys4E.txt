@@ -18,7 +18,7 @@ King<$FFFF>
 Samurai Master<$FFFF>
 Queen<$FFFF>
 Sword Master<$FFFF>
-Emperor<$FFFF>
+Kaiser<$FFFF>
 Queen<$FFFF>
 Prince<$FFFF>
 Sword Master<$FFFF>

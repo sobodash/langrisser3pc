@@ -14,7 +14,7 @@ Puzzling apparitions which have come from another universe.<$FFFF>
 Since they are akin to footmen.<$FFFF>
 they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
-The strongest footmen and pride of Rig??er Empire.<$FFFF>
+The strongest footmen and pride of Rig¸ler Empire.<$FFFF>
 They can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Å@<$FFFF>
@@ -162,7 +162,7 @@ Heavy cavalry with high defense power,<$FFFF>
 but diminished mobility and attack power.<$FFFF>
 They can plow down footmen,<$FFFF>
 but pikes can really stick it to them.<$FFFF>
-Elite cavalry bodyguards for the Rig??er Emperor.<$FFFF>
+Elite cavalry bodyguards for the Rig¸ler Kaiser.<$FFFF>
 They have extremely high attack power, at<$FFFF>
 the expense of mobility and defense.<$FFFF>
 Strong versus footmen, weak against pikes.<$FFFF>

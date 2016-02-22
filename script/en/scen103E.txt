@@ -1,4 +1,4 @@
-Langrisser III dumper [0x33b0b0 to 0x33becb]
+﻿Langrisser III dumper [0x33b0b0 to 0x33becb]
 
 Cyber Warrior X
 
@@ -22,7 +22,7 @@ Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Princess Flaire<$FFFF>
-Emperor Paul<$FFFF>
+Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
 Paul<$FFFF>
 Elthlied Commander<$FFFF>
@@ -54,7 +54,7 @@ What do you think you're doing, Flaire?<$FFFE>
 I no longer can hope for forgiveness.<$FFFE>
 ...When the sun sets at this lake...remember me sometimes...<$FFFE>
 Flaaaaaaireeee!<$FFFE>
-Rigüler Royal Castle ~ In front of Emperor Paul's Chamber<$FFFF>
+Rigüler Royal Castle ~ In front of Kaiser Paul's Chamber<$FFFF>
 ...At long last I've got you cornered Paul, Geier!<$FFFE>
 Lord Altemüller.<$FFFC>
 Is it really necessary to act so forcefully?<$FFFE>

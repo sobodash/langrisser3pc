@@ -1,4 +1,4 @@
-Langrisser III dumper [0x30b334 to 0x30b77b]
+﻿Langrisser III dumper [0x30b334 to 0x30b77b]
 
 Cyber Warrior X
 
@@ -21,8 +21,8 @@ Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Emperor Paul<$FFFF>
-RigEer Commander<$FFFF>
+Kaiser Paul<$FFFF>
+Rigüler Commander<$FFFF>
 <$FFFC>
 Scenario ~ 28<$FFFC>
 "Demon Defense Force"<$FFFE>
@@ -35,11 +35,11 @@ Grove awaits them with a potent defense force.<$FFFE>
  -Defeat of Grove<$FFFC>
 *Condition for Defeat<$FFFC>
  -Death of [diehardt's name]<$FFFE>
-New Emperor Paul's Coronation Ceremony<$FFFF>
-Alas, my father, Heinrich Christ IV, struggled valiantly against his illness for a long time, but to our great sorrow, he finally succumbed.<$FFFE>
-However, now that I have become the Emperor, in my fallen father's place, I dedicate all of my power towards the defense of the Empire and the Empire's citizens!<$FFFE>
+New Kaiser Paul's Coronation Ceremony<$FFFF>
+Alas, my father, Heinrich Kleist IV, struggled valiantly against his illness for a long time, but to our great sorrow, he finally succumbed.<$FFFE>
+However, now that I have become the Kaiser, in my fallen father's place, I dedicate all of my power towards the defense of the Empire and the Empire's citizens!<$FFFE>
 Long live the new Lord Paul!<$FFFE>
-Long live the new Emperor Paul!<$FFFE>
+Long live the new Kaiser Paul!<$FFFE>
 Furthermore, I have one additional important announcement to make.<$FFFE>
 It pains me to speak of, but I fear that someone has poisoned Altemüller, who has served in the Imperial army with great merit up to the present.<$FFFE>
 I think that everyone held him in great esteem.<$FFFE>

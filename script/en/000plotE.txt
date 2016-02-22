@@ -96,9 +96,9 @@ Meanwhile Böser plots the assassination of Altemüller to fuel the flames of wa
 On their way to the Estool ruins they come across General Dios from Barral, who is being chased by his own countrymen.<$FFFD>
 Following Luna's advise it is decided to help Dios, which results in another clash with princess Flare.<$FFFC>
 It turns out that Dios could no longer follow the orders of the mad King Wilder.<$FFFD>
-Around that time, Altemüller returns to the imperial Capitol to ask for further military forces at the Emperor's sick bed.<$FFFD>
-The condition of the emperor reminds Altemüller of his own fathers death.<$FFFC>
-Could it be that someone is poisoning the emperor?<$FFFC>
+Around that time, Altemüller returns to the imperial Capitol to ask for further military forces at the Kaiser's sick bed.<$FFFD>
+The condition of the Kaiser reminds Altemüller of his own fathers death.<$FFFC>
+Could it be that someone is poisoning the Kaiser?<$FFFC>
 Even though it is just suspicion it seems plausible enough.<$FFFE>
 <$FFF8000F>　　Scenraio - 15<$FFFD>
 With the help of their newest member Dios, the company manages to get a hold of the Haja no Ken.<$FFFD>
@@ -146,7 +146,7 @@ One month later the Empire begins its offensive once more. While Altemüller lea
 In the middle of the battle suddenly demons appear out of nowhere causing major confusion for ally and enemy alike.<$FFFC>
 The same occurs during the ongoing battle between Raymond and Altemüller.<$FFFD>
 Starting this day large numbers of demons show up frequently at the border.<$FFFD>
-In addition to that Altemüller is informed about the recent death of the emperor and thereupon orders a full scale retreat.<$FFFE>
+In addition to that Altemüller is informed about the recent death of the Kaiser and thereupon orders a full scale retreat.<$FFFE>
 <$FFF80017>　　Scenario - 23<$FFFD>
 A village at the border has fallen under attack by necromancer Grove and his underlings.<$FFFC>
 Diehärte and company who drive off the demons, hurry back to Larcussia which once again has been besieged by the Empire.<$FFFD>
@@ -154,7 +154,7 @@ Everyone wondered about the demon activity, although Lushiris was intact.<$FFFC>
 Jessica conveys the explanation that the demons must have found Alhazard.<$FFFD>
 Alhazard the dark sword said to amplify the power of demon kind.<$FFFC>
 It turns out that the only way to stop the demon's invasion is to defeat the wielder of Alhazard, the prince of darkness Böser.<$FFFD>
-Meanwhile in the Imperial capitol Altemüller and Varna question a doctor about the death of the emperor and find out that he was indeed poisoned.<$FFFE>
+Meanwhile in the Imperial capitol Altemüller and Varna question a doctor about the death of the Kaiser and find out that he was indeed poisoned.<$FFFE>
 <$FFF80018>　 Scenario - 24<$FFFD>
 While Altemüller lays siege upon Larcussia he is ambushed by Rag.<$FFFD>
 Proving great mental flexibility, Altemüller suggests a temporal truce to defeat the demons who are enemies to all humans alike.<$FFFD>
@@ -182,7 +182,7 @@ With Rag and Ferakia out of the way only one of the demon generals remained.<$FF
 Although Kirikaze had his revenge, he continues to follow Diehärte to defeat the true mastermind, Böser.<$FFFE>
 <$FFF8001C>　　Scenario - 28<$FFFD>
 When Diehärte and company pushed down Grove the last of the demon generals only Böser remained as the last enemy standing.<$FFFD>
-At the same time Paul is crowned the new emperor and Geir takes the position of Field Marshal.<$FFFE>
+At the same time Paul is crowned the new Kaiser and Geier takes the position of Field Marshal.<$FFFE>
 <$FFF8001D>　　Scenario - 29<$FFFD>
 After having defeated all three of the demon generals, the division made their way into the depths of castle Velzeria to finally confront Böser.<$FFFD>
 As the powers of Alhazard and Langrisser clashed it soon was clear who the winner would be.<$FFFD>

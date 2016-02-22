@@ -1,4 +1,4 @@
-Langrisser III dumper [0x34c9f8 to 0x350837]
+﻿Langrisser III dumper [0x34c9f8 to 0x350837]
 
 Cyber Warrior X
 
@@ -387,10 +387,10 @@ Hmm?<$FFFC>
 Let me see...<$FFFE>
 You're worried about what'll to the truce with the Empire, now that Velzeria has been dealt with, right?<$FFFE>
 Yeah, maybe...（Pause）<$FFFE>
-I don't think the empire will try to invade us again. The former Emperor died and they'll be busy rebuilding the country.<$FFFD>
+I don't think the empire will try to invade us again. The former Kaiser died and they'll be busy rebuilding the country.<$FFFD>
 We all should work together to keep the peace, no?<$FFFE>
 ....<$FFFC>
-（What's going on!?<$FFFC>
+What's going on!?<$FFFC>
 Why am I acting so serious all of a sudden!?）<$FFFE>
 The reason for them to go to war was to improve the live of their people.<$FFFC>
 We could've helped them by sending goods, then.<$FFFD>

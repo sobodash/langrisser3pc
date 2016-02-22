@@ -23,7 +23,7 @@ Marquis William<$FFFF>
 King Wilder<$FFFF>
 Keh Shikairo<$FFFF>
 Ka Shind<$FFFF>
-Emperor Christ<$FFFF>
+Kaiser Kleist<$FFFF>
 Dark Knight<$FFFF>
 Lord Raymond<$FFFF>
 Sir Geriord<$FFFF>
@@ -316,9 +316,9 @@ Ferakia<$FFFF>
 Ledin<$FFFF>
 Chris<$FFFF>
 Namu<$FFFF>
-Elwin<$FFFF>
-Rhianna<$FFFF>
-Sherry<$FFFF>
+Erwin<$FFFF>
+Liana<$FFFF>
+Cherie<$FFFF>
 Adon<$FFFF>
 Samson<$FFFF>
 Valan<$FFFF>
@@ -362,7 +362,7 @@ Bortz<$FFFF>
 Torrand<$FFFF>
 William<$FFFF>
 Wilder<$FFFF>
-Christ<$FFFF>
+Kleist<$FFFF>
 Raymond<$FFFF>
 Geriord<$FFFF>
 Paul<$FFFF>
@@ -372,7 +372,7 @@ Rag<$FFFF>
 Ruud<$FFFF>
 Chaos<$FFFF>
 Lushiris<$FFFF>
-RigÅler<$FFFF>
+Rig¸Åler<$FFFF>
 Barral<$FFFF>
 Shika<$FFFF>
 Larcuss<$FFFF>

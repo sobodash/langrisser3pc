@@ -1,4 +1,4 @@
-Langrisser III dumper [0x1a6422 to 0x1a923f]
+﻿Langrisser III dumper [0x1a6422 to 0x1a923f]
 
 Cyber Warrior X
 
@@ -279,7 +279,7 @@ Who was the final boss?<$FFFE>
 Bernhardt<$FFFE>
 Chaos<$FFFE>
 Böser<$FFFE>
-It was Emperor Bernhardt.<$FFFE>
+It was Kaiser Bernhardt.<$FFFE>
 I guess this was a bit too easy.<$FFFD>
 But it's fine.<$FFFC>
 Take this.<$FFFE>
