@@ -28,7 +28,7 @@ Chris<$FFFF>
 Cherie<$FFFF>
 Liana<$FFFF>
 -Defeat Ledin and Erwin<$FFFE>
--Death of Diehärte<$FFFE>
+-[diehardt's name]<$FFFE>
 Space-Time Loophole<$FFFF>
 [diehardt's name]!<$FFFC>
 Where on earth did you drag us off to this time!<$FFFE>

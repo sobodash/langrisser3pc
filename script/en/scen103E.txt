@@ -25,7 +25,7 @@ Princess Flaire<$FFFF>
 Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
 Paul<$FFFF>
-Elthlied Commander<$FFFF>
+Elthlead Commander<$FFFF>
 Do Kahni<$FFFF>
 On the Stronghold's Bridge<$FFFF>
 Please tell me, Flaire.<$FFFC>
@@ -121,7 +121,7 @@ Do Kahni happy <$FFFC>
 Shikaa!<$FFFE>
 ...Please cheer up.<$FFFE>
 Huh?<$FFFE>
-You are the leader of the Elthlied troops.<$FFFD>
+You are the leader of the Elthlead troops.<$FFFD>
 If the commander feels down it has an effect on all of his troops.<$FFFC>
 That's why you should try to cheer up.<$FFFE>
 What do you reply<$FFFE>

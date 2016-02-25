@@ -1,4 +1,4 @@
-Langrisser III dumper [0x33f0ae to 0x33f9b3]
+﻿Langrisser III dumper [0x33f0ae to 0x33f9b3]
 
 Cyber Warrior X
 
@@ -84,7 +84,7 @@ and Alhazard's powers shall never fail you.<$FFFE>
 Now I truly realize.<$FFFC>
 With Alhazard's Power there is no end to my possibilities.<$FFFE>
 The Empire and Velzeria are already in my hands.<$FFFC>
-Wouldn't Elthlied be a suitable next trophy to claim?<$FFFC>
+Wouldn't Elthlead be a suitable next trophy to claim?<$FFFC>
 HahaWahahah!<$FFFE>
 Lord Altemüller...you have changed...<$FFFE>
 <$FFFF>

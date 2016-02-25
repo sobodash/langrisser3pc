@@ -1,4 +1,4 @@
-Langrisser III dumper [0x33408a to 0x3344c3]
+﻿Langrisser III dumper [0x33408a to 0x3344c3]
 
 Cyber Warrior X
 
@@ -28,7 +28,7 @@ Scenario ~ 31<$FFFC>
 "Threads between People"<$FFFE>
 The Dark Knight shows his true face,<$FFFC>
 being the familiar one of the thought-dead Geriord.<$FFFC>
-When finding out about it, Diehärte's heart<$FFFC>
+When finding out about it, [diehardt's name]'s heart<$FFFC>
 becomes enshrouded in sadness.<$FFFE>
 Furthermore, the malicious influence of Velzeria could still be felt<$FFFC>
 in the air surrounding Geriord.<$FFFC>

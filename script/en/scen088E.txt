@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2e0604 to 0x2e09cf]
+﻿Langrisser III dumper [0x2e0604 to 0x2e09cf]
 
 Cyber Warrior X
 
@@ -30,7 +30,7 @@ Velzeria, country of the demon kind, has begun a full-scale invasion.<$FFFC>
 The mobile division was defending the border villages but got a<$FFFC>
 high priority recall because of the Empire's attack on the royal capitol.<$FFFE>
 But, who will ultimately win in this battle between three foes; <$FFFC>
-the Empire, Velzeria, or Elthlied?<$FFFE>
+the Empire, Velzeria, or Elthlead?<$FFFE>
 *Condition for Victory<$FFFC>
  -Defeat of all enemies<$FFFC>
 *Conditions for Defeat<$FFFC>

@@ -14,7 +14,7 @@ Puzzling apparitions which have come from another universe.<$FFFF>
 Since they are akin to footmen.<$FFFF>
 they can overpower pikemen with ease,<$FFFF>
 but are plowed down by cavalry.<$FFFF>
-The strongest footmen and pride of Rig¸ler Empire.<$FFFF>
+The strongest footmen and pride of Rig??er Empire.<$FFFF>
 They can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Å@<$FFFF>
@@ -43,27 +43,27 @@ shields grant a large defensive bonus.<$FFFF>
 They can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 As a product of their studies, they are stronger<$FFFF>
-than Guardsmen against Mazoku and Undead.<$FFFF>
+than Guardsmen against Demons and Undead.<$FFFF>
 Like footmen, they can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 A breed of footmen who have long fought against<$FFFF>
-Mazoku and Undead with the power of the gods.<$FFFF>
+Demons and Undead with the power of the gods.<$FFFF>
 Like footmen, they can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Holy warriors stronger against humans than<$FFFF>
-against Mazoku and the Undead.<$FFFF>
+against Demons and the Undead.<$FFFF>
 Like footmen, they can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 A breed of footmen who have long fought against<$FFFF>
-Mazoku and Undead with the power of the gods.<$FFFF>
+Demons and Undead with the power of the gods.<$FFFF>
 Like footmen, they can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 As a product of their studies, they are stronger<$FFFF>
-than Fanatics against Mazoku and Undead.<$FFFF>
+than Fanatics against Demons and Undead.<$FFFF>
 Like footmen, they can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 Unholy warriors who are stronger against<$FFFF>
-humans than against Mazoku or Undead.<$FFFF>
+humans than against Demons or Undead.<$FFFF>
 Like footmen, they can overpower pikemen with ease, <$FFFF>
 but are plowed down by cavalry.<$FFFF>
 This force can make ranged attacks with bows.<$FFFF>
@@ -162,7 +162,7 @@ Heavy cavalry with high defense power,<$FFFF>
 but diminished mobility and attack power.<$FFFF>
 They can plow down footmen,<$FFFF>
 but pikes can really stick it to them.<$FFFF>
-Elite cavalry bodyguards for the Rig¸ler Kaiser.<$FFFF>
+Elite cavalry bodyguards for the Rig??er Emperor.<$FFFF>
 They have extremely high attack power, at<$FFFF>
 the expense of mobility and defense.<$FFFF>
 Strong versus footmen, weak against pikes.<$FFFF>

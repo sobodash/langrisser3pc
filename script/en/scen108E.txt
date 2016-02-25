@@ -1,4 +1,4 @@
-Langrisser III dumper [0x356154 to 0x356ce7]
+﻿Langrisser III dumper [0x356154 to 0x356ce7]
 
 Cyber Warrior X
 
@@ -30,10 +30,10 @@ As the chosen of the Demon Sword Alhazard, <$FFFC>
 Altemüller ascended to be the sovereign ruler of the Demon Tribe.<$FFFC>
 Sitting on the throne of the Rigüler Empire,<$FFFC>
 he patiently awaits the arrival of<$FFFC>
-Diehärte and his companions.<$FFFE>
+[diehardt's name] and his companions.<$FFFE>
 The upcoming battle would be the last chance<$FFFC>
 to prevent Altemüller from becoming Böser irrevocable.<$FFFC>
-Now only the Holy Sword Langrisser carries onward<$FFFC>
+Now, only the Holy Sword Langrisser carries onward<$FFFC>
 the flame of hope, as it moves toward the Imperial Capitol.<$FFFE>
 *Conditions of Victory<$FFFC>
  -Defeat of Altemüller<$FFFC>
@@ -76,7 +76,7 @@ Whooah hold it there!<$FFFD>
 Are you telling me that once we restore peace I can't act troublesome and violently any more, that's my profession as a thief!<$FFFE>
 So you're planning to continue to be a thief afterwards?<$FFFE>
 Well....<$FFFD>
-Maybe Elthlied has use for someone of my trade.<$FFFC>
+Maybe Elthlead has use for someone of my trade.<$FFFC>
 I wonder if there'll be need for a spy.<$FFFE>
 Anyhow, this will be the decisive battle for the Demon Sword Alhazard.<$FFFD>
 Whoever can claim it will have the power to shape the world.<$FFFC>

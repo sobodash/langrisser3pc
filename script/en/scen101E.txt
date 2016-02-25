@@ -1,4 +1,4 @@
-Langrisser III dumper [0x32d514 to 0x32dc27]
+﻿Langrisser III dumper [0x32d514 to 0x32dc27]
 
 Cyber Warrior X
 
@@ -56,7 +56,7 @@ By the looks of it Geier has abandoned his subordinates and fled.<$FFFE>
 Deserting ones subordinates like this.<$FFFC>
 It fits Geier well.<$FFFD>
 But the only thing that matters is that the flying fortress is ours to command now.<$FFFC>
-It seems as if Elthlied was delayed somehow too, how convenient..<$FFFE>
+It seems as if Elthlead was delayed somehow too, how convenient..<$FFFE>
 Emaillink make preparations for the assault on the imperial capitol!<$FFFE>
 As you wish.<$FFFE>
 Hehehe...Hahahaha!<$FFFE>

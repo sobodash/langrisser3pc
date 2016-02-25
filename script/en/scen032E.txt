@@ -1,4 +1,4 @@
-Langrisser III dumper [0x14e900 to 0x150253]
+﻿Langrisser III dumper [0x14e900 to 0x150253]
 
 Cyber Warrior X
 
@@ -197,7 +197,7 @@ But I'll fight to the bitter end, for Barral!<$FFFE>
 Aahhh...<$FFFC>
 It hadn't have to come to this...<$FFFE>
 There's always a better way...<$FFFE>
-The Elthlied troops are advancing!<$FFFE>
+The Elthlead troops are advancing!<$FFFE>
 Princess.<$FFFC>
 Diehärte, you have come all this way for naught!<$FFFE>
 Dios you damn traitor...<$FFFC>

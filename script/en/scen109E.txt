@@ -1,4 +1,4 @@
-Langrisser III dumper [0x35d70c to 0x35ec97]
+﻿Langrisser III dumper [0x35d70c to 0x35ec97]
 
 Cyber Warrior X
 
@@ -42,9 +42,9 @@ It proves only the strength of your love towards Varna...<$FFFE>
 In any case, what matters is that Alhazard is beyond the human grasp for now.<$FFFE>
 By the way, what will happen to Langrisser now?<$FFFE>
 Alhazard is no threat right now but couldn't Langrisser fall into the wrong hands as well?<$FFFE>
-That's why the Langrisser was sealed too and will be kept save by the Elthlied royal family.<$FFFE>
+That's why the Langrisser was sealed too and will be kept save by the Elthlead royal family.<$FFFE>
 ....<$FFFC>
-If that is so, I will assist the ELthlied royal family in the safekeeping Langrisser from here on out.<$FFFE>
+If that is so, I will assist the ELthlead royal family in the safekeeping Langrisser from here on out.<$FFFE>
 So you won't return to the heavens?<$FFFE>
 Indeed.<$FFFC>
 Alhazard is too dangerous to be left unwatched until a permanent solution is found.<$FFFE>
@@ -94,7 +94,7 @@ From now it will be my task to rebuild this nation from scratch.<$FFFE>
 I see.<$FFFC>
 Don't hesitate to ask for help if the need should arise.<$FFFC>
 We will give you a hand any time.<$FFFE>
-You can count on the help of the people of Elthlied too.<$FFFE>
+You can count on the help of the people of Elthlead too.<$FFFE>
 Thank you.<$FFFC>
 ....<$FFFC>
 ...Till then.<$FFFE>
@@ -104,7 +104,7 @@ What are you going to do from here on..?<$FFFE>
 Maybe..you could help me to rebuild Barral..<$FFFE>
 What!<$FFFC>
 You are going to go to Barral?<$FFFE>
-...Now that the Kingdom of Elthlied is restored I intend to go on a journey.<$FFFE>
+...Now that the Kingdom of Elthlead is restored I intend to go on a journey.<$FFFE>
 After all we couldn't save Altemüller.<$FFFC>
 If only I had been a little more powerful he may could have been saved.<$FFFE>
 That's why I want to travel to become even stronger.<$FFFE>
@@ -175,10 +175,10 @@ I formally request you to lend your abilities to the royal family once more.<$FF
 Princess...<$FFFE>
 The unworthy Dios will do everything in his power to be of service to youe majesty!<$FFFE>
 If everything is settled, we should depart soon too.<$FFFC>
-Concerning Elthlied there are matters that need to be taken care of as well.<$FFFE>
+Concerning Elthlead there are matters that need to be taken care of as well.<$FFFE>
 I agree.<$FFFE>
 The holy rod was obtained!<$FFFE>
 The dark rod was obtained!<$FFFE>
 Well then, everyone!<$FFFC>
-Let us return to Elthlied!<$FFFE>
+Let us return to Elthlead!<$FFFE>
 <$FFFF>

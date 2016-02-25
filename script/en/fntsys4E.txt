@@ -81,7 +81,7 @@ Sorceror<$FFFF>
 Mage<$FFFF>
 Mage<$FFFF>
 Mage<$FFFF>
-Arawn<$FFFF>
+Alraune<$FFFF>
 Archmage<$FFFF>
 Archmage<$FFFF>
 Archmage<$FFFF>
@@ -121,7 +121,7 @@ Bow Master<$FFFF>
 Croco Knight<$FFFF>
 Croco Knight<$FFFF>
 Croco Knight<$FFFF>
-Schooler<$FFFF>
+Scylla<$FFFF>
 Swimmer<$FFFF>
 Serpent Knight<$FFFF>
 Serpent Knight<$FFFF>
@@ -132,7 +132,7 @@ Serpent Lord<$FFFF>
 Serpent Lord<$FFFF>
 Serpent Lord<$FFFF>
 Hydra<$FFFF>
-Capitan<$FFFF>
+Captain<$FFFF>
 Serpent Master<$FFFF>
 Serpent Master<$FFFF>
 Serpent Master<$FFFF>
@@ -168,17 +168,17 @@ Lord<$FFFF>
 Lord<$FFFF>
 Lord<$FFFF>
 Wood Golem<$FFFF>
-Spear<$FFFF>
+Spearman<$FFFF>
 High Lord<$FFFF>
 High Lord<$FFFF>
 High Lord<$FFFF>
 Stone Golem<$FFFF>
-Shika Spear<$FFFF>
+Shika Spearman<$FFFF>
 General<$FFFF>
 General<$FFFF>
 General<$FFFF>
 Iron Golem<$FFFF>
-Shika-Shika Spear<$FFFF>
+Shika-Shika Spearman<$FFFF>
 Marshal<$FFFF>
 Marshal<$FFFF>
 Marshal<$FFFF>
@@ -212,8 +212,8 @@ Assassin<$FFFF>
 Assassin<$FFFF>
 Ninja<$FFFF>
 High Master<$FFFF>
-Durahan<$FFFF>
-Durahan Lord<$FFFF>
+Dullahan<$FFFF>
+Dullahan Lord<$FFFF>
 Incubus<$FFFF>
 Succubus<$FFFF>
 Arch Demon<$FFFF>
@@ -230,7 +230,7 @@ Vampire Lord<$FFFF>
 Great Dragon<$FFFF>
 Chaos Dragon<$FFFF>
 Bahamut<$FFFF>
-Fafniel<$FFFF>
+Fáfnir<$FFFF>
 Gel Gazer<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>

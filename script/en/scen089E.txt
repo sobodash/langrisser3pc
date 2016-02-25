@@ -23,13 +23,13 @@ Varna<$FFFF>
 Emaillink<$FFFF>
 King Sieghart<$FFFF>
 Field Marshal Altemüller<$FFFF>
-Elthlied Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
 Böser<$FFFF>
 Necromancer Grove<$FFFF>
 Shapeshiftress Ferakia<$FFFF>
-Elthlied's Royal Capitol, Larcussia ~ Audience Hall<$FFFF>
-For now, we of Elthlied and the Rigüler Empire shall agree to a cease-fire until the defeat of Velzeria.<$FFFE>
-Elthlied has barely even been established as a country.<$FFFC>
+Elthlead's Royal Capitol, Larcussia ~ Audience Hall<$FFFF>
+For now, we of Elthlead and the Rigüler Empire shall agree to a cease-fire until the defeat of Velzeria.<$FFFE>
+Elthlead has barely even been established as a country.<$FFFC>
 Right now we'd rather focus our efforts on settling our internal affairs than on fighting.<$FFFE>
 We of the Empire are in the same boat.<$FFFC>
 These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
@@ -73,8 +73,8 @@ Altemüller's very existence has become a hindrance to our plans.<$FFFE>
 Grove!<$FFFC>
 Hurry up the assassination of this pest!<$FFFE>
 Yes, my lord!<$FFFE>
-Now, what to do about Elthlied....<$FFFE>
-Lord Böser, please let me deal with Elthlied.<$FFFE>
+Now, what to do about Elthlead....<$FFFE>
+Lord Böser, please let me deal with Elthlead.<$FFFE>
 Ferakia...<$FFFC>
 Very well, I shall leave it to you.<$FFFE>
 <$FFFF>

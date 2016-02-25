@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2ffe00 to 0x30053b]
+﻿Langrisser III dumper [0x2ffe00 to 0x30053b]
 
 Cyber Warrior X
 
@@ -21,7 +21,7 @@ Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Elthlied Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
 First Imperial Prince Paul<$FFFF>
 General Geier<$FFFF>
 Necromancer Grove<$FFFF>
@@ -59,7 +59,7 @@ Velzeria Castle<$FFFF>
 The assassination of Altemüller went off without a hitch.<$FFFE>
 Hmm, I see. Well done.<$FFFE>
 My humble apologies, Lord Böser.<$FFFC>
-My attempted conquest of Elthlied has failed.<$FFFE>
+My attempted conquest of Elthlead has failed.<$FFFE>
 Since the Haja no Ken turned out to have more power against demons than I'd expected, our power was....<$FFFE>
 ...That's fine.<$FFFC>
 Now that Rag is dead, you'll need to work harder, though.<$FFFE>

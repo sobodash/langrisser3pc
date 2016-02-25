@@ -1,4 +1,4 @@
-Langrisser III dumper [0x3222d2 to 0x32354b]
+﻿Langrisser III dumper [0x3222d2 to 0x32354b]
 
 Cyber Warrior X
 
@@ -57,7 +57,7 @@ In order to seal Alhazard successfully, my soul must melt with the Langrisser co
 It is the only way.<$FFFE>
 I..I see...<$FFFE>
 Don't make such a sad face.<$FFFC>
-From now on you are the King of Elthlied.<$FFFD>
+From now on you are the King of Elthlead.<$FFFD>
 You must hold your head high and lead our people.<$FFFB>
 <$FFFC>
 ...I have faith in you.<$FFFE>

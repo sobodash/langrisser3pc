@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2dc61e to 0x2dcfb7]
+﻿Langrisser III dumper [0x2dc61e to 0x2dcfb7]
 
 Cyber Warrior X
 
@@ -21,8 +21,8 @@ Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Elthlied Soldier<$FFFF>
-Village on the Velzeria - Elthlied Border<$FFFF>
+Elthlead Soldier<$FFFF>
+Village on the Velzeria - Elthlead Border<$FFFF>
 Wouldn't you agree that lately, monsters have been attacking more frequently?<$FFFE>
 Sure looks like it.<$FFFC>
 Guess the Lushiris Gate isn't holding them back any longer.<$FFFE>

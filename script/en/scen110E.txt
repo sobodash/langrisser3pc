@@ -1,4 +1,4 @@
-Langrisser III dumper [0x367070 to 0x3681f3]
+﻿Langrisser III dumper [0x367070 to 0x3681f3]
 
 Cyber Warrior X
 
@@ -84,12 +84,12 @@ Please give me commands.<$FFFE>
 Initially we have to make a sacrifice to Lord Chaos in order to replenish his power.<$FFFE>
 In that case, I will bring to you a suitable sacrifice at once.<$FFFE>
 I leave it in your hands Demon General Geier!<$FFFE>
-Elthlied Royal Castle<$FFFF>
+Elthlead Royal Castle<$FFFF>
 Well, everyone.<$FFFC>
 Let us enjoy ourselves tonight.<$FFFE>
 The Rigüler Empire,<$FFFC>
 the Barral Kingdom,<$FFFC>
-and the Kingdom of Elthlied have been restored; let us raise our glasses in celebration, cheers!<$FFFE>
+and the Kingdom of Elthlead have been restored; let us raise our glasses in celebration, cheers!<$FFFE>
 Yahuu!<$FFFC>
 Cheers!<$FFFE>
 I'm so glad everything worked out.<$FFFE>
@@ -172,7 +172,7 @@ Scenario ~ 35<$FFFC>
 At the hands of the demonic deity Chaos, <$FFFC>
 Paul arises from the dead as the new Böser.<$FFFC>
 To serve as a ceremonial sacrifice for the revival of Chaos, <$FFFC>
-Diehärte's beloved is abducted by Demon General Geier.<$FFFE>
+[diehardt's name]'s beloved is abducted by Demon General Geier.<$FFFE>
 Having its lines bolstered up by<$FFFC>
 Altemüller and Varna, the division sets out one more time<$FFFC>
 towards the Velzerian Castle,<$FFFC>

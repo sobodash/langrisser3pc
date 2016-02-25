@@ -1,4 +1,4 @@
-Langrisser III dumper [0x198578 to 0x19a697]
+﻿Langrisser III dumper [0x198578 to 0x19a697]
 
 Cyber Warrior X
 
@@ -317,7 +317,7 @@ But one day there'll be no man or woman to hold high that noble spirit of yours 
 ...How...that sword stroke me with a surge of energy like there is no other...<$FFFD>
 Just what is this sword...?<$FFFE>
 This is the Holy Sword Langrisser.<$FFFD>
-The King of Elthlied infused it with his own life-force, thus the holy blade Langrisser was born, bearing the power to seal away the powers of you demon kind.<$FFFE>
+The King of Elthlead infused it with his own life-force, thus the holy blade Langrisser was born, bearing the power to seal away the powers of you demon kind.<$FFFE>
 No matter how many times you'll return to haunt this world you'll never win against those with Langerisser on their side!!<$FFFE>
 Langrisser...<$FFFC>
 I shall remember that name.<$FFFC>
