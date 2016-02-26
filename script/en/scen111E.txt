@@ -1,4 +1,4 @@
-Langrisser III dumper [0x36a55a to 0x36ad47]
+﻿Langrisser III dumper [0x36a55a to 0x36ad47]
 
 Cyber Warrior X
 
@@ -40,7 +40,7 @@ There's no doubt, he will come to save me.<$FFFE>
 ...Keh!<$FFFE>
 That won't happen...!<$FFFE>
 No matter what you say, I won't give up hope.<$FFFE>
-You stand no chance against the might of the Elthlied Kingdom.<$FFFE>
+You stand no chance against the might of the Elthlead Kingdom.<$FFFE>
 You are using me to further your ambitions, such cowardliness will not go unpunished by them!<$FFFE>
 I know, it was my faint-heartiness that allowed this to happen.<$FFFE>
 But even please come for me...and..<$FFFC>
@@ -48,7 +48,7 @@ But even please come for me...and..<$FFFC>
 For what purpose have I been taken to a place like this?<$FFFE>
 How horrible....!<$FFFE>
 Sacrificing me is a pointless endeavor.<$FFFE>
-Even if Chaos is revived, the holy blade of the Elthlied royal family Langrisser will seal him back again.<$FFFE>
+Even if Chaos is revived, the holy blade of the Elthlead royal family Langrisser will seal him back again.<$FFFE>
 That I do believe with all my heart.<$FFFE>
 Before long, together we will find happiness.<$FFFC>
 So please be careful [diehardt's name]...<$FFFE>
@@ -75,5 +75,5 @@ When that time arrives Lord Chaos shall feast on your life force!<$FFFE>
 The time for us demons to rise over all is close at hand!<$FFFC>
 Hahahahaha!<$FFFE>
 They are welcome to try!<$FFFC>
-You and Elthlied and Langrisser!<$FFFE>
+You and Elthlead and Langrisser!<$FFFE>
 Once this ceremony is complete all of your petty hopes will die!<$FFFE>

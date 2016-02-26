@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2f5e18 to 0x2f7763]
+﻿Langrisser III dumper [0x2f5e18 to 0x2f7763]
 
 Cyber Warrior X
 
@@ -25,7 +25,7 @@ King Sieghart<$FFFF>
 Olver<$FFFF>
 Goddess Lushiris<$FFFF>
 Great Sage Fauvel<$FFFF>
-Elthlied Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
 General Varna<$FFFF>
 Vampire Bat<$FFFF>
 Center of the Lushiris Gate<$FFFF>
@@ -47,7 +47,7 @@ Let the seal on the gate of the Goddess be broken so that we might be led to the
 Heaven, Home of the Goddess Lushiris<$FFFF>
 So this is Heaven....<$FFFE>
 Lady Lushiris.<$FFFE>
-We have brought King Sieghart of the Elthlied Kingdom.<$FFFE>
+We have brought King Sieghart of the Elthlead Kingdom.<$FFFE>
 Good work, Jessica.<$FFFE>
 It is an honor to meet you in person, Lady Lushiris.<$FFFE>
 I have watched over your actions from here.<$FFFC>
@@ -117,12 +117,12 @@ I will always be with you.<$FFFD>
 And, I shall live to better mankind for all eternity.<$FFFE>
 R..right.....<$FFFE>
 [diehardt's name].<$FFFD>
-I think you should take the throne of Elthlied....<$FFFE>
+I think you should take the throne of Elthlead....<$FFFE>
 .....<$FFFE>
 What's wrong?<$FFFE>
 I'm not suited to being a King.<$FFFC>
 I appreciate the honor, but I must decline.<$FFFD>
-I think it would be best if Lewin became the King of Elthlied.<$FFFC>
+I think it would be best if Lewin became the King of Elthlead.<$FFFC>
 That is, if Lewin agrees.<$FFFE>
 I see.<$FFFB>
 <$FFFC>
@@ -169,7 +169,7 @@ Because of my desire for peace, my form has changed, but I will always be with y
 The sword spoke!<$FFFE>
 Because King Sieghart has given his soul to the Haja no Ken, it has become the Masayan Sword.<$FFFE>
 Because King Sieghart has given his soul to the Haja no Ken, it has become the Langrisser.<$FFFE>
-So, Lewin shall now become the King of Elthlied.<$FFFD>
+So, Lewin shall now become the King of Elthlead.<$FFFD>
 But, for Lewin to become king, we all must fight against Velzeria and any other foes.<$FFFE>
 Forgive my selfish request, but I ask that you all give Lewin your allegiance from now on.<$FFFE>
 If that is your wish, King Sieghart, so shall it be.<$FFFE>
@@ -208,8 +208,8 @@ Thank you very much.<$FFFE>
 I will come as well.<$FFFE>
 Very well.<$FFFC>
 Anyhow, let's be on our way to the castle.<$FFFE>
-Rigüler - Elthlied Border ~ Outside Imperial Base<$FFFF>
-So we've entered into a ceasefire agreement with Elthlied.<$FFFC>
+Rigüler - Elthlead Border ~ Outside Imperial Base<$FFFF>
+So we've entered into a ceasefire agreement with Elthlead.<$FFFC>
 But, Velzeria....<$FFFE>
 A vampire bat....?<$FFFE>
 Stop that jabbering, Varna.<$FFFE>

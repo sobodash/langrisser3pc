@@ -1,4 +1,4 @@
-Langrisser III dumper [0x10cf2c to 0x10e403]
+﻿Langrisser III dumper [0x10cf2c to 0x10e403]
 
 Cyber Warrior X
 
@@ -26,9 +26,9 @@ Shapeshiftress Ferakia<$FFFF>
 Monster<$FFFF>
 Velzerian Commander<$FFFF>
 -Defeat Richard<$FFFE>
--Death of Diehärte<$FFFE>
+-Death of [diehardt's name]<$FFFE>
 Richard's Residence<$FFFF>
-I'm Lewin, Prince of the Elthlied Kingdom.<$FFFC>
+I'm Lewin, Prince of the Elthlead Kingdom.<$FFFC>
 I'm here on behalf of a messenger you sent to my father, King Sieghart.<$FFFE>
 Go back whence you came, your attempt to usurp the throne has failed.<$FFFC>
 And you'll better be grateful if I don't charge you for the full extent of your crimes.<$FFFE>

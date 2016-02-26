@@ -1,4 +1,4 @@
-Langrisser III dumper [0xf54a0 to 0xf7047]
+﻿Langrisser III dumper [0xf54a0 to 0xf7047]
 
 Cyber Warrior X
 
@@ -24,13 +24,13 @@ Emaillink<$FFFF>
 General Varna<$FFFF>
 King Sieghart<$FFFF>
 Rigüler Commander<$FFFF>
-Elthlied Commander<$FFFF>
+Elthlead Commander<$FFFF>
 Rag<$FFFF>
 Monster<$FFFF>
 Defeat all enemies<$FFFE>
-Death of Diehärte<$FFFC>
+Death of [diehardt's name]<$FFFC>
 Death of Sieghart<$FFFE>
-In front of Elthlied's Capitol, Larcussia<$FFFF>
+In front of Elthlead's Capitol, Larcussia<$FFFF>
 So I've returned, this time I won't falter...<$FFFD>
 The downfall of Elthlead is already inevitable.<$FFFC>
 Now there's just one more thing to do...<$FFFE>
@@ -74,7 +74,7 @@ But if the enemy manages to cross that bridge surely the capitol will fall.<$FFF
 Yeah, simply because we were in time doesn't mean that you can relax just now!<$FFFE>
 That's right.<$FFFE>
 Everyone, I know your tired but let's give it our all!<$FFFE>
-Now our victory over Elthlied is just one step ahead...<$FFFE>
+Now our victory over Elthlead is just one step ahead...<$FFFE>
 Isn't that the much rumored-about Diehärte?<$FFFC>
 As you know Bortz and Emaillink had a hard time dealing with him, do be careful.<$FFFD>
 That Diehärte.<$FFFC>
@@ -132,7 +132,7 @@ Uuhg!<$FFFC>
 If..I..can't protect...this country...<$FFFE>
 Father...<$FFFE>
 King Sieghart...<$FFFE>
-Don't let a single demon set foot onto Elthlied soil!<$FFFE>
+Don't let a single demon set foot onto Elthlead soil!<$FFFE>
 Kyah!<$FFFE>
 We have to protect...<$FFFE>
 W..What!?<$FFFC>
@@ -167,7 +167,7 @@ W..Why did this...<$FFFE>
 Urgh...<$FFFE>
 Am I defeated!?<$FFFE>
 Interesting.<$FFFC>
-Who would ever thought that the Empire and Elthlied would team up like this.<$FFFD>
+Who would ever thought that the Empire and Elthlead would team up like this.<$FFFD>
 In any case, I've got to report this to Master Böser post-haste...<$FFFE>
 Come human, groan a little bit for me.<$FFFE>
 Such impudence!<$FFFE>
@@ -205,7 +205,7 @@ Now let us move on to the formalities of signing the truce.<$FFFE>
 W..What!?<$FFFE>
 The demons of Velzeria in such a place!?<$FFFE>
 Hm?<$FFFC>
-It's not just Elthlied's but the Empire's troops too?<$FFFD>
+It's not just Elthlead's but the Empire's troops too?<$FFFD>
 He, that's fine.<$FFFC>
 We'll just kill all of them.<$FFFE>
 Impossible!<$FFFC>
@@ -234,7 +234,7 @@ However, we cannot trust the people of the Rigüler Empire!<$FFFE>
 Sir Diehärte!?<$FFFE>
 ...I disagree, this truce is a welcome concession.<$FFFC>
 We shouldn't be the ones prolonging meaningless fighting, no?<$FFFD>
-While Elthlied and the Empire wage war on each other, Velzeria gets the perfect chance to strike.<<$FFFD>
+While Elthlead and the Empire wage war on each other, Velzeria gets the perfect chance to strike.<<$FFFD>
 If we allow that, this whole world could fall under the rule of the demons.<$FFFC>
 Such a risk cannot be taken for any reason.<$FFFE>
 Sir Diehärte.<$FFFC>
@@ -248,7 +248,7 @@ I consent to your proposal.<$FFFE>
 Heh, that was quick.<$FFFE>
 You heard him.<$FFFC>
 All units, cease hostilities towards Elthlead.<$FFFE>
-For now we'll cooperate with Elthlied and purge those demons!<$FFFE>
+For now we'll cooperate with Elthlead and purge those demons!<$FFFE>
 Yessir!<$FFFE>
 Cooperate with the Empire!?<$FFFE>
 To think we would cooperate with the Empire after all that has happened...<$FFFC>

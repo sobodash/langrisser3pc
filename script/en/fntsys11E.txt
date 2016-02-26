@@ -38,7 +38,7 @@ Shapeshiftress Ferakia<$FFFF>
 Worm Master Rag<$FFFF>
 Richard<$FFFF>
 Coty<$FFFF>
-Dieh„rte<$FFFF>
+Diehärte<$FFFF>
 Princess Flaire<$FFFF>
 Anna<$FFFF>
 Prince<$FFFF>
@@ -58,7 +58,7 @@ Gilbert<$FFFF>
 Coty<$FFFF>
 Adjutant Ruud<$FFFF>
 Chaos, Lord of Mayhem<$FFFF>
-Altemller<$FFFF>
+Altemüller<$FFFF>
 General Varna<$FFFF>
 Lushiris, Goddess of Light<$FFFF>
 Supreme Commander<$FFFF>
@@ -66,38 +66,38 @@ Priest<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
-Rigler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
 Barral Commander<$FFFF>
@@ -272,53 +272,53 @@ Pierre<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
 Shika Commander<$FFFF>
-Rigler Imperial Captain<$FFFF>
+Rigüler Imperial Captain<$FFFF>
 Head Highwayman<$FFFF>
 Gal Shok<$FFFF>
 Ordinary Person<$FFFF>
 Ordinary Person<$FFFF>
-Rigler Imperial Commander<$FFFF>
+Rigüler Imperial Commander<$FFFF>
 Lewin<$FFFF>
 Wilder<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
-Elthlied Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
 Ferakia<$FFFF>
 Ledin<$FFFF>
 Chris<$FFFF>
 Namu<$FFFF>
-Elwin<$FFFF>
-Rhianna<$FFFF>
-Sherry<$FFFF>
+Erwin<$FFFF>
+Liana<$FFFF>
+Cherie<$FFFF>
 Adon<$FFFF>
 Samson<$FFFF>
 Valan<$FFFF>
@@ -372,10 +372,10 @@ Rag<$FFFF>
 Ruud<$FFFF>
 Chaos<$FFFF>
 Lushiris<$FFFF>
-Rigler<$FFFF>
+Rigüler<$FFFF>
 Barral<$FFFF>
 Shika<$FFFF>
 Larcuss<$FFFF>
 Colcia<$FFFF>
-Elthlied<$FFFF>
+Elthlead<$FFFF>
 Sage Fauvel<$FFFF>

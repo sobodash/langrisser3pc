@@ -60,10 +60,10 @@ I won't hold anything back when we fight.<$FFFE>
 Flaire....<$FFFE>
 I'd heard rumors, but it felt like he was under some form of coercion....<$FFFE>
 Plains Southwest of the Town of Railym<$FFFF>
-It can't be, Diehärte and I.....,<$FFFC>
+It can't be, [diehardt's name] and I.....,<$FFFC>
 I never wanted to fight against him.....<$FFFD>
-....Diehärte....<$FFFE>
-It can't be, Diehärte and I.....,<$FFFC>
+....[diehardt's name]....<$FFFE>
+It can't be, [diehardt's name] and I.....,<$FFFC>
 No, I never wanted to fight against [diehardt's name]......<$FFFD>
 ....[diehardt's name]....<$FFFE>
 Barral Castle Courtyard ~ 11 Years Ago<$FFFF>
@@ -72,9 +72,9 @@ That's mine!<$FFFE>
 Noo, I've always wanted it!<$FFFC>
 It's mine!<$FFFE>
 Now, now, Flaire.<$FFFC>
-Stop bugging poor Diehärte.<$FFFE>
+Stop bugging poor [diehardt's name].<$FFFE>
 Barral Castle Courtyard ~ 6 Years Ago<$FFFF>
-Eh, what are you saying, Diehärte?<$FFFE>
+Eh, what are you saying, [diehardt's name]?<$FFFE>
 I'm going to be a knight.  I'm going to be apprenticed under Marquis William.<$FFFC>
 That's why I won't be able to see you for a while.<$FFFE>
 But why?  Don't you want to play together any longer?<$FFFE>
@@ -88,7 +88,7 @@ That's right.<$FFFC>
 For now, the only thing on my mind is becoming a knight.<$FFFE>
 I've had a lot of fun with you up to now, Flaire.<$FFFC>
 It would be grand if we could get together again.<$FFFE>
-....Diehärte....<$FFFE>
+....[diehardt's name]....<$FFFE>
 Plains Southwest of the Town of Railym<$FFFF>
 How could that have been how our reunion turned out...<$FFFC>
 Father, why have we gone to war.....<$FFFE>

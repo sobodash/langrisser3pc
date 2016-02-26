@@ -1,4 +1,4 @@
-Langrisser III dumper [0x33b0b0 to 0x33becb]
+﻿Langrisser III dumper [0x33b0b0 to 0x33becb]
 
 Cyber Warrior X
 
@@ -22,10 +22,10 @@ Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Princess Flaire<$FFFF>
-Emperor Paul<$FFFF>
+Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
 Paul<$FFFF>
-Elthlied Commander<$FFFF>
+Elthlead Commander<$FFFF>
 Do Kahni<$FFFF>
 On the Stronghold's Bridge<$FFFF>
 Please tell me, Flaire.<$FFFC>
@@ -54,7 +54,7 @@ What do you think you're doing, Flaire?<$FFFE>
 I no longer can hope for forgiveness.<$FFFE>
 ...When the sun sets at this lake...remember me sometimes...<$FFFE>
 Flaaaaaaireeee!<$FFFE>
-Rigüler Royal Castle ~ In front of Emperor Paul's Chamber<$FFFF>
+Rigüler Royal Castle ~ In front of Kaiser Paul's Chamber<$FFFF>
 ...At long last I've got you cornered Paul, Geier!<$FFFE>
 Lord Altemüller.<$FFFC>
 Is it really necessary to act so forcefully?<$FFFE>
@@ -121,7 +121,7 @@ Do Kahni happy <$FFFC>
 Shikaa!<$FFFE>
 ...Please cheer up.<$FFFE>
 Huh?<$FFFE>
-You are the leader of the Elthlied troops.<$FFFD>
+You are the leader of the Elthlead troops.<$FFFD>
 If the commander feels down it has an effect on all of his troops.<$FFFC>
 That's why you should try to cheer up.<$FFFE>
 What do you reply<$FFFE>

@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2bef3a to 0x2c0b1f]
+﻿Langrisser III dumper [0x2bef3a to 0x2c0b1f]
 
 Cyber Warrior X
 
@@ -31,7 +31,7 @@ Riffany's Father<$FFFF>
 Klaus Senior<$FFFF>
 Madam Klaus<$FFFF>
 King Sieghart<$FFFF>
-Elthlied Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
 Imperial First Prince Paul<$FFFF>
 Böser<$FFFF>
 Shapeshiftress Ferakia<$FFFF>
@@ -196,8 +196,8 @@ So, King Sieghart.<$FFFB>
 <$FFFC>
 What shall we call our kingdom?<$FFFE>
 Hmm....<$FFFD>
-How about Elthlied, that mythological name said to mean "overflowing with light"?<$FFFE>
-The Kingdom of Elthlied,<$FFFC>
+How about Elthlead, that mythological name said to mean "overflowing with light"?<$FFFE>
+The Kingdom of Elthlead,<$FFFC>
 and King Sieghart.<$FFFB>
 <$FFFC>
 These are excellent names.<$FFFE>
@@ -205,8 +205,8 @@ Very well, King Sieghart.<$FFFC>
 If you would take the throne......<$FFFE>
 We have driven off the Empire once, but it is likely they shall try to come again.<$FFFE>
 Barral also took advantage of that opportunity, and I am worried by the doings of the Demon Kingdom, Velzeria.<$FFFE>
-I ask that everyone lend a hand a little longer, for the peace of the Kingdom of Elthlied and her people.<$FFFE>
-Hurray for the Kingdom of Elthlied!<$FFFE>
+I ask that everyone lend a hand a little longer, for the peace of the Kingdom of Elthlead and her people.<$FFFE>
+Hurray for the Kingdom of Elthlead!<$FFFE>
 Long live King Sieghart!<$FFFE>
 RigEer Imperial Castle ~ Review Tribunal<$FFFF>
 Since Father's condition has worsened, I have heard the reports in his stead.<$FFFE>
@@ -217,10 +217,10 @@ However, somehow we also ran short on supplies.<$FFFC>
 My miscalculation on the supplies exacerbated the impact of the aerial fortress's delay.<$FFFE>
 At that point, I decided it would be best to just surrender the castle.<$FFFC>
 However, I managed to return home without the massacre of my troops.<$FFFE>
-And now, Raymond has become the king in Larcuss, which is now called the Kingdom of Elthlied.<$FFFE>
+And now, Raymond has become the king in Larcuss, which is now called the Kingdom of Elthlead.<$FFFE>
 .....But, whatever.<$FFFC>
 Finally, the launch preparations for the aerial fortress have been completed.<$FFFE>
-Now, go defeat this Elthlied and recover the castle immediately.<$FFFC>
+Now, go defeat this Elthlead and recover the castle immediately.<$FFFC>
 This time they'll be the ones surrendering the castle.<$FFFE>
 I'll convey your report to Father......<$FFFE>
 .....As you command.<$FFFE>
@@ -232,7 +232,7 @@ Velzeria Castle<$FFFF>
 I see.<$FFFC>
 So the Empire withdrew its troops.<$FFFE>
 In the Kingdom of Larcuss, Raymond has taken the throne and the new name, Sieghart.<$FFFE>
-Furthermore, it looks like his country is now called the Kingdom of Elthlied.<$FFFE>
+Furthermore, it looks like his country is now called the Kingdom of Elthlead.<$FFFE>
 No matter what new name they choose, we of Velzeria shall still crush them.....<$FFFE>
 Since they have currently let the Empire's troops retreat, that gives us proof that both of their armies are exhausted from the fighting.<$FFFE>
 ....The time is ripe.<$FFFC>
@@ -243,7 +243,7 @@ For Lord Böser!<$FFFE>
 Using the power of the Alhazard, we shall end this world of humans!<$FFFE>
 It took Lord Raymond about a year to gather troops for the liberation of Larcuss.<$FFFE>
 Now, he has retaken Laffel from the Barral army, and the royal capitol, Larcussia, from the Empire.<$FFFE>
-The Kingdom of Larcuss has been renamed the Kingdom of Elthlied, and Raymond leads it under the new name, King Sieghart.<$FFFE>
-However, the Empire regathers its strength and steadily makes preparations for the conquest of Elthlied.<$FFFE>
+The Kingdom of Larcuss has been renamed the Kingdom of Elthlead, and Raymond leads it under the new name, King Sieghart.<$FFFE>
+However, the Empire regathers its strength and steadily makes preparations for the conquest of Elthlead.<$FFFE>
 At the same time, Velzeria steps out of the shadows and openly begins preparations for a real invasion.<$FFFE>
 And then, one month later........<$FFFE>

@@ -1,4 +1,4 @@
-Langrisser III dumper [0x10137c to 0x102b63]
+﻿Langrisser III dumper [0x10137c to 0x102b63]
 
 Cyber Warrior X
 
@@ -27,7 +27,7 @@ Monster<$FFFF>
 Rag<$FFFF>
 Velzerian Commander<$FFFF>
 -Defeat all enemies<$FFFE>
--Death of Diehärte<$FFFC>
+-Death of [diehardt's name]<$FFFC>
 -Death of Olver<$FFFE>
 Olver's Residence<$FFFF>
 What is it that you want!?<$FFFE>
@@ -50,12 +50,12 @@ Uwaaah!<$FFFC>
 Demons are attacking!<$FFFE>
 It would seem as if the demons are also aware of his ability to strengthen the Haja no Ken.<$FFFE>
 Pfft!<$FFFC>
-Elthlied forces have come.<$FFFC>
+Elthlead forces have come.<$FFFC>
 We have to get over with this fast.<$FFFE>
 We should advance with utmost haste, if we wish for  Olver to live.<<$FFFE>
 You there, tear that door apart right now!<$FFFE>
 Yessir!<$FFFE>
-Everyone else, move out to destroy the Elthlied forces!<$FFFE>
+Everyone else, move out to destroy Elthlead's forces!<$FFFE>
 GAAAAAAHHHH!<$FFFE>
 You're way too rusty and shrivelled to keep up with us, you ugly geezer!<$FFFE>
 Hihihihi!<$FFFC>
@@ -200,7 +200,7 @@ Hahaha!<$FFFC>
 It's time for your lifeforce to be harvested!<$FFFE>
 Guwaaah!<$FFFE>
 Well, it seems they got some wits after all.<$FFFC>
-Those obnoxious kids from Elthlied!<$FFFE>
+Those obnoxious kids from Elthlead!<$FFFE>
 What!?<$FFFC>
 The enemy is targeting us!<$FFFE>
 There's no escaping us!<$FFFC>

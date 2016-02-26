@@ -31,7 +31,7 @@ Gel Child<$FFFF>
 Gel Taro<$FFFF>
 Super Gel<$FFFF>
 -Exterminate Gel<$FFFE>
--Death of Diehärte<$FFFE>
+-Death of [diehardt's name]<$FFFE>
 <$FFFC>
 The Story of the Gel's House<$FFFC>
 <$FFFE>

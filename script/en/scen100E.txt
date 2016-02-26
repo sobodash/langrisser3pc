@@ -1,4 +1,4 @@
-Langrisser III dumper [0x326cae to 0x32718f]
+﻿Langrisser III dumper [0x326cae to 0x32718f]
 
 Cyber Warrior X
 
@@ -21,7 +21,7 @@ Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Emperor Paul<$FFFF>
+Kaiser Paul<$FFFF>
 Field Marshal Geier<$FFFF>
  <$FFFC>
 Scenario ~ 30<$FFFC>
@@ -31,12 +31,12 @@ At Varna's death, Altemüller takes away Alhazard in a rage of fury<$FFFC>
 to exact his revenge on the Rigüler Empire.<$FFFC>
 As the chase after Altemüller is about to commence,<$FFFE>
 a report of an attack from the Barral Kingdom comes in.<$FFFE>
-Being startled by the unfolding events, Diehärte decides that protecting the citizens of Neref is a more urgent matter at hand.<$FFFE>
+Being startled by the unfolding events, [diehardt's name] decides that protecting the citizens of Neref is a more urgent matter at hand.<$FFFE>
 *Conditions of Victory<$FFFC>
  -Defeat all enemies<$FFFC>
 *Conditions of Defeat<$FFFC>
- -Death of Diehärte<$FFFC>
- -Destruction of the floodgate<$FFFE>
+ -Death of [diehardt's name]<$FFFC>
+ -Destruction of the Floodgate<$FFFE>
 Rigüler Castle ~ Audience Hall<$FFFF>
 How!<$FFFC>
 Can this really be true!?<$FFFE>

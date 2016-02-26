@@ -26,18 +26,18 @@ Scenario ~ 36<$FFFC>
 "The Birth of a Legend"<$FFFE>
 After the division strikes down Demon General Geier<$FFFC>
 and begins descending into the deeper parts of Castle Velzeria,<$FFFC>
-they are welcomed by an eerie light bearing ill omen undoubtedly.<$FFFC>
+the companions are welcomed by an eerie light bearing ill omen undoubtedly.<$FFFC>
 From the inner part Paul's voice can be heard,<$FFFC>
 offering up ceremonial chants to the God of Chaos. <$FFFE>
 Should the ceremony be completed,<$FFFC>
 not only would the Demonic God terrorize the world again<$FFFC>
 but also would her soul fall into eternal darkness.<$FFFC>
-And so the battle for Diehärte's beloved<$FFFC>
-and the fate of all mankind unfolded.<$FFFE>
+And so the battle for [diehardt's name]'s beloved<$FFFC>
+and the fate of all mankind unfolds.<$FFFE>
 
 
 *Condition for Victory<$FFFC>
   Defeat Böser within 17 turns<$FFFC>
 * Conditions for Defeat<$FFFC>
   Death of [diehardt's name]<$FFFC>
-  Death of the hostage<$FFFE>
+  Death of the Hostage<$FFFE>

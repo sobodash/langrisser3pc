@@ -1,4 +1,4 @@
-Langrisser III dumper [0x3949b2 to 0x394f8b]
+﻿Langrisser III dumper [0x3949b2 to 0x394f8b]
 
 Cyber Warrior X
 
@@ -21,7 +21,7 @@ Do Kahni<$FFFF>
 Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
-Emperor Christ<$FFFF>
+Kaiser Kleist<$FFFF>
 Field Marshal Altemüller<$FFFF>
 First prince Paul<$FFFF>
 Barral Commander<$FFFF>

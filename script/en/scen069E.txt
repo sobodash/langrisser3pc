@@ -1,4 +1,4 @@
-Langrisser III dumper [0x273292 to 0x273927]
+﻿Langrisser III dumper [0x273292 to 0x273927]
 
 Cyber Warrior X
 
@@ -22,10 +22,10 @@ Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Field Marshal Altemüller<$FFFF>
-Emperor Christ<$FFFF>
+Kaiser Kleist<$FFFF>
 Imperial First Prince Paul<$FFFF>
 General Varna<$FFFF>
-Rigüler Castle ~ Emperor Christ's Sickroom<$FFFF>
+Rigüler Castle ~ Kaiser Kleist's Sickroom<$FFFF>
 With the demonic cannon out of the picture, our main army shouldn't be necessary, but....<$FFFE>
 A local lord, Lord Raymond, has gathered an army stronger than we suspected, and sorely pressed our troops there.<$FFFE>
 Also, an enigmatic black knight has appeared in the small country of Barral, inflicting massive damage on his own.<$FFFE>
@@ -36,7 +36,7 @@ I trust you will use it well.....<$FFFE>
 Yes, sir!<$FFFE>
 ......Hmmph.<$FFFE>
 If you'll excuse me, I'll return to my work.<$FFFE>
-After seeing how ill the Emperor is, I was forced to remember how we lost the last emperor.<$FFFC>
+After seeing how ill the Kaiser is, I was forced to remember how we lost the last Kaiser.<$FFFC>
 But somehow, it doesn't seem like quite the same illness.<$FFFE>
 Yes, I was thinking the same thing.<$FFFC>
 Those symptoms are the same shown by my father in his final years.<$FFFC>
@@ -44,10 +44,10 @@ But, I don't think it is an ordinary illness.<$FFFE>
 But even the doctor said he'd never seen the like of that illness, so he didn't know how he could help.....<$FFFC>
 I have to wonder whether it's not at illness at all, but rather poison.....<$FFFE>
 Hmm!?<$FFFC>
-But if that's the case, could it be that someone poisoned the last emperor, too!<$FFFC>
-If the Emperor should die, the one who has the most to gain....<$FFFE>
-Emperor Christ IV's successor is that Imperial First Prince, Paul.....<$FFFE>
-If that's so, could it be that this punk, Paul, has poisoned the Emperor!?<$FFFE>
+But if that's the case, could it be that someone poisoned the last Kaiser, too!<$FFFC>
+If the Kaiser should die, the one who has the most to gain....<$FFFE>
+Kaiser Kleist IV's successor is that Imperial First Prince, Paul.....<$FFFE>
+If that's so, could it be that this punk, Paul, has poisoned the Kaiser!?<$FFFE>
 Varna, that's a dangerous thing to say.<$FFFC>
 Nowhere have we seen evidence for this proposed poisoning.<$FFFE>
 Even I don't think Father died from an ordinary illness.....<$FFFC>

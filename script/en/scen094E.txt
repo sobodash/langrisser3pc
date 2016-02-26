@@ -1,4 +1,4 @@
-Langrisser III dumper [0x305b54 to 0x306b54]
+﻿Langrisser III dumper [0x305b54 to 0x306b54]
 
 Cyber Warrior X
 
@@ -26,7 +26,7 @@ Shapeshiftress Ferakia<$FFFF>
 <$FFFC>
 Scenario ~ 27<$FFFC>
 "Shapeshiftress Ferakia"<$FFFE>
-Ferakia's attempt to throw Elthlied into chaos by taking<$FFFC>
+Ferakia's attempt to throw Elthlead into chaos by taking<$FFFC>
 the form of a royal claimant was easily seen through<$FFFC>
 thanks to the power of the holy sword, the Langrisser.<$FFFE>
 [diehardt's name] and company have taken this<$FFFC>

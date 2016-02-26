@@ -1,4 +1,4 @@
-Langrisser III dumper [0xd77ae to 0xd8fcb]
+﻿Langrisser III dumper [0xd77ae to 0xd8fcb]
 
 Cyber Warrior X
 
@@ -25,10 +25,10 @@ General Emaillink<$FFFF>
 Rigüler Commander<$FFFF>
 Monster<$FFFF>
 -Defeat all enemies<$FFFE>
-Death of Diehärte<$FFFE>
-Imperial Base along the Rigüler ~ Elthlied National Border<$FFFF>
+Death of [diehardt's name]<$FFFE>
+Imperial Base along the Rigüler ~ Elthlead National Border<$FFFF>
 It has been some time since our main troops has set out...<$FFFD>
-I wonder if Altemüller is engaging the Elthlied troops in combat already.<$FFFE>
+I wonder if Altemüller is engaging the Elthlead troops in combat already.<$FFFE>
 Lord Emaillink!<$FFFC>
 The enemy is here!<$FFFE>
 What!?<$FFFE>
@@ -138,7 +138,7 @@ But...<$FFFE>
 Leave those demons to us!<$FFFC>
 We'll follow up as soon as they are dead.<$FFFE>
 ...I'm sorry.<$FFFE>
-I swear by my life that we'll throw down the demons and Elthlied's troops!<$FFFC>
+I swear by my life that we'll throw down the demons and Elthlead's troops!<$FFFC>
 Now, Hurry!<$FFFE>
 Keh, forgive me!<$FFFE>
 If we get the chance we'll fall back to the supply unit too.<$FFFC>

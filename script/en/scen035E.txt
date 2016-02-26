@@ -1,4 +1,4 @@
-Langrisser III dumper [0x17a50a to 0x17d33b]
+﻿Langrisser III dumper [0x17a50a to 0x17d33b]
 
 Cyber Warrior X
 
@@ -157,7 +157,7 @@ Hahahaha....<$FFFE>
 Hold it right there, Emaillink!<$FFFE>
 If you make one more step towards lord Böser I won't hesitate to cut you down.<$FFFE>
 Please hear me out Varna.<$FFFE>
-The reason for me to support Elthlied is to save his Excellency.<$FFFE>
+The reason for me to support Elthlead is to save his Excellency.<$FFFE>
 To save...his Excellency?<$FFFE>
 Exactly.<$FFFC>
 Right now his Excellency is no longer himself.<$FFFE>

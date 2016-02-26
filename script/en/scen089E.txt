@@ -1,4 +1,4 @@
-Langrisser III dumper [0x2e7f96 to 0x2e87bf]
+﻿Langrisser III dumper [0x2e7f96 to 0x2e87bf]
 
 Cyber Warrior X
 
@@ -23,17 +23,17 @@ Varna<$FFFF>
 Emaillink<$FFFF>
 King Sieghart<$FFFF>
 Field Marshal Altemüller<$FFFF>
-Elthlied Soldier<$FFFF>
+Elthlead Soldier<$FFFF>
 Böser<$FFFF>
 Necromancer Grove<$FFFF>
 Shapeshiftress Ferakia<$FFFF>
-Elthlied's Royal Capitol, Larcussia ~ Audience Hall<$FFFF>
-For now, we of Elthlied and the Rigüler Empire shall agree to a cease-fire until the defeat of Velzeria.<$FFFE>
-Elthlied has barely even been established as a country.<$FFFC>
+Elthlead's Royal Capitol, Larcussia ~ Audience Hall<$FFFF>
+For now, we of Elthlead and the Rigüler Empire shall agree to a cease-fire until the defeat of Velzeria.<$FFFE>
+Elthlead has barely even been established as a country.<$FFFC>
 Right now we'd rather focus our efforts on settling our internal affairs than on fighting.<$FFFE>
 We of the Empire are in the same boat.<$FFFC>
 These monsters of Velzeria have even dared to invade the Empire.<$FFFE>
-And with the recent death of our Emperor, the administration is in a state of instability.<$FFFC>
+And with the recent death of our Kaiser, the administration is in a state of instability.<$FFFC>
 So, neither of us have the luxury of ignoring this mutual problem posed by Velzeria.<$FFFE>
 As things stand now, it is mutually beneficial to formalize this truce.<$FFFE>
 With that done, I bid you farewell.<$FFFE>
@@ -73,8 +73,8 @@ Altemüller's very existence has become a hindrance to our plans.<$FFFE>
 Grove!<$FFFC>
 Hurry up the assassination of this pest!<$FFFE>
 Yes, my lord!<$FFFE>
-Now, what to do about Elthlied....<$FFFE>
-Lord Böser, please let me deal with Elthlied.<$FFFE>
+Now, what to do about Elthlead....<$FFFE>
+Lord Böser, please let me deal with Elthlead.<$FFFE>
 Ferakia...<$FFFC>
 Very well, I shall leave it to you.<$FFFE>
 <$FFFF>

@@ -1,4 +1,4 @@
-Langrisser III dumper [0x158b62 to 0x15c167]
+﻿Langrisser III dumper [0x158b62 to 0x15c167]
 
 Cyber Warrior X
 
@@ -31,26 +31,26 @@ King Wilder$FFFF>
 Wilder<$FFFF>
 Dark Knight<$FFFF>
 Geriord<$FFFF>
-Elthlied Commander<$FFFF>
+Elthlead Commander<$FFFF>
 Defeat Wilder<$FFFE>
 Death of [diehardt's name]<$FFFE>
 Barral Royal Castle<$FFFF>
 Your majesty.<$FFFC>
-The Elthlied troops has breached our borders.<$FFFE>
+The Elthlead troops has breached our borders.<$FFFE>
 What happened to Flaire?<$FFFE>
 Concerning that matter.<$FFFC>
-Seemingly she has allied with the Elthlied troops.<<$FFFE>
+Seemingly she has allied with the Elthlead troops.<<$FFFE>
 What?<$FFFC>
 Flaire has betrayed me?<$FFFE>
 I'm afraid it seems that way...<$FFFE>
 They surely will come here directly.<$FFFC>
 Neglect all other duties, defending the castle takes top priority for all available troops!<$FFFE>
-In order to stop the Elthlied invasion she lost her life on the battlefield....<$FFFE>
+In order to stop the Elthlead invasion she lost her life on the battlefield....<$FFFE>
 ...So she is dead.<$FFFC>
 Well, I didn't expect much to begin with.<$FFFD>
 But I cannot believe that the Dark Knight has fallen.<$FFFE>
 With both the Dark Knight and the princess dead<$FFFD>
-Elthlied can march right to our doorstep.<$FFFE>
+Elthlead can march right to our doorstep.<$FFFE>
 Understood.<$FFFC>
 Neglect all other duties defending the castle takes top priority for all available troops!<$FFFE>
 Yessir!<$FFFE>
@@ -83,7 +83,7 @@ You worthless idiots have permitted the enemy to advance this far!?<$FFFD>
 Archmages destroy the bridges leading to the towers, this should slow down the enemy considerately.<$FFFC>
 After that shower the enemy with your spells!<$FFFE>
 Yessir!<$FFFE>
-This party is the elite unit of the Elthlied troops.<$FFFC>
+This party is the elite unit of the Elthlead troops.<$FFFC>
 As soon as this bunch is dealt with we will be the strongest indisputably,<$FFFD>
 nothing on the continent will rival the might of the Barral Kingdom!<$FFFE>
 But, the princess...<$FFFE>
@@ -292,7 +292,7 @@ But we cannot let ourselves being defeated here.<$FFFC>
 Not after all the was we came.<$FFFE>
 The leader of a nation must always think of his people first or his county is doomed.<$FFFE>
 But my only concern are my people.<$FFFC>
-For instance I will put the fertile lands of Elthlied to good use for them!<$FFFE>
+For instance I will put the fertile lands of Elthlead to good use for them!<$FFFE>
 Uuh!<$FFFC>
 Dammit you won't get away with this!<$FFFE>
 Feel my anger!<$FFFC>

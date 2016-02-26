@@ -1,4 +1,4 @@
-Langrisser III dumper [0xe5b46 to 0xe723f]
+﻿Langrisser III dumper [0xe5b46 to 0xe723f]
 
 Cyber Warrior X
 
@@ -26,9 +26,9 @@ Villager<$FFFF>
 Necromancer Grove<$FFFF>
 Velzerian Commander<$FFFF>
 -Destroy the enemy<$FFFE>
--Death of Diehärte<$FFFC>
+-Death of [diehardt's name]<$FFFC>
 -Death of all Villagers<$FFFE>
-Village on the Velzeria - Elthlied Border<$FFFF>
+Village on the Velzeria - Elthlead Border<$FFFF>
 GOGAAAHHH!<$FFFE>
 Uwaaah!<$FFFE>
 BOOOOOHHH!<$FFFE>
@@ -84,7 +84,7 @@ How horrible.<$FFFC>
 The villagers are being chased tom their death.<$FFFD>
 We have to help them.<$FFFE>
 All of you, hurry up and make your escape to the west!<$FFFE>
-Elthlied soldiers have come!?<$FFFC>
+Elthlead soldiers have come!?<$FFFC>
 We are saved!<$FFFE>
 Leave it to us!<$FFFC>
 We'll make sure that y'all be safe!<$FFFE>

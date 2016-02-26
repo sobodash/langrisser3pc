@@ -38,7 +38,7 @@ High Elf<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
 Ballista<$FFFF>
-J„ger<$FFFF>
+Jäger<$FFFF>
 Elf<$FFFF>
 Crossbow<$FFFF>
 Ballista<$FFFF>
@@ -47,15 +47,15 @@ Crossbow<$FFFF>
 Ballista<$FFFF>
 Witch<$FFFF>
 Slinger<$FFFF>
-Angoramora<$FFFF>
-Centauros<$FFFF>
-Hapirusagu<$FFFF>
-Angoramora<$FFFF>
-Centauros<$FFFF>
-Hapirusagu<$FFFF>
-Angoramora<$FFFF>
-Centauros<$FFFF>
-Hapirusagu<$FFFF>
+Sagitigris<$FFFF>
+Centaur<$FFFF>
+Hapilsag<$FFFF>
+Sagitigris<$FFFF>
+Centaur<$FFFF>
+Hapilsag<$FFFF>
+Sagitigris<$FFFF>
+Centaur<$FFFF>
+Hapilsag<$FFFF>
 Undine<$FFFF>
 Merman<$FFFF>
 Archelon<$FFFF>
@@ -72,7 +72,7 @@ Archelon<$FFFF>
 Lizardman<$FFFF>
 Killer Lobster<$FFFF>
 Tentacle<$FFFF>
-Shika Gaeru<$FFFF>
+Shika Frog<$FFFF>
 Shika Shark<$FFFF>
 Shika Orca<$FFFF>
 Lancer<$FFFF>
@@ -110,7 +110,7 @@ Phalanx<$FFFF>
 Bone Golem<$FFFF>
 Puppet<$FFFF>
 Mad Golem<$FFFF>
-Bamboo<$FFFF>
+Bamboomen<$FFFF>
 Faerie<$FFFF>
 Harpy<$FFFF>
 Gryphon<$FFFF>

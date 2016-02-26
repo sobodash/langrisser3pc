@@ -22,7 +22,7 @@ Spear<$FFFF>
 Robber<$FFFF>
 Demon Soldier<$FFFF>
 Demon Soldier<$FFFF>
-Mazoku<$FFFF>
+Demon Tribe<$FFFF>
 Ghost<$FFFF>
 Immortal<$FFFF>
 Gel<$FFFF>
