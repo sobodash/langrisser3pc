@@ -182,7 +182,7 @@ W..Why...<$FFFE>
 Khe!<$FFFC>
 What a pain!<$FFFE>
 Urgg!<$FFFE>
-Guuaaa!>
+Guuaaa!<$FFFE>
 Not..yet..<$FFFE>
 Defeat tastes oh so bitter...<$FFFE>
 Guuurg!<$FFFE>

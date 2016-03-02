@@ -22,7 +22,7 @@ Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Citizen<$FFFF>
-General Geier$FFFF>
+General Geier<$FFFF>
 Imperial Commander<$FFFF>
 Gilbert<$FFFF>
 Rigüler Commander<$FFFF>

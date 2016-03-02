@@ -38,7 +38,7 @@ King Wilder's insanity as well?<$FFFE>
 To uncover the truth the division<$FFFC>
 makes its way to the<$FFFC>
 Kingdom of Barral.<$FFFE>
-* Victory condition$FFFC>
+* Victory condition<$FFFC>
  -Defeat or persuade Flaire<$FFFC>
 * Victory condition<$FFFC>
  -Death of [diehardt's name]<$FFFE>

@@ -24,15 +24,15 @@ Emaillink<$FFFF>
 Villager<$FFFF>
 Gilbert<$FFFF>
 Grove<$FFFF>
-Coty$FFFF>
+Coty<$FFFF>
 Monster<$FFFF>
 -Defeat Necromancer Grove<$FFFE>
--Death of [diehardt's name]$FFFC>
+-Death of [diehardt's name]<$FFFC>
 -Death of all Villagers<$FFFE>
 Ransch Village ~ Blademaster Gilbert's house<$FFFF>
 I'm sorry.<$FFFC>
 After all the way we've come here....<$FFFE>
-Don't worry about it.FFFC>
+Don't worry about it.<FFFC>
 It couldn't be helped.<$FFFE>
 !?<$FFFD>
 There are coming strange noises from the back of the village.<$FFFE>

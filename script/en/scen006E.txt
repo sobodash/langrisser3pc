@@ -290,7 +290,7 @@ So there was an ambush after all.<$FFFC>
 If it weren't for Luna's warning this could have gotten pretty bad.<$FFFE>
 Thank you Luna.<$FFFC>
 You really saved us.<$FFFE>
-Not at all...this was nothing to take note of...
+Not at all...this was nothing to take note of...<$FFFE>
 This is the end of your road!<$FFFE>
 Hah...<$FFFC>
 Prepare to taste the power of one of the four imperial Generals.<$FFFD>
@@ -326,4 +326,4 @@ We came to borrow the power of the famous master strategist Torrand for the said
 Oh, lord Raymond you say.<$FFFD>
 Your journey must have been long and arduous.<$FFFC>
 Tell me all the details after you made yourself at home in my mansion.<$FFFE>
-<$FFFF>
+

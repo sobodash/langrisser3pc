@@ -141,7 +141,7 @@ That stone cross through time.<$FFFC>
 Past, present, future, all become one with it.<$FFFE>
 What do you reply?<$FFFE>
 I see<$FFFE>
-May I have it$FFFE>
+May I have it<$FFFE>
 I doubt that<$FFFE>
 I see.<$FFFC>
 That certainly sounds miraculous...<$FFFE>

@@ -57,7 +57,7 @@ We still don't know the exact method to use this.<$FFFC>
 Yeah, I think it's kinda hopeless.<$FFFC>
 Do you want to try to focus your mind as instructed?<$FFFD>
 Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$fe><$14>Åd<$FFFE>
-Altem¸ller's Private Chamber$FFFF>
+Altem¸ller's Private Chamber<$FFFF>
 Your Excellency!<$FFFE>
 Your injury has yet to heal entirely, your Excellency.<$FFFD>
 Please be patient a little longer...<$FFFE>
