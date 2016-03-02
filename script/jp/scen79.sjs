@@ -28,8 +28,7 @@ Cyber Warrior X
 ファーナ将軍<$FFFF>
 奪取した飛空艇<$FFFF>
 これでルインさんのお父上を取り戻せるんですね？<$FFFE>
-ええ。<$FFFB>
-<$FFFC>
+ええ。<$FFFB><$FFFC>
 ですが‥‥。<$FFFE>
 大丈夫だよ！<$FFFC>
 きっとうまくいくから！<$FFFE>

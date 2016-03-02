@@ -160,4 +160,3 @@ Cyber Warrior X
 ‥‥さあ、[diehardt's name]。<$FFFC>
 あたし達も急ぎましょう！<$FFFE>
 よし！<$FFFE>
-<$FFFF>

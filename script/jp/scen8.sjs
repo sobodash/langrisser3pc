@@ -1,4 +1,4 @@
-Langrisser III dumper [0x49080 to 0x4a5a5]
+Langrisser III dumper [0x49080 to 0x4a5a7]
 
 Cyber Warrior X
 
@@ -215,4 +215,3 @@ Cyber Warrior X
 これより移動を開始します！<$FFFE>
 気をつけるのですよ！<$FFFE>
 はっ！<$FFFE>
-<$FFFF>

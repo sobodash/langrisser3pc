@@ -307,8 +307,7 @@ Cyber Warrior X
 私は父の命令に従っているだけよ。<$FFFE>
 姫様！<$FFFD>
 島に伏せた部隊が全滅したようです！<$FFFE>
-‥‥さすが[diehardt's name]ね。<$FFFB>
-<$FFFC>
+‥‥さすが[diehardt's name]ね。<$FFFB><$FFFC>
 敵に回したくはなかったわ‥‥。<$FFFE>
 姫‥様‥‥？<$FFFE>
 いや、何でもない。<$FFFD>

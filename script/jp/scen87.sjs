@@ -38,8 +38,7 @@ Cyber Warrior X
 きっと、ゲート自体に問題が‥‥。<$FFFE>
 ねぇ、[diehardt's name]！<$FFFC>
 あなたは誰が正しいと思う？<$FFFE>
-えっ！？<$FFFB>
-<$FFFC>
+えっ！？<$FFFB><$FFFC>
 そ、そうだな‥‥。<$FFFE>
 誰だと答えますか？<$FFFE>
 ティアリスだ。<$FFFE>
@@ -67,8 +66,7 @@ Cyber Warrior X
 う～ん。<$FFFC>
 難しいな‥‥。<$FFFD>
 ルナ、君はどう思う？<$FFFE>
-‥‥‥‥。<$FFFB>
-<$FFFC>
+‥‥‥‥。<$FFFB><$FFFC>
 魔族だって何かしら対抗策を考えているのでしょう。<$FFFE>
 ‥‥だそうだ。<$FFFE>
 ‥‥‥‥。<$FFFE>
@@ -99,5 +97,4 @@ Cyber Warrior X
 すでに別動隊にも伝令が向かっております。<$FFFE>
 何、帝国の輩か！？<$FFFE>
 ジェシカ殿、拙者は急がねばならぬ。<$FFFC>
-先礼！<$FFFE>
-<$FFFF>
+失礼！<$FFFE>

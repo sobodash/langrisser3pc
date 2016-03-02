@@ -1,4 +1,4 @@
-Langrisser III dumper [0x305b54 to 0x306b54]
+Langrisser III dumper [0x305b54 to 0x3064c3]
 
 Cyber Warrior X
 
@@ -44,16 +44,14 @@ Cyber Warrior X
 白山城～１５年前～<$FFFF>
 むっ！<$FFFE>
 邪魔立て無用！<$FFFE>
-ええいっ！<$FFFB>
-<$FFFC>
+ええいっ！<$FFFB><$FFFC>
 奥義、疾風斬っ！<$FFFE>
 殿っ！<$FFFD>
 殿っ！<$FFFC>
 ご返事をっ！<$FFFE>
 うぅ‥‥、<$FFFC>
 ぐ、ぐふっ！<$FFFE>
-あっはっはっ！<$FFFB>
-<$FFFC>
+あっはっはっ！<$FFFB><$FFFC>
 これでこの国もおしまいだねぇ！<$FFFE>
 む、無念‥‥<$FFFE>
 殿！<$FFFE>
@@ -67,13 +65,13 @@ Cyber Warrior X
 もうこの国はおしまいだし、あんた一人生きていてもどうしようもないからね！<$FFFE>
 殿‥‥申し訳ござらん！<$FFFE>
 殿がせっかく時間をくれたと言うのに、拙者は妻のお鈴や一人息子の小太郎も守りきれず、そのうえ殿までも守れんとは‥‥。<$FFFE>
-‥<$fe><$3c>‥<$fe><$3c>‥<$fe><$3c>殿、<$fe><$3c><$FFFC>
+‥<$FE3C>‥<$FE3C>‥<$FE3C>殿、<$FE3C><$FFFC>
 この霧風めが腹を斬るには、今しばらくの時間を頂きたい。<$FFFE>
 あの女妖術師を討ち、殿の仇を討つまでは、生き恥をさらす事をお許し下さい！<$FFFE>
 ヴェルゼリアへの道程<$FFFF>
-‥<$fe><$3c>‥<$fe><$3c>‥<$fe><$3c>‥<$fe><$3c>‥<$fe><$3c>。<$FFFE>
+‥<$FE3C>‥<$FE3C>‥<$FE3C>‥<$FE3C>‥<$FE3C>。<$FFFE>
 どうしたんだ、霧風？<$FFFE>
-‥<$fe><$3c>‥<$fe><$3c>‥<$fe><$3c>‥<$fe><$3c>はっ、<$FFFC>
+‥<$FE3C>‥<$FE3C>‥<$FE3C>‥<$FE3C>はっ、<$FFFC>
 いや、何でもござらん。<$FFFD>
 少し昔を思い出していただけでござるよ。<$FFFD>
 ‥‥それにしても寒くなってきた。<$FFFC>

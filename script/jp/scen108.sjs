@@ -115,6 +115,5 @@ Cyber Warrior X
 絶対に、勝ちましょう！<$FFFE>
 ああ！<$FFFE>
 ‥‥父上。<$FFFC>
-見ていて下さい。<$FFFB>
-<$FFFC>
+見ていて下さい。<$FFFB><$FFFC>
 絶対に勝ってみせます！<$FFFE>

@@ -34,4 +34,3 @@ Cyber Warrior X
 ・レディン、およびエルウィンの撃破<$FFFC>
 ＊敗北条件<$FFFC>
 ・[diehardt's name]の死亡<$FFFE>
-<$FFFF>

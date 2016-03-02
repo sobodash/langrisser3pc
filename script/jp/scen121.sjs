@@ -33,4 +33,3 @@ Cyber Warrior X
 ・アルテミュラーの撃破<$FFFC>
 ＊敗北条件<$FFFC>
 ・誰１人撃破されてはいけない<$FFFE>
-<$FFFF>
