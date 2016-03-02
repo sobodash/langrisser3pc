@@ -162,7 +162,7 @@ What a fail!<$FFFC>
 I'm sorry, Diehärte!<$FFFE>
 This is the end....<$FFFE>
 Master Olver!<$FFFE>
-Curses!FFFC>
+Curses!<$FFFC>
 We couldn't save him!<$FFFE>
 Hahaha!<$FFFC>
 Hmm, that went rather well.<$FFFC>
