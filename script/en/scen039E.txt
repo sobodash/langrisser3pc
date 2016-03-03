@@ -293,7 +293,7 @@ That would've been Böser!<$FFFE>
 Perhaps this question is a bit difficult, but try your best to answer it.<$FFFD>
 What happened to the Langrisser at the end of our story?<$FFFE>
 What happened to the holy blade?<$FFFE>
-It disappeared along with Alhazard$FFFE>
+It disappeared along with Alhazard<$FFFE>
 It was sealed again.<$FFFE>
 It was returned to the goddess<$FFFE>
 It disappeared along with Alhazard<$FFFD>
@@ -305,7 +305,7 @@ Protection Fruit was obtained!<$FFFE>
 That is correct.<$FFFC>
 You prove to be quiet knowledgeable after all.<$FFFE>
 I guess It was sealed again...<$FFFE>
-I It was returned to the goddess...FFFE>
+I It was returned to the goddess...<FFFE>
 Time for my question!<$FFFC>
 I'm a princess, but which Kingdom do I come from?<$FFFE>
 Where's Cherie a princess?<$FFFE>

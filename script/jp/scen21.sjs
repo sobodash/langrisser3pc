@@ -132,4 +132,3 @@ Cyber Warrior X
 中央を突破されたとは、まずいな‥‥。<$FFFE>
 船尾隊が‥‥。<$FFFC>
 バカな！<$FFFE>
-<$FFFF>

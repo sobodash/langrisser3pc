@@ -38,7 +38,7 @@ Cyber Warrior X
 　・[diehardt's name]の死亡<$FFFC>
 　・ボルツが飛空艇に到達<$FFFE>
 ラーカシア区域防衛用基地付近の飛空艇乗り場<$FFFF>
-‥<$fe><$28>‥<$fe><$f>‥<$fe><$f>。<$FFFC>
+‥<$FE28>‥<$FE0F>‥<$FE0F>。<$FFFC>
 全員の脱出までに、まだかかるな。<$FFFE>
 連中はすぐにでも追ってくるだろう。<$FFFC>
 何とか時間稼ぎしねぇとな。<$FFFE>

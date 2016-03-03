@@ -30,7 +30,7 @@ Princess Flaire<$FFFF>
 Mysterious man<$FFFF>
 Colcian General<$FFFF>
 Colcian Soldier<$FFFF>
-In front of the Royal Capitol Larcussia$FFFF>
+In front of the Royal Capitol Larcussia<$FFFF>
  <$FFFE>
  <$FFFE>
  <$FFFE>

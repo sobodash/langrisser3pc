@@ -22,7 +22,7 @@ Altemüller<$FFFF>
 Varna<$FFFF>
 Emaillink<$FFFF>
 Barral Commander<$FFFF>
-Princess Flaire$FFFF>
+Princess Flaire<$FFFF>
 -Defeat Princess Flaire<$FFFE>
 -Death of [diehardt's name]<$FFFE>
 Railym presently under Barral's rule<$FFFF>
@@ -213,6 +213,6 @@ You had your chance to run!<$FFFC>
 Now, prepare to breath your last breath!<$FFFE>
 I must take full responsibility for all the soldiers that died today!<$FFFE>
 The enemy has made their move, prepare countermeasures!<$FFFE>
-Be careful out there!$FFFE>
+Be careful out there!<$FFFE>
 Yessir!<$FFFE>
 <$FFFF>

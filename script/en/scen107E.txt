@@ -628,7 +628,7 @@ Kyu,kyuu,kyuuu!<$FFFC>
 This has to be a dream...<$FFFC>
 I'm sleeping on some fluffy cotton-clouds...<$FFFD>
 Good night, Jügler....<$FFFE>
-Gurguruu..!FFFC>
+Gurguruu..!<$FFFC>
 （You feel something heavy laying on you!<$FFFC>
 It's too hot, you can't breath!）<$FFFD>
 ............<$FFFC>

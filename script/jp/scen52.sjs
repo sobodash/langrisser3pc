@@ -36,8 +36,7 @@ Cyber Warrior X
 ＊敗北条件<$FFFC>
 　・[diehardt's name]の死亡<$FFFE>
 リグリア帝国～バーラル王国の国境付近<$FFFF>
-[diehardt's name]様。<$FFFB>
-<$FFFC>
+[diehardt's name]様。<$FFFB><$FFFC>
 もうすぐ敵の前線基地です。<$FFFE>
 わかった。<$FFFD>
 まずは男爵に教えていただいた策を実行しよう。<$FFFD>
@@ -49,10 +48,7 @@ Cyber Warrior X
 でも、どうやって両国を戦わせるのですか？<$FFFE>
 この先に帝国軍とバーラル軍がにらみ合う国境があります。<$FFFD>
 そこへ同時に攻め込み、両軍をおびき出して、戦わせるのです。<$FFFE>
-そうか！<$FFFB>
-<$FFFC>
+そうか！<$FFFB><$FFFC>
 お互いの軍が攻め込んできたと思わせりゃいいんだ！<$FFFE>
-そういうことだ。<$FFFB>
-<$FFFC>
+そういうことだ。<$FFFB><$FFFC>
 行くぞ、みんな！<$FFFE>
-<$FFFF>

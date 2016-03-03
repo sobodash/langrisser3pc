@@ -26,8 +26,8 @@ Knight Geriord<$FFFF>
 Larcuss Commander<$FFFF>
 Duke William<$FFFF>
 Rigüler Commander<$FFFF>
-General Varna$FFFF>
-Field Marshal Altemüller$FFFF>
+General Varna<$FFFF>
+Field Marshal Altemüller<$FFFF>
 -Defeat all enemies<$FFFE>
 -Death of [diehardt's name]<$FFFE>
 The Floating Castle<$FFFF>

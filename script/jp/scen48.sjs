@@ -34,4 +34,3 @@ Cyber Warrior X
 –”s–kğŒ<$FFFC>
 @E[diehardt's name]‚Ì€–S<$FFFC>
 @E‚m‚o‚b‚Ì‘S–Å<$FFFE>
-<$FFFF>

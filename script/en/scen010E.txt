@@ -97,7 +97,7 @@ The fog has cleared up.<$FFFC>
 Now we can do battle unhindered!<$FFFC>
 Let the affaire d'honneur commence, [diehardt's name]!<$FFFE>
 It would be my pleasure!<$FFFE>
-The fog has cleared up.$FFFD>
+The fog has cleared up.<$FFFD>
 After those pests are dealt with,<$FFFC>
 we shall conclude our affaire d'honneur, [diehardt's name]！<$FFFE>
 Sure thing!<$FFFE>

@@ -1,7 +1,8 @@
-Langrisser III dumper [0x28703c to 0x2874bf]
+Langrisser III dumper [0x287030 to 0x2874bf]
 
 Cyber Warrior X
 
+ディハルト<$FFFF>
 ティアリス<$FFFF>
 リファニー<$FFFF>
 ルナ<$FFFF>
@@ -52,4 +53,3 @@ Cyber Warrior X
 わかりました。<$FFFC>
 将軍がそう申されるなら不安はありません。<$FFFE>
 ではその助っ人が来るまで、精いっぱい戦うとしましょう！<$FFFE>
-<$FFFF>

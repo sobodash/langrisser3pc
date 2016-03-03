@@ -38,4 +38,3 @@ Cyber Warrior X
 ＊敗北条件<$FFFC>
 　・[diehardt's name]の死亡<$FFFC>
 　・トーランドの死亡<$FFFE>
-<$FFFF>

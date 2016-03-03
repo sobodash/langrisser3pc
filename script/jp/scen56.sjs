@@ -43,4 +43,3 @@ Cyber Warrior X
 　・ド・カーニの撃破<$FFFC>
 ＊敗北条件<$FFFC>
 　・[diehardt's name]の死亡<$FFFE>
-<$FFFF>

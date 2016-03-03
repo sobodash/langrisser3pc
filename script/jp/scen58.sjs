@@ -32,4 +32,3 @@ Cyber Warrior X
 　・敵の全滅<$FFFC>
 ＊敗北条件<$FFFC>
 　・[diehardt's name]の死亡<$FFFE>
-<$FFFF>

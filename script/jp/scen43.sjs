@@ -71,6 +71,5 @@ Cyber Warrior X
 ‥‥‥。<$FFFD>
 先に行ってて。<$FFFC>
 すぐに追いつくから‥‥。<$FFFE>
-‥‥‥パパ。<$FFFB>
-<$FFFC>
+‥‥‥パパ。<$FFFB><$FFFC>
 さようなら‥‥。<$FFFE>

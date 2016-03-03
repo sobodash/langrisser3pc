@@ -53,8 +53,7 @@ Cyber Warrior X
 対空攻撃を強化。<$FFFC>
 先程と同じに撃ち墜とせ。<$FFFD>
 何度来ても無駄だという事を思い知らせてやれ。<$FFFE>
-発光信号‥‥。<$FFFB>
-<$FFFC>
+発光信号‥‥。<$FFFB><$FFFC>
 ‥‥ふむ‥‥。<$FFFD>
 何、何‥‥！？<$FFFC>
 油を‥まかれた、だと‥‥。<$FFFC>
@@ -62,13 +61,11 @@ Cyber Warrior X
 いかん！<$FFFC>
 急いで退かせろ！<$FFFE>
 かかったな‥‥。<$FFFC>
-もう逃れられんぞ。<$FFFB>
-<$FFFC>
+もう逃れられんぞ。<$FFFB><$FFFC>
 今だ！<$FFFC>
 火矢を放て！<$FFFE>
 弓隊！<$FFFC>
-一斉射撃用意！<$FFFB>
-<$FFFC>
+一斉射撃用意！<$FFFB><$FFFC>
 射てーーーっ！<$FFFE>
 はっ！<$FFFC>
 ３号艇炎上！<$FFFC>
@@ -101,4 +98,3 @@ Cyber Warrior X
 ついでだから腕慣らしといくよ！<$FFFC>
 さあ、お前たち、思う存分戦いな！<$FFFE>
 ＧＯＨＨＨＨＨ！<$FFFE>
-<$FFFF>

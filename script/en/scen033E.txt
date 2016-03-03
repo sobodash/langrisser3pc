@@ -27,7 +27,7 @@ Princess Flaire<$FFFF>
 Jessica<$FFFF>
 Gilbert<$FFFF>
 Do Kahni<$FFFF>
-King Wilder$FFFF>
+King Wilder<$FFFF>
 Wilder<$FFFF>
 Dark Knight<$FFFF>
 Geriord<$FFFF>

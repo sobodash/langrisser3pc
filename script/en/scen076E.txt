@@ -34,7 +34,7 @@ Laffel, they soon found themselves faced with the problem posed<$FFFC>
 by the cruel slaughter of the main troops.<$FFFE>
 Without a doubt, they now had to defeat the Empire's magically<$FFFC>
 propelled giant soldier and rescue Lord Raymond.<$FFFE>
-*Condition for Victory
+*Condition for Victory<$FFFC>
  -Defeat both General Bortz and the<$FFFC>
  magically-propelled giant soldier, Galshook<$FFFC>
 *Condition for Defeat<$FFFC>

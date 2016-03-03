@@ -105,4 +105,3 @@ Cyber Warrior X
 は、はい‥‥。<$FFFE>
 俺は本当のことを言ったまでじゃないか。<$FFFE>
 ヒ、ヒドイですわっ！<$FFFE>
-<$FFFF>

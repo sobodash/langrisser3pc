@@ -263,4 +263,3 @@ Cyber Warrior X
 ジェシカ殿の。<$FFFC>
 ‥‥わかった。<$FFFC>
 よろしく頼むぞ。<$FFFE>
-<$FFFF>

@@ -45,7 +45,7 @@ Cyber Warrior X
 ４号艇に続き、６号、７号艇も轟沈！<$FFFC>
 このままでは‥‥。<$FFFE>
 ググググ‥‥。<$FFFC>
-‥<$fe><$28>‥<$fe><$f>退<$fe><$f>‥<$fe><$f>却<$fe><$f>‥する。<$FFFE>
+‥<$FE28>‥<$FE0F>退<$FE0F>‥<$FE0F>却<$FE0F>‥する。<$FFFE>
 残りの艇に伝令を回せ！<$FFFC>
 全艇退却する！<$FFFE>
 はっ！<$FFFE>

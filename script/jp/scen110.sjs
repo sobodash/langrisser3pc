@@ -37,7 +37,7 @@ Cyber Warrior X
 余をこのような目に遭わせた奴が、憎い！<$FFFC>
 この世界すら、全てが憎い！<$FFFE>
 パウルよ‥‥。<$FFFC>
-　<$fe><$82>　<$fe><$82>　<$fe><$82>　<$fe><$82>　<$fe><$82>　<$FFFC>
+　<$FE82>　<$FE82>　<$FE82>　<$FE82>　<$FE82>　<$FFFC>
 パウルよ‥‥。<$FFFE>
 誰だ、余を呼ぶのは？<$FFFE>
 我が名はカオス。<$FFFC>
@@ -182,4 +182,3 @@ Cyber Warrior X
 　・魔将軍ガイエルの撃破<$FFFC>
 ＊敗北条件<$FFFC>
 　・[diehardt's name]の死亡<$FFFE>
-<$FFFF>

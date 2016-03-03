@@ -86,4 +86,3 @@ Cyber Warrior X
 おっしゃる通りです。<$FFFE>
 さて、我々も攻撃に移るとしよう。<$FFFE>
 はっ！<$FFFE>
-<$FFFF>

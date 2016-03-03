@@ -1,3 +1,7 @@
+Langrisser III dumper [0xce to 0x7d0f]
+
+Cyber Warrior X
+
 –½—ß<$FFFF>
 @<$FFFF>
 í“¬ŠJn<$FFFF>

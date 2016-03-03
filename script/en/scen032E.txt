@@ -24,14 +24,14 @@ Emaillink<$FFFF>
 Princess Flaire<$FFFF>
 Barral Commander<$FFFF>
 Jessica<$FFFF>
-Defeat or persuade Flaire$FFFE>
+Defeat or persuade Flaire<$FFFE>
 Death of [diehardt's name]<$FFFE>
 Barral Kingdom ~ Defensive Position<$FFFF>
 ...I still can't believe it.<$FFFC>
 How could the Dark Knight be defeated?<$FFFE>
 When I received the report I couldn't believe my ears.<$FFFC>
 I too thought the Dark Knight to be unbeatable...<$FFFE>
-Princess! The enemy has appeared!FFFC>
+Princess! The enemy has appeared!<FFFC>
 After all it seems to be the truth that the Dark Knight has fallen.<$FFFE>
 Don't panic!<$FFFC>
 Our defence here has never crumbled before.<$FFFC>

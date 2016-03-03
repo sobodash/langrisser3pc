@@ -64,4 +64,3 @@ Cyber Warrior X
 どうやら本気のようだな。<$FFFC>
 やってみるがいい。<$FFFE>
 ‥‥閣下。<$FFFE>
-<$FFFF>

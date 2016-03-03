@@ -221,4 +221,3 @@ Cyber Warrior X
 早くお会いしてみたいですわ。<$FFFE>
 隊長！<$FFFC>
 居ました、ここです！<$FFFE>
-<$FFFF>
